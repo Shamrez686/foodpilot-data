@@ -2,7 +2,7 @@
  "schema": 1,
  "country": "US",
  "currency": "USD",
- "dataVersion": "2026-11",
+ "dataVersion": "2026-11.3",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
@@ -555,7 +555,8 @@
    "name": "Pork sausages",
    "aliases": [
     "sausage",
-    "sausages"
+    "sausages",
+    "chicken sausage"
    ],
    "category": "Meat & Protein",
    "pack": {
@@ -733,7 +734,8 @@
     "canned tomatoes",
     "chopped tomatoes",
     "diced tomatoes",
-    "tinned tomatoes"
+    "tinned tomatoes",
+    "crushed tomatoes"
    ],
    "category": "Canned Goods",
    "pack": {
@@ -813,7 +815,6 @@
    "name": "Stock cubes",
    "aliases": [
     "stock",
-    "broth",
     "chicken stock",
     "beef stock",
     "bouillon",
@@ -825,6 +826,24 @@
     "unit": "count"
    },
    "price": 1.49,
+   "local": false
+  },
+  {
+   "id": "broth",
+   "name": "Broth (carton)",
+   "aliases": [
+    "broth",
+    "chicken broth",
+    "beef broth",
+    "vegetable broth",
+    "stock carton"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 32,
+    "unit": "fl oz"
+   },
+   "price": 2.49,
    "local": false
   },
   {
@@ -1350,6 +1369,21 @@
    "local": false
   },
   {
+   "id": "blueberries",
+   "name": "Blueberries",
+   "aliases": [
+    "blueberries",
+    "blueberry"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 11,
+    "unit": "oz"
+   },
+   "price": 3.99,
+   "local": false
+  },
+  {
    "id": "potatoes",
    "name": "Potatoes",
    "aliases": [
@@ -1528,6 +1562,20 @@
    "local": false
   },
   {
+   "id": "kale",
+   "name": "Kale",
+   "aliases": [
+    "kale"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 1.99,
+   "local": false
+  },
+  {
    "id": "bell-peppers",
    "name": "Bell peppers",
    "aliases": [
@@ -1592,6 +1640,22 @@
    "local": false
   },
   {
+   "id": "coleslaw-mix",
+   "name": "Coleslaw mix",
+   "aliases": [
+    "coleslaw mix",
+    "coleslaw",
+    "shredded cabbage"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 14,
+    "unit": "oz"
+   },
+   "price": 1.99,
+   "local": false
+  },
+  {
    "id": "mushrooms",
    "name": "Mushrooms",
    "aliases": [
@@ -1624,7 +1688,7 @@
   },
   {
    "id": "celery",
-   "name": "Celery",
+   "name": "Celery (bunch, about 1 lb)",
    "aliases": [
     "celery",
     "sellerie"
@@ -1632,7 +1696,7 @@
    "category": "Produce",
    "pack": {
     "qty": 1,
-    "unit": "count"
+    "unit": "lb"
    },
    "price": 1.99,
    "local": false

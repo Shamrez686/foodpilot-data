@@ -556,7 +556,8 @@
    "name": "Pork sausages",
    "aliases": [
     "sausage",
-    "sausages"
+    "sausages",
+    "chicken sausage"
    ],
    "category": "Meat & Protein",
    "pack": {
@@ -734,7 +735,8 @@
     "canned tomatoes",
     "chopped tomatoes",
     "diced tomatoes",
-    "tinned tomatoes"
+    "tinned tomatoes",
+    "crushed tomatoes"
    ],
    "category": "Canned Goods",
    "pack": {
@@ -818,7 +820,10 @@
     "chicken stock",
     "beef stock",
     "bouillon",
-    "bruhe"
+    "bruhe",
+    "chicken broth",
+    "beef broth",
+    "vegetable broth"
    ],
    "category": "Spices & Oils",
    "pack": {
