@@ -2,12 +2,13 @@
  "schema": 1,
  "country": "AU",
  "currency": "AUD",
- "dataVersion": "2026-11.2",
+ "dataVersion": "2026-11.3",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
   "Hand-estimated from public Australian supermarket shelf prices; state multipliers.",
-  "Not live prices. To be refreshed monthly."
+  "Not live prices. To be refreshed monthly.",
+  "Checked 21 Nov 2026 against Tesco price-match list (24 Nov), Statistics Canada averages (lowtein, 19 Nov), Coles/Woolworths (weeklyshop.au, 18 Nov), Aldi/Lidl/Rewe receipts and offers (Nov), NAMC Sep 2026 and PMBEJD Oct 2026 food baskets"
  ],
  "items": [
   {
@@ -90,7 +91,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 7.5,
+   "price": 7.7,
    "local": false
   },
   {
@@ -121,7 +122,7 @@
     "qty": 125,
     "unit": "g"
    },
-   "price": 4.5,
+   "price": 2.5,
    "local": false
   },
   {
@@ -155,7 +156,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 5.0,
+   "price": 7.0,
    "local": false
   },
   {
@@ -174,7 +175,7 @@
     "qty": 300,
     "unit": "ml"
    },
-   "price": 2.9,
+   "price": 3.2,
    "local": false
   },
   {
@@ -240,7 +241,7 @@
     "qty": 8,
     "unit": "count"
    },
-   "price": 3.5,
+   "price": 2.5,
    "local": false
   },
   {
@@ -320,7 +321,7 @@
     "qty": 750,
     "unit": "g"
    },
-   "price": 1.6,
+   "price": 2.5,
    "local": false
   },
   {
@@ -354,7 +355,7 @@
     "qty": 2,
     "unit": "kg"
    },
-   "price": 2.8,
+   "price": 3.5,
    "local": false
   },
   {
@@ -646,7 +647,7 @@
     "qty": 95,
     "unit": "g"
    },
-   "price": 1.5,
+   "price": 1.2,
    "local": false
   },
   {
@@ -692,7 +693,7 @@
     "qty": 400,
     "unit": "g"
    },
-   "price": 1.0,
+   "price": 0.95,
    "local": false
   },
   {
@@ -709,7 +710,7 @@
     "qty": 400,
     "unit": "g"
    },
-   "price": 1.0,
+   "price": 0.9,
    "local": false
   },
   {
@@ -740,7 +741,7 @@
     "qty": 400,
     "unit": "g"
    },
-   "price": 1.0,
+   "price": 0.95,
    "local": false
   },
   {
@@ -756,7 +757,7 @@
     "qty": 140,
     "unit": "g"
    },
-   "price": 1.2,
+   "price": 1.0,
    "local": false
   },
   {
@@ -790,7 +791,7 @@
     "qty": 420,
     "unit": "g"
    },
-   "price": 1.6,
+   "price": 1.0,
    "local": false
   },
   {
@@ -805,7 +806,7 @@
     "qty": 400,
     "unit": "ml"
    },
-   "price": 1.8,
+   "price": 1.7,
    "local": false
   },
   {
@@ -840,7 +841,7 @@
     "qty": 750,
     "unit": "ml"
    },
-   "price": 10.0,
+   "price": 12.5,
    "local": false
   },
   {
@@ -874,7 +875,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 1.0,
+   "price": 1.5,
    "local": false
   },
   {
@@ -1021,7 +1022,7 @@
     "qty": 250,
     "unit": "ml"
    },
-   "price": 2.5,
+   "price": 1.5,
    "local": false
   },
   {
@@ -1145,7 +1146,7 @@
     "qty": 125,
     "unit": "g"
    },
-   "price": 2.0,
+   "price": 2.85,
    "local": false
   },
   {
@@ -1284,7 +1285,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 3.9,
+   "price": 4.2,
    "local": false
   },
   {
@@ -1364,7 +1365,7 @@
     "qty": 2,
     "unit": "kg"
    },
-   "price": 4.5,
+   "price": 5.5,
    "local": false
   },
   {
@@ -1430,7 +1431,7 @@
     "qty": 200,
     "unit": "g"
    },
-   "price": 3.0,
+   "price": 6.6,
    "local": false
   },
   {
@@ -1544,7 +1545,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 9.0,
+   "price": 11.9,
    "local": false
   },
   {
@@ -1559,7 +1560,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 6.9,
+   "price": 8.9,
    "local": false
   },
   {
@@ -1606,7 +1607,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 6.0,
+   "price": 7.0,
    "local": false
   },
   {
@@ -1621,7 +1622,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 5.9,
+   "price": 6.9,
    "local": false
   },
   {
@@ -1683,7 +1684,7 @@
     "qty": 1,
     "unit": "count"
    },
-   "price": 2.5,
+   "price": 3.0,
    "local": false
   },
   {
@@ -1734,7 +1735,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 3.5,
+   "price": 2.5,
    "local": false
   },
   {

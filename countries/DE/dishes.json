@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "country": "DE",
- "dataVersion": "2026-11.2",
+ "dataVersion": "2026-11.3",
  "dishes": [
   {
    "id": "de-schnitzel",

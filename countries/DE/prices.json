@@ -2,12 +2,13 @@
  "schema": 1,
  "country": "DE",
  "currency": "EUR",
- "dataVersion": "2026-11.2",
+ "dataVersion": "2026-11.3",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
   "Hand-estimated from public German supermarket/discounter shelf prices.",
-  "Not live prices. To be refreshed monthly."
+  "Not live prices. To be refreshed monthly.",
+  "Checked 21 Nov 2026 against Tesco price-match list (24 Nov), Statistics Canada averages (lowtein, 19 Nov), Coles/Woolworths (weeklyshop.au, 18 Nov), Aldi/Lidl/Rewe receipts and offers (Nov), NAMC Sep 2026 and PMBEJD Oct 2026 food baskets"
  ],
  "items": [
   {
@@ -155,7 +156,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 0.89,
+   "price": 0.99,
    "local": false
   },
   {
@@ -174,7 +175,7 @@
     "qty": 200,
     "unit": "ml"
    },
-   "price": 0.89,
+   "price": 0.99,
    "local": false
   },
   {
@@ -207,7 +208,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 1.29,
+   "price": 1.49,
    "local": false
   },
   {
@@ -337,7 +338,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 0.65,
+   "price": 0.59,
    "local": false
   },
   {
@@ -354,7 +355,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 1.09,
+   "price": 0.99,
    "local": false
   },
   {
@@ -418,7 +419,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 9.99,
+   "price": 8.99,
    "local": false
   },
   {
@@ -466,7 +467,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 4.49,
+   "price": 3.99,
    "local": false
   },
   {
@@ -531,7 +532,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 3.49,
+   "price": 2.49,
    "local": false
   },
   {
@@ -1238,7 +1239,7 @@
     "qty": 1,
     "unit": "l"
    },
-   "price": 1.39,
+   "price": 1.59,
    "local": false
   },
   {
@@ -1269,7 +1270,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 2.49,
+   "price": 2.29,
    "local": false
   },
   {
@@ -1364,7 +1365,7 @@
     "qty": 2.5,
     "unit": "kg"
    },
-   "price": 3.49,
+   "price": 2.49,
    "local": false
   },
   {
@@ -1493,7 +1494,7 @@
     "qty": 1,
     "unit": "count"
    },
-   "price": 0.79,
+   "price": 0.89,
    "local": false
   },
   {
@@ -2264,7 +2265,7 @@
     "qty": 2.5,
     "unit": "kg"
    },
-   "price": 3.49,
+   "price": 2.69,
    "local": true
   },
   {

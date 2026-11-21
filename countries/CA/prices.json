@@ -2,12 +2,13 @@
  "schema": 1,
  "country": "CA",
  "currency": "CAD",
- "dataVersion": "2026-11",
+ "dataVersion": "2026-11.3",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
   "Hand-estimated from public Canadian supermarket shelf prices and Statistics Canada averages; province multipliers.",
-  "Not live prices. To be refreshed monthly."
+  "Not live prices. To be refreshed monthly.",
+  "Checked 21 Nov 2026 against Tesco price-match list (24 Nov), Statistics Canada averages (lowtein, 19 Nov), Coles/Woolworths (weeklyshop.au, 18 Nov), Aldi/Lidl/Rewe receipts and offers (Nov), NAMC Sep 2026 and PMBEJD Oct 2026 food baskets"
  ],
  "items": [
   {
@@ -57,7 +58,7 @@
     "qty": 454,
     "unit": "g"
    },
-   "price": 5.99,
+   "price": 5.79,
    "local": false
   },
   {
@@ -73,7 +74,7 @@
     "qty": 12,
     "unit": "count"
    },
-   "price": 4.49,
+   "price": 4.79,
    "local": false
   },
   {
@@ -90,7 +91,7 @@
     "qty": 400,
     "unit": "g"
    },
-   "price": 6.49,
+   "price": 5.99,
    "local": false
   },
   {
@@ -155,7 +156,7 @@
     "qty": 750,
     "unit": "g"
    },
-   "price": 4.49,
+   "price": 4.99,
    "local": false
   },
   {
@@ -174,7 +175,7 @@
     "qty": 473,
     "unit": "ml"
    },
-   "price": 3.99,
+   "price": 2.99,
    "local": false
   },
   {
@@ -288,7 +289,7 @@
     "qty": 2,
     "unit": "kg"
    },
-   "price": 5.99,
+   "price": 6.99,
    "local": false
   },
   {
@@ -418,7 +419,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 14.99,
+   "price": 14.49,
    "local": false
   },
   {
@@ -433,7 +434,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 10.99,
+   "price": 12.99,
    "local": false
   },
   {
@@ -466,7 +467,7 @@
     "qty": 454,
     "unit": "g"
    },
-   "price": 6.99,
+   "price": 7.49,
    "local": false
   },
   {
@@ -483,7 +484,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 30.0,
+   "price": 34.99,
    "local": false
   },
   {
@@ -501,7 +502,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 19.99,
+   "price": 22.99,
    "local": false
   },
   {
@@ -516,7 +517,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 11.99,
+   "price": 9.29,
    "local": false
   },
   {
@@ -547,7 +548,7 @@
     "qty": 375,
     "unit": "g"
    },
-   "price": 6.99,
+   "price": 5.99,
    "local": false
   },
   {
@@ -610,7 +611,7 @@
     "qty": 454,
     "unit": "g"
    },
-   "price": 13.99,
+   "price": 12.99,
    "local": false
   },
   {
@@ -1269,7 +1270,7 @@
     "qty": 1.36,
     "unit": "kg"
    },
-   "price": 4.99,
+   "price": 5.99,
    "local": false
   },
   {
@@ -1333,7 +1334,7 @@
     "qty": 1,
     "unit": "lb"
    },
-   "price": 4.4,
+   "price": 3.49,
    "local": false
   },
   {
@@ -1348,7 +1349,7 @@
     "qty": 454,
     "unit": "g"
    },
-   "price": 4.99,
+   "price": 4.49,
    "local": false
   },
   {
@@ -1364,7 +1365,7 @@
     "qty": 4.54,
     "unit": "kg"
    },
-   "price": 6.99,
+   "price": 5.49,
    "local": false
   },
   {
@@ -1399,7 +1400,7 @@
     "qty": 1.36,
     "unit": "kg"
    },
-   "price": 2.99,
+   "price": 3.99,
    "local": false
   },
   {
@@ -1462,7 +1463,7 @@
     "qty": 907,
     "unit": "g"
    },
-   "price": 1.99,
+   "price": 2.49,
    "local": false
   },
   {
@@ -1478,7 +1479,7 @@
     "qty": 1,
     "unit": "lb"
    },
-   "price": 2.49,
+   "price": 2.29,
    "local": false
   },
   {
@@ -1544,7 +1545,7 @@
     "qty": 3,
     "unit": "count"
    },
-   "price": 4.99,
+   "price": 3.49,
    "local": false
   },
   {
@@ -1606,7 +1607,7 @@
     "qty": 227,
     "unit": "g"
    },
-   "price": 2.99,
+   "price": 2.69,
    "local": false
   },
   {

@@ -2,12 +2,13 @@
  "schema": 1,
  "country": "ZA",
  "currency": "ZAR",
- "dataVersion": "2026-11.2",
+ "dataVersion": "2026-11.3",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
   "Hand-estimated from public South African supermarket shelf prices; province multipliers.",
-  "Not live prices. To be refreshed monthly."
+  "Not live prices. To be refreshed monthly.",
+  "Checked 21 Nov 2026 against Tesco price-match list (24 Nov), Statistics Canada averages (lowtein, 19 Nov), Coles/Woolworths (weeklyshop.au, 18 Nov), Aldi/Lidl/Rewe receipts and offers (Nov), NAMC Sep 2026 and PMBEJD Oct 2026 food baskets"
  ],
  "items": [
   {
@@ -24,7 +25,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 36.49,
+   "price": 34.99,
    "local": false
   },
   {
@@ -41,7 +42,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 35.49,
+   "price": 33.99,
    "local": false
   },
   {
@@ -73,7 +74,7 @@
     "qty": 18,
     "unit": "count"
    },
-   "price": 59.99,
+   "price": 54.99,
    "local": false
   },
   {
@@ -90,7 +91,7 @@
     "qty": 400,
     "unit": "g"
    },
-   "price": 69.99,
+   "price": 64.99,
    "local": false
   },
   {
@@ -224,7 +225,7 @@
     "qty": 700,
     "unit": "g"
    },
-   "price": 21.99,
+   "price": 17.99,
    "local": false
   },
   {
@@ -288,7 +289,7 @@
     "qty": 2,
     "unit": "kg"
    },
-   "price": 44.99,
+   "price": 39.99,
    "local": false
   },
   {
@@ -337,7 +338,7 @@
     "qty": 2.5,
     "unit": "kg"
    },
-   "price": 39.99,
+   "price": 34.99,
    "local": false
   },
   {
@@ -354,7 +355,7 @@
     "qty": 2.5,
     "unit": "kg"
    },
-   "price": 54.99,
+   "price": 64.99,
    "local": false
   },
   {
@@ -433,7 +434,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 79.99,
+   "price": 69.99,
    "local": false
   },
   {
@@ -466,7 +467,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 64.99,
+   "price": 61.99,
    "local": false
   },
   {
@@ -629,7 +630,7 @@
     "qty": 800,
     "unit": "g"
    },
-   "price": 89.99,
+   "price": 64.99,
    "local": false
   },
   {
@@ -723,7 +724,7 @@
     "qty": 410,
     "unit": "g"
    },
-   "price": 16.99,
+   "price": 15.49,
    "local": false
   },
   {
@@ -824,7 +825,7 @@
     "qty": 12,
     "unit": "count"
    },
-   "price": 19.99,
+   "price": 14.99,
    "local": false
   },
   {
@@ -858,7 +859,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 87.99,
+   "price": 74.99,
    "local": false
   },
   {
@@ -874,7 +875,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 12.99,
+   "price": 15.99,
    "local": false
   },
   {
@@ -938,7 +939,7 @@
     "qty": 100,
     "unit": "g"
    },
-   "price": 27.99,
+   "price": 14.99,
    "local": false
   },
   {
@@ -1113,7 +1114,7 @@
     "qty": 400,
     "unit": "g"
    },
-   "price": 34.99,
+   "price": 44.99,
    "local": false
   },
   {
@@ -1130,7 +1131,7 @@
     "qty": 450,
     "unit": "g"
    },
-   "price": 34.99,
+   "price": 26.99,
    "local": false
   },
   {
@@ -1191,7 +1192,7 @@
     "qty": 200,
     "unit": "g"
    },
-   "price": 84.99,
+   "price": 64.99,
    "local": false
   },
   {
@@ -1222,7 +1223,7 @@
     "qty": 100,
     "unit": "count"
    },
-   "price": 39.99,
+   "price": 49.99,
    "local": false
   },
   {
@@ -1284,7 +1285,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 24.99,
+   "price": 22.99,
    "local": false
   },
   {
@@ -1364,7 +1365,7 @@
     "qty": 2,
     "unit": "kg"
    },
-   "price": 39.99,
+   "price": 32.99,
    "local": false
   },
   {
@@ -1399,7 +1400,7 @@
     "qty": 2,
     "unit": "kg"
    },
-   "price": 29.99,
+   "price": 44.99,
    "local": false
   },
   {
@@ -1414,7 +1415,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 24.99,
+   "price": 32.99,
    "local": false
   },
   {
@@ -1462,7 +1463,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 19.99,
+   "price": 14.99,
    "local": false
   },
   {
@@ -1478,7 +1479,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 29.99,
+   "price": 26.99,
    "local": false
   },
   {
@@ -1526,7 +1527,7 @@
     "qty": 200,
     "unit": "g"
    },
-   "price": 24.99,
+   "price": 14.99,
    "local": false
   },
   {
@@ -1544,7 +1545,7 @@
     "qty": 3,
     "unit": "count"
    },
-   "price": 29.99,
+   "price": 19.99,
    "local": false
   },
   {
@@ -1590,7 +1591,7 @@
     "qty": 1,
     "unit": "count"
    },
-   "price": 19.99,
+   "price": 21.99,
    "local": false
   },
   {
@@ -1844,7 +1845,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 24.99,
+   "price": 17.99,
    "local": true
   },
   {
@@ -1874,7 +1875,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 109.99,
+   "price": 89.99,
    "local": true
   },
   {
@@ -2036,7 +2037,7 @@
     "qty": 2.5,
     "unit": "kg"
    },
-   "price": 39.99,
+   "price": 34.99,
    "local": true
   },
   {
@@ -2065,7 +2066,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 39.99,
+   "price": 32.99,
    "local": true
   },
   {
@@ -2111,7 +2112,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 16.99,
+   "price": 15.99,
    "local": true
   },
   {
@@ -2185,7 +2186,7 @@
     "qty": 250,
     "unit": "g"
    },
-   "price": 19.99,
+   "price": 11.99,
    "local": true
   },
   {
@@ -2200,7 +2201,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 69.99,
+   "price": 54.99,
    "local": true
   },
   {
@@ -2260,7 +2261,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 32.99,
+   "price": 28.99,
    "local": true
   },
   {
@@ -2292,7 +2293,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 39.99,
+   "price": 32.99,
    "local": true
   },
   {
@@ -2353,7 +2354,7 @@
     "qty": 450,
     "unit": "g"
    },
-   "price": 34.99,
+   "price": 24.99,
    "local": true
   },
   {
