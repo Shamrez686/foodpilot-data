@@ -2,7 +2,7 @@
  "schema": 1,
  "country": "DE",
  "currency": "EUR",
- "dataVersion": "2026-11",
+ "dataVersion": "2026-11.2",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
@@ -24,7 +24,7 @@
     "qty": 1,
     "unit": "l"
    },
-   "price": 1.09,
+   "price": 0.99,
    "local": false
   },
   {
@@ -41,7 +41,7 @@
     "qty": 1,
     "unit": "l"
    },
-   "price": 0.99,
+   "price": 0.89,
    "local": false
   },
   {
@@ -57,7 +57,7 @@
     "qty": 250,
     "unit": "g"
    },
-   "price": 2.29,
+   "price": 1.15,
    "local": false
   },
   {
@@ -73,7 +73,7 @@
     "qty": 10,
     "unit": "count"
    },
-   "price": 2.99,
+   "price": 2.69,
    "local": false
   },
   {

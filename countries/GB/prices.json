@@ -2,7 +2,7 @@
  "schema": 1,
  "country": "GB",
  "currency": "GBP",
- "dataVersion": "2026-11",
+ "dataVersion": "2026-11.2",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
@@ -57,7 +57,7 @@
     "qty": 250,
     "unit": "g"
    },
-   "price": 2.19,
+   "price": 1.99,
    "local": false
   },
   {
@@ -207,7 +207,7 @@
     "qty": 800,
     "unit": "g"
    },
-   "price": 1.39,
+   "price": 1.1,
    "local": false
   },
   {
@@ -224,7 +224,7 @@
     "qty": 800,
     "unit": "g"
    },
-   "price": 1.45,
+   "price": 1.2,
    "local": false
   },
   {
@@ -288,7 +288,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 1.65,
+   "price": 1.35,
    "local": false
   },
   {
@@ -337,7 +337,7 @@
     "qty": 1.5,
     "unit": "kg"
    },
-   "price": 0.9,
+   "price": 0.75,
    "local": false
   },
   {
@@ -547,7 +547,7 @@
     "qty": 300,
     "unit": "g"
    },
-   "price": 2.49,
+   "price": 1.89,
    "local": false
   },
   {
@@ -562,7 +562,7 @@
     "qty": 454,
     "unit": "g"
    },
-   "price": 2.75,
+   "price": 2.1,
    "local": false
   },
   {
@@ -740,7 +740,7 @@
     "qty": 400,
     "unit": "g"
    },
-   "price": 0.55,
+   "price": 0.45,
    "local": false
   },
   {
@@ -858,7 +858,7 @@
     "qty": 1,
     "unit": "l"
    },
-   "price": 1.75,
+   "price": 1.55,
    "local": false
   },
   {

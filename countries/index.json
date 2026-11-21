@@ -10,7 +10,7 @@
   {
    "code": "GB",
    "name": "United Kingdom",
-   "dataVersion": "2026-11"
+   "dataVersion": "2026-11.2"
   },
   {
    "code": "CA",
@@ -20,17 +20,17 @@
   {
    "code": "AU",
    "name": "Australia",
-   "dataVersion": "2026-11"
+   "dataVersion": "2026-11.2"
   },
   {
    "code": "DE",
    "name": "Germany",
-   "dataVersion": "2026-11"
+   "dataVersion": "2026-11.2"
   },
   {
    "code": "ZA",
    "name": "South Africa",
-   "dataVersion": "2026-11"
+   "dataVersion": "2026-11.2"
   }
  ]
 }

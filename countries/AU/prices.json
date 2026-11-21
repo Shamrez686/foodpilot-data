@@ -2,7 +2,7 @@
  "schema": 1,
  "country": "AU",
  "currency": "AUD",
- "dataVersion": "2026-11",
+ "dataVersion": "2026-11.2",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
@@ -24,7 +24,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 3.4,
+   "price": 3.55,
    "local": false
   },
   {
@@ -41,7 +41,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 3.4,
+   "price": 3.55,
    "local": false
   },
   {
@@ -57,7 +57,7 @@
     "qty": 250,
     "unit": "g"
    },
-   "price": 4.2,
+   "price": 4.5,
    "local": false
   },
   {
@@ -73,7 +73,7 @@
     "qty": 12,
     "unit": "count"
    },
-   "price": 6.8,
+   "price": 6.2,
    "local": false
   },
   {
@@ -255,7 +255,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 1.5,
+   "price": 0.9,
    "local": false
   },
   {
@@ -272,7 +272,7 @@
     "qty": 500,
     "unit": "g"
    },
-   "price": 1.5,
+   "price": 0.9,
    "local": false
   },
   {
@@ -288,7 +288,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 2.3,
+   "price": 1.8,
    "local": false
   },
   {
@@ -1399,7 +1399,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 2.9,
+   "price": 4.2,
    "local": false
   },
   {
@@ -1462,7 +1462,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 2.0,
+   "price": 2.5,
    "local": false
   },
   {
@@ -1478,7 +1478,7 @@
     "qty": 1,
     "unit": "kg"
    },
-   "price": 6.0,
+   "price": 7.9,
    "local": false
   },
   {

@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "country": "AU",
- "dataVersion": "2026-11",
+ "dataVersion": "2026-11.2",
  "dishes": [
   {
    "id": "au-snags-bbq",

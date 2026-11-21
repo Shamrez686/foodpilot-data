@@ -2,7 +2,7 @@
  "schema": 1,
  "country": "ZA",
  "currency": "ZAR",
- "dataVersion": "2026-11",
+ "dataVersion": "2026-11.2",
  "updated": "2026-11-21",
  "estimated": true,
  "sources": [
@@ -24,7 +24,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 34.99,
+   "price": 36.49,
    "local": false
   },
   {
@@ -41,7 +41,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 33.99,
+   "price": 35.49,
    "local": false
   },
   {
@@ -288,7 +288,7 @@
     "qty": 2,
     "unit": "kg"
    },
-   "price": 39.99,
+   "price": 44.99,
    "local": false
   },
   {
@@ -858,7 +858,7 @@
     "qty": 2,
     "unit": "l"
    },
-   "price": 64.99,
+   "price": 87.99,
    "local": false
   },
   {
