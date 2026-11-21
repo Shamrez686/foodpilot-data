@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "code": "GB",
+ "name": "United Kingdom",
+ "currency": "GBP",
+ "currencySymbol": "£",
+ "locale": "en-GB",
+ "language": "en",
+ "units": "metric",
+ "livePriceProvider": null,
+ "priceLabel": "Estimated price",
+ "defaultRegion": "rest",
+ "regions": [
+  {
+   "id": "london",
+   "name": "London",
+   "multiplier": 1.05,
+   "match": {
+    "localities": [
+     "London",
+     "City of London",
+     "Westminster",
+     "Greater London"
+    ],
+    "bbox": [
+     51.28,
+     -0.51,
+     51.69,
+     0.33
+    ]
+   }
+  },
+  {
+   "id": "rest",
+   "name": "Rest of UK",
+   "multiplier": 1.0,
+   "match": {
+    "default": true
+   }
+  }
+ ]
+}

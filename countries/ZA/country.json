@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "code": "ZA",
+ "name": "South Africa",
+ "currency": "ZAR",
+ "currencySymbol": "R",
+ "locale": "en-ZA",
+ "language": "en",
+ "units": "metric",
+ "livePriceProvider": null,
+ "priceLabel": "Estimated price",
+ "defaultRegion": "GP",
+ "regions": [
+  {
+   "id": "GP",
+   "name": "Gauteng",
+   "multiplier": 1.0,
+   "match": {
+    "admin1": [
+     "Gauteng"
+    ],
+    "codes": [
+     "GP"
+    ]
+   }
+  },
+  {
+   "id": "WC",
+   "name": "Western Cape",
+   "multiplier": 1.03,
+   "match": {
+    "admin1": [
+     "Western Cape"
+    ],
+    "codes": [
+     "WC"
+    ]
+   }
+  },
+  {
+   "id": "KZN",
+   "name": "KwaZulu-Natal",
+   "multiplier": 1.0,
+   "match": {
+    "admin1": [
+     "KwaZulu-Natal"
+    ],
+    "codes": [
+     "KZN",
+     "NL"
+    ]
+   }
+  },
+  {
+   "id": "EC",
+   "name": "Eastern Cape",
+   "multiplier": 1.02,
+   "match": {
+    "admin1": [
+     "Eastern Cape"
+    ],
+    "codes": [
+     "EC"
+    ]
+   }
+  },
+  {
+   "id": "rest",
+   "name": "Rest of South Africa",
+   "multiplier": 1.03,
+   "match": {
+    "default": true
+   }
+  }
+ ]
+}

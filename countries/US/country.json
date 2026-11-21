@@ -1,0 +1,23 @@
+{
+ "schema": 1,
+ "code": "US",
+ "name": "United States",
+ "currency": "USD",
+ "currencySymbol": "$",
+ "locale": "en-US",
+ "language": "en",
+ "units": "us",
+ "livePriceProvider": "kroger",
+ "priceLabel": "Estimated price",
+ "defaultRegion": "national",
+ "regions": [
+  {
+   "id": "national",
+   "name": "United States",
+   "multiplier": 1.0,
+   "match": {
+    "default": true
+   }
+  }
+ ]
+}

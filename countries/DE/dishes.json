@@ -1,0 +1,2010 @@
+{
+ "schema": 1,
+ "country": "DE",
+ "dataVersion": "2026-11",
+ "dishes": [
+  {
+   "id": "de-schnitzel",
+   "title": "Schweineschnitzel mit Bratkartoffeln",
+   "description": "Paniertes Schnitzel mit knusprigen Bratkartoffeln und Gurkensalat.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Klassiker"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pork schnitzel",
+     "displayName": "Schweineschnitzel",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eier",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "flour",
+     "displayName": "Mehl",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Paniermehl (Brot)",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "waxy potatoes",
+     "displayName": "Festkochende Kartoffeln",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "cucumber",
+     "displayName": "Gurke",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Öl",
+     "quantityPerServing": 1.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Zitrone",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Kartoffeln mit Schale 20 Minuten kochen, abkühlen lassen, schälen und in Scheiben schneiden.",
+    "Schnitzel dünn klopfen, salzen, in Mehl, verquirltem Ei und Bröseln wenden.",
+    "In heißem Öl 3 bis 4 Minuten pro Seite goldbraun braten, bis innen 71°C erreicht sind.",
+    "Kartoffeln mit Zwiebelwürfeln knusprig braten. Gurke hobeln und mit Essig, Salz und Öl anmachen.",
+    "Mit Zitronenspalten servieren."
+   ],
+   "emoji": "🥩",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-bratwurst-sauerkraut",
+   "title": "Bratwurst mit Sauerkraut und Kartoffelpüree",
+   "description": "Deftiger Klassiker.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Klassiker",
+    "Schnell"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "bratwurst",
+     "displayName": "Bratwurst",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "sauerkraut",
+     "displayName": "Sauerkraut",
+     "quantityPerServing": 130,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milch",
+     "quantityPerServing": 50,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "mustard",
+     "displayName": "Senf",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Kartoffeln schälen, 20 Minuten kochen und mit Milch und Butter zu Püree stampfen.",
+    "Sauerkraut mit etwas Wasser 15 Minuten erhitzen.",
+    "Bratwürste in der Pfanne 10 bis 12 Minuten rundum braten, bis innen 71°C erreicht sind.",
+    "Mit Senf servieren."
+   ],
+   "emoji": "🌭",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-currywurst",
+   "title": "Currywurst mit Pommes",
+   "description": "Berliner Imbiss-Klassiker zu Hause.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 25,
+   "baseServings": 2,
+   "tags": [
+    "Schnell",
+    "Berlin"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "bratwurst",
+     "displayName": "Bratwurst",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "currywurst sauce",
+     "displayName": "Currysauce",
+     "quantityPerServing": 60,
+     "unit": "ml",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Currypulver",
+     "quantityPerServing": 2.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "fries",
+     "displayName": "Pommes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Pommes nach Packungsangabe im Ofen backen.",
+    "Bratwurst braten, bis innen 71°C erreicht sind, dann in Scheiben schneiden.",
+    "Sauce erwärmen, über die Wurst geben und mit Currypulver bestäuben."
+   ],
+   "emoji": "🍟",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-kaesespaetzle",
+   "title": "Käsespätzle",
+   "description": "Spätzle mit geschmolzenem Käse und Röstzwiebeln.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Vegetarisch",
+    "Schwaben"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Eggs",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "spatzle",
+     "displayName": "Spätzle",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "emmentaler",
+     "displayName": "Emmentaler",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Spätzle nach Packung kochen und abgießen.",
+    "Zwiebeln in Ringen in Butter goldbraun braten.",
+    "Spätzle und geriebenen Käse schichtweise in eine Form geben, bei 200°C 10 Minuten überbacken und mit Zwiebeln bestreuen."
+   ],
+   "emoji": "🧀",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-gulasch",
+   "title": "Rindergulasch mit Nudeln",
+   "description": "Lang geschmortes Paprika-Gulasch.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 120,
+   "baseServings": 4,
+   "tags": [
+    "Schmorgericht"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "stewing beef",
+     "displayName": "Rindergulasch",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebeln",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "paprika",
+     "displayName": "Paprikapulver",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomato paste",
+     "displayName": "Tomatenmark",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Brühe",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "pasta",
+     "displayName": "Bandnudeln",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Öl",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Fleisch portionsweise in Öl scharf anbraten.",
+    "Zwiebeln dazugeben und 10 Minuten braten, Tomatenmark und Paprika kurz mitrösten.",
+    "Mit Brühe und 200 ml Wasser pro Portion ablöschen und zugedeckt 1,5 bis 2 Stunden schmoren, bis das Fleisch zart ist (mind. 71°C).",
+    "Mit Nudeln servieren."
+   ],
+   "emoji": "🍲",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-kartoffelsuppe",
+   "title": "Kartoffelsuppe mit Wiener Würstchen",
+   "description": "Sämige Suppe mit Würstchen.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Günstig"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Möhren",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "leek",
+     "displayName": "Lauch",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Brühe",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "wiener",
+     "displayName": "Wiener Würstchen",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "mixed herbs",
+     "displayName": "Majoran",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Gemüse würfeln und in etwas Öl andünsten.",
+    "Mit Brühe und 300 ml Wasser pro Portion 20 Minuten köcheln, mit Majoran würzen und teilweise pürieren.",
+    "Würstchen in Scheiben darin heiß werden lassen (74°C)."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-frikadellen",
+   "title": "Frikadellen mit Kartoffelsalat",
+   "description": "Hausgemachte Buletten und Kartoffelsalat.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Klassiker"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "hackfleisch",
+     "displayName": "Hackfleisch gemischt",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "brotchen",
+     "displayName": "Brötchen",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Ei",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "mustard",
+     "displayName": "Senf",
+     "quantityPerServing": 0.5,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "waxy potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "gherkins",
+     "displayName": "Gewürzgurken",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "mayonnaise",
+     "displayName": "Mayonnaise",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Öl",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Kartoffeln kochen, pellen, in Scheiben schneiden und mit Gurkenwürfeln, etwas Gurkenwasser und Mayonnaise mischen.",
+    "Eingeweichtes Brötchen ausdrücken, mit Hack, Ei, Zwiebel, Senf, Salz und Pfeffer verkneten.",
+    "Flache Frikadellen formen und in Öl 5 bis 6 Minuten pro Seite braten, bis innen 71°C erreicht sind."
+   ],
+   "emoji": "🍔",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-maultaschen",
+   "title": "Geschmälzte Maultaschen",
+   "description": "Maultaschen mit Zwiebeln und Ei aus der Pfanne.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 2,
+   "tags": [
+    "Schnell",
+    "Schwaben"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Eggs",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "maultaschen",
+     "displayName": "Maultaschen",
+     "quantityPerServing": 180,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eier",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Blattsalat",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Maultaschen in Scheiben schneiden.",
+    "Zwiebeln in Butter anbraten, Maultaschen dazugeben und goldbraun braten.",
+    "Verquirlte Eier darübergeben und stocken lassen. Mit Salat servieren."
+   ],
+   "emoji": "🥟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-kassler-sauerkraut",
+   "title": "Kassler mit Sauerkraut und Kartoffeln",
+   "description": "Herzhaft und schnell.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Klassiker"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "kassler",
+     "displayName": "Kassler",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "sauerkraut",
+     "displayName": "Sauerkraut",
+     "quantityPerServing": 130,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Kartoffeln 20 Minuten kochen.",
+    "Sauerkraut mit Zwiebel andünsten.",
+    "Kassler-Scheiben auf das Sauerkraut legen und zugedeckt 15 Minuten erhitzen (74°C)."
+   ],
+   "emoji": "🍖",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-rouladen-light",
+   "title": "Hähnchen-Geschnetzeltes mit Reis",
+   "description": "Cremiges Geschnetzeltes mit Champignons.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Schnell"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken breast",
+     "displayName": "Hähnchenbrust",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "mushrooms",
+     "displayName": "Champignons",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "cream",
+     "displayName": "Sahne",
+     "quantityPerServing": 50,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Brühe",
+     "quantityPerServing": 0.2,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Reis",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Öl",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Reis kochen.",
+    "Hähnchen in Streifen in Öl anbraten, herausnehmen.",
+    "Zwiebeln und Pilze braten, mit 80 ml Brühe pro Portion und Sahne ablöschen.",
+    "Fleisch zurückgeben und 5 Minuten köcheln, bis es 74°C erreicht."
+   ],
+   "emoji": "🍗",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-reibekuchen",
+   "title": "Reibekuchen mit Apfelmus",
+   "description": "Kartoffelpuffer aus dem Rheinland.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Vegetarisch",
+    "Günstig"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Eggs",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Ei",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "flour",
+     "displayName": "Mehl",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "apples",
+     "displayName": "Äpfel",
+     "quantityPerServing": 180,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "sugar",
+     "displayName": "Zucker",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Öl",
+     "quantityPerServing": 2,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Äpfel schälen, würfeln und mit wenig Wasser und Zucker 10 Minuten zu Mus kochen.",
+    "Kartoffeln und Zwiebel fein reiben, gut ausdrücken, mit Ei, Mehl und Salz mischen.",
+    "Flache Puffer in heißem Öl 3 bis 4 Minuten pro Seite knusprig braten."
+   ],
+   "emoji": "🥔",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-leberkaese",
+   "title": "Leberkäse mit Spiegelei",
+   "description": "Bayerisches Mittagessen.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 2,
+   "tags": [
+    "Bayern",
+    "Schnell"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "leberkase",
+     "displayName": "Leberkäse",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eier",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "waxy potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "mustard",
+     "displayName": "Süßer Senf",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Kartoffeln kochen und in Scheiben braten.",
+    "Leberkäse in dicken Scheiben 3 Minuten pro Seite braten (74°C).",
+    "Spiegeleier braten und alles mit Senf servieren."
+   ],
+   "emoji": "🍳",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-weisswurst-fruehstueck",
+   "title": "Brezel-Frühstück",
+   "description": "Brezeln mit Butter, Käse und Radieschen.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 0,
+   "baseServings": 2,
+   "tags": [
+    "Bayern"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pretzel",
+     "displayName": "Laugenbrezel",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "gouda",
+     "displayName": "Gouda",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "radishes",
+     "displayName": "Radieschen",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brezel aufschneiden, mit Butter bestreichen.",
+    "Mit Käse und Radieschen servieren."
+   ],
+   "emoji": "🥨",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-broetchen-fruehstueck",
+   "title": "Sonntagsfrühstück mit Brötchen",
+   "description": "Brötchen, Ei, Käse, Wurst und Marmelade.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 8,
+   "baseServings": 2,
+   "tags": [
+    "Wochenende"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Eggs",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "brotchen",
+     "displayName": "Brötchen",
+     "quantityPerServing": 2,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eier",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "gouda",
+     "displayName": "Gouda",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "salami",
+     "displayName": "Salami",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "jam",
+     "displayName": "Marmelade",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "coffee",
+     "displayName": "Kaffee",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Eier 7 Minuten kochen.",
+    "Brötchen kurz aufbacken.",
+    "Mit Butter, Käse, Wurst und Marmelade servieren."
+   ],
+   "emoji": "🥐",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-quark-fruechte",
+   "title": "Quark mit Früchten",
+   "description": "Eiweißreiches Frühstück.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Schnell"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "quark",
+     "displayName": "Magerquark",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "strawberries",
+     "displayName": "Erdbeeren",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "honey",
+     "displayName": "Honig",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "oats",
+     "displayName": "Haferflocken",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Quark glatt rühren, mit Früchten, Haferflocken und Honig toppen."
+   ],
+   "emoji": "🍓",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-pellkartoffeln-quark",
+   "title": "Pellkartoffeln mit Kräuterquark",
+   "description": "Einfach, günstig und gesund.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Günstig"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 300,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "quark",
+     "displayName": "Quark",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "fresh herbs",
+     "displayName": "Schnittlauch & Petersilie",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "rapeseed oil",
+     "displayName": "Leinöl oder Rapsöl",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": true
+    }
+   ],
+   "instructions": [
+    "Kartoffeln mit Schale 20 bis 25 Minuten kochen.",
+    "Quark mit etwas Milch, gehackten Kräutern, Salz und Pfeffer verrühren.",
+    "Kartoffeln pellen und mit Quark servieren."
+   ],
+   "emoji": "🥔",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-linseneintopf",
+   "title": "Linseneintopf mit Würstchen",
+   "description": "Deftiger Eintopf.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 40,
+   "baseServings": 4,
+   "tags": [
+    "Günstig",
+    "Eintopf"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "lentils",
+     "displayName": "Linsen",
+     "quantityPerServing": 70,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Möhren",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "leek",
+     "displayName": "Lauch",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "wiener",
+     "displayName": "Wiener Würstchen",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Brühe",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "vinegar",
+     "displayName": "Essig",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Gemüse würfeln und andünsten.",
+    "Linsen und Brühe mit 350 ml Wasser pro Portion zugeben, 30 Minuten köcheln.",
+    "Würstchen in Scheiben 5 Minuten mitkochen (74°C), mit Essig abschmecken."
+   ],
+   "emoji": "🍲",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-sauerbraten-schnell",
+   "title": "Hackbraten mit Rotkohl",
+   "description": "Saftiger Hackbraten mit Rotkohl und Klößen.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 60,
+   "baseServings": 6,
+   "tags": [
+    "Sonntag"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "hackfleisch",
+     "displayName": "Hackfleisch",
+     "quantityPerServing": 130,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Ei",
+     "quantityPerServing": 0.2,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "brotchen",
+     "displayName": "Brötchen",
+     "quantityPerServing": 0.2,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "red cabbage",
+     "displayName": "Rotkohl",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potato dumplings",
+     "displayName": "Kartoffelklöße",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Bratensauce (Brühe)",
+     "quantityPerServing": 0.2,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Ofen auf 180°C heizen. Hack mit Ei, eingeweichtem Brötchen, Zwiebel und Gewürzen verkneten, zu einem Laib formen.",
+    "Im Ofen 50 bis 60 Minuten backen, bis innen 71°C erreicht sind.",
+    "Rotkohl erhitzen und Klöße nach Packung zubereiten. Mit Sauce servieren."
+   ],
+   "emoji": "🍖",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-fischbroetchen",
+   "title": "Matjesbrötchen",
+   "description": "Norddeutscher Imbiss.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Norddeutsch",
+    "Schnell"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Fish",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "herring",
+     "displayName": "Matjes",
+     "quantityPerServing": 70,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "brotchen",
+     "displayName": "Brötchen",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebelringe",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "gherkins",
+     "displayName": "Gewürzgurke",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brötchen aufschneiden.",
+    "Mit Matjes, Zwiebelringen und Gurke belegen."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-lachs-gemuese",
+   "title": "Lachs mit Ofengemüse",
+   "description": "Ofenlachs mit Kartoffeln und Brokkoli.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Gesund"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Fish"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "salmon",
+     "displayName": "Lachsfilet",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "broccoli",
+     "displayName": "Brokkoli",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "olive oil",
+     "displayName": "Olivenöl",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Zitrone",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Ofen auf 200°C heizen. Kartoffelspalten mit Öl 15 Minuten backen.",
+    "Brokkoli und Lachs dazugeben und 12 bis 15 Minuten garen, bis der Lachs 63°C erreicht.",
+    "Mit Zitrone servieren."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-spargel",
+   "title": "Spargel mit Kartoffeln und Schinken",
+   "description": "Frühlingsklassiker in der Spargelzeit.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Saison"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "asparagus",
+     "displayName": "Spargel",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "ham",
+     "displayName": "Kochschinken",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Spargel schälen und in Salzwasser 12 bis 15 Minuten garen.",
+    "Kartoffeln kochen.",
+    "Mit zerlassener Butter und Schinken servieren."
+   ],
+   "emoji": "🌱",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-gruenkohl",
+   "title": "Grünkohl mit Kassler",
+   "description": "Norddeutsches Wintergericht.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 90,
+   "baseServings": 4,
+   "tags": [
+    "Winter",
+    "Norddeutsch"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "kale",
+     "displayName": "Grünkohl",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "kassler",
+     "displayName": "Kassler",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Zwiebel",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Brühe",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "mustard",
+     "displayName": "Senf",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Grünkohl waschen, hacken und mit Zwiebeln andünsten.",
+    "Mit Brühe und 150 ml Wasser pro Portion 60 Minuten schmoren.",
+    "Kassler darauf legen und 20 Minuten mitgaren (74°C). Mit Kartoffeln und Senf servieren."
+   ],
+   "emoji": "🥬",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-kohlrabi-schnitzel",
+   "title": "Kohlrabi-Gemüse mit Frikadellen",
+   "description": "Kohlrabi in heller Sauce.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Klassiker"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "kohlrabi",
+     "displayName": "Kohlrabi",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "flour",
+     "displayName": "Mehl",
+     "quantityPerServing": 8,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milch",
+     "quantityPerServing": 100,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "hackfleisch",
+     "displayName": "Hackfleisch",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Ei",
+     "quantityPerServing": 0.2,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Kartoffeln",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Kohlrabi würfeln und 10 Minuten in Salzwasser garen.",
+    "Butter schmelzen, Mehl einrühren, Milch und etwas Kochwasser zugeben, mit Muskat würzen, Kohlrabi hinein.",
+    "Hack mit Ei würzen, kleine Frikadellen braten bis 71°C. Mit Kartoffeln servieren."
+   ],
+   "emoji": "🥬",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-nudelsalat",
+   "title": "Nudelsalat",
+   "description": "Für Grillabende und Lunchbox.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 10,
+   "baseServings": 6,
+   "tags": [
+    "Lunchbox"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pasta",
+     "displayName": "Nudeln",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "wiener",
+     "displayName": "Fleischwurst",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "gherkins",
+     "displayName": "Gewürzgurken",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "corn",
+     "displayName": "Mais",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "mayonnaise",
+     "displayName": "Mayonnaise",
+     "quantityPerServing": 1.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "peas",
+     "displayName": "Erbsen",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Nudeln kochen und abschrecken.",
+    "Wurst und Gurken würfeln, mit Mais, Erbsen und Mayo unter die Nudeln heben.",
+    "Mit etwas Gurkenwasser abschmecken und kalt stellen."
+   ],
+   "emoji": "🥗",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-pfannkuchen",
+   "title": "Pfannkuchen mit Apfel",
+   "description": "Süßes Abendessen für Kinder.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Kinder",
+    "Süß"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Eggs",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "flour",
+     "displayName": "Mehl",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eier",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milch",
+     "quantityPerServing": 125,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "apples",
+     "displayName": "Äpfel",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "sugar",
+     "displayName": "Zucker",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "cinnamon",
+     "displayName": "Zimt",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Mehl, Eier, Milch und eine Prise Salz zu einem glatten Teig verrühren.",
+    "Apfelscheiben in Butter anbraten, Teig darübergießen und von beiden Seiten goldbraun backen.",
+    "Mit Zimt und Zucker bestreuen."
+   ],
+   "emoji": "🥞",
+   "supportedSlots": [
+    "DINNER",
+    "BREAKFAST"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "de-abendbrot",
+   "title": "Abendbrot",
+   "description": "Brot mit Aufschnitt, Käse und Gemüse.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 0,
+   "baseServings": 2,
+   "tags": [
+    "Ohne Kochen"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "rye bread",
+     "displayName": "Roggenbrot",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "salami",
+     "displayName": "Salami",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "leberwurst",
+     "displayName": "Leberwurst",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "butterkase",
+     "displayName": "Butterkäse",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomaten",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "gherkins",
+     "displayName": "Gewürzgurken",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brot schneiden und buttern.",
+    "Mit Wurst, Käse, Tomaten und Gurken anrichten."
+   ],
+   "emoji": "🍞",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "Deutsch",
+   "defaultFitReason": "optional"
+  }
+ ]
+}

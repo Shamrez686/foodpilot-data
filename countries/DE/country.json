@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "code": "DE",
+ "name": "Germany",
+ "currency": "EUR",
+ "currencySymbol": "€",
+ "locale": "de-DE",
+ "language": "de",
+ "units": "metric",
+ "livePriceProvider": null,
+ "priceLabel": "Estimated price",
+ "defaultRegion": "rest",
+ "regions": [
+  {
+   "id": "bigcity",
+   "name": "Großstadt (Berlin, Hamburg, München, Köln, Frankfurt)",
+   "multiplier": 1.03,
+   "match": {
+    "localities": [
+     "Berlin",
+     "Hamburg",
+     "München",
+     "Munich",
+     "Köln",
+     "Cologne",
+     "Frankfurt am Main",
+     "Frankfurt"
+    ]
+   }
+  },
+  {
+   "id": "rest",
+   "name": "Rest of Germany",
+   "multiplier": 1.0,
+   "match": {
+    "default": true
+   }
+  }
+ ]
+}

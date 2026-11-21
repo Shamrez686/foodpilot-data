@@ -1,0 +1,1899 @@
+{
+ "schema": 1,
+ "country": "CA",
+ "dataVersion": "2026-11",
+ "dishes": [
+  {
+   "id": "ca-poutine",
+   "title": "Poutine",
+   "description": "Oven fries with cheese curds and hot gravy.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Canadian Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "fries",
+     "displayName": "Fries",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "cheese curds",
+     "displayName": "Cheese curds",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "poutine gravy",
+     "displayName": "Poutine gravy",
+     "quantityPerServing": 8,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bake the fries according to the pack until crisp.",
+    "Whisk the gravy mix into 125 ml cold water per serving, then bring to the boil, stirring, until thick.",
+    "Pile fries in bowls, scatter the curds on top and pour over the hot gravy so they soften."
+   ],
+   "emoji": "🍟",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-tourtiere",
+   "title": "Tourtière",
+   "description": "Spiced pork pie from Quebec, served with green salad.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 60,
+   "baseServings": 6,
+   "tags": [
+    "Holiday",
+    "Quebec"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "tourtiere",
+     "displayName": "Tourtiere",
+     "quantityPerServing": 0.17,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "cranberry sauce",
+     "displayName": "Cranberry sauce",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 200°C. Bake the frozen tourtière 50 to 60 minutes until the crust is golden and the centre reaches 74°C.",
+    "Rest 10 minutes, slice and serve with salad and cranberry sauce."
+   ],
+   "emoji": "🥧",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-maple-salmon",
+   "title": "Maple Glazed Salmon",
+   "description": "Salmon baked with maple, soy and garlic.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "Quick",
+    "Healthy"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Fish",
+    "Soy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "salmon",
+     "displayName": "Salmon",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "maple syrup",
+     "displayName": "Maple syrup",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "soy sauce",
+     "displayName": "Soy sauce",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "green beans",
+     "displayName": "Green beans",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 200°C. Mix the maple syrup, soy sauce and crushed garlic.",
+    "Brush over the salmon and bake 12 to 15 minutes until it reaches 63°C.",
+    "Serve with cooked rice and steamed green beans."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-peameal-sandwich",
+   "title": "Peameal Bacon Sandwich",
+   "description": "Toronto's famous back-bacon bun with mustard.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 10,
+   "baseServings": 2,
+   "tags": [
+    "Quick",
+    "Toronto"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "peameal bacon",
+     "displayName": "Peameal bacon",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "bagels",
+     "displayName": "Bagels",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "mustard",
+     "displayName": "Mustard",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Slice the peameal bacon 1 cm thick and fry 3 to 4 minutes per side until it reaches 71°C.",
+    "Toast the bun or bagel, add mustard and pile on the bacon."
+   ],
+   "emoji": "🥪",
+   "supportedSlots": [
+    "LUNCH",
+    "BREAKFAST"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-pea-soup",
+   "title": "French Canadian Pea Soup",
+   "description": "Yellow split pea soup with ham.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 120,
+   "baseServings": 6,
+   "tags": [
+    "Budget",
+    "Quebec"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "split peas",
+     "displayName": "Split peas",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "ham",
+     "displayName": "Ham",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "celery",
+     "displayName": "Celery",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Rinse the peas and put them in a pot with 400 ml water per serving, diced ham, onion, carrot and celery.",
+    "Simmer gently 1.5 to 2 hours, stirring now and then, until the peas break down.",
+    "Season and serve."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-pancakes-maple",
+   "title": "Pancakes with Maple Syrup",
+   "description": "Fluffy pancakes with real maple syrup.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "Weekend"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Eggs",
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pancake mix",
+     "displayName": "Pancake mix",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 100,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "maple syrup",
+     "displayName": "Maple syrup",
+     "quantityPerServing": 2,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Whisk the pancake mix, milk and egg into a smooth batter.",
+    "Cook ladlefuls in a buttered pan over medium heat, 2 minutes per side.",
+    "Serve stacked with maple syrup."
+   ],
+   "emoji": "🥞",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-perogies-onions",
+   "title": "Perogies with Fried Onions",
+   "description": "Prairie-style perogies with onions, bacon and sour cream.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Prairie",
+    "Budget"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "perogies",
+     "displayName": "Perogies",
+     "quantityPerServing": 240,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "bacon",
+     "displayName": "Bacon",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "sour cream",
+     "displayName": "Sour cream",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Boil the frozen perogies 5 to 7 minutes until they float and are hot through.",
+    "Fry the chopped bacon and sliced onion in butter until golden.",
+    "Add the drained perogies and fry 3 minutes. Serve with sour cream."
+   ],
+   "emoji": "🥟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-butter-chicken",
+   "title": "Butter Chicken",
+   "description": "Hugely popular across Canada; creamy and mild.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Takeaway Favourite"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken thighs",
+     "displayName": "Chicken thighs",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "ginger",
+     "displayName": "Ginger",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomato paste",
+     "displayName": "Tomato paste",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cream",
+     "displayName": "Cream",
+     "quantityPerServing": 40,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "basmati rice",
+     "displayName": "Basmati rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brown the diced chicken in half the butter and set aside.",
+    "Fry the onion, garlic and ginger in the rest of the butter, add spices and tomato paste.",
+    "Add 100 ml water per serving and the chicken, simmer 15 minutes until the chicken reaches 74°C, then stir in the cream.",
+    "Serve with basmati rice."
+   ],
+   "emoji": "🍛",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian Indian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-montreal-steak",
+   "title": "Montreal Steak Spice Steak",
+   "description": "Grilled steak with potatoes and corn.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 20,
+   "baseServings": 2,
+   "tags": [
+    "BBQ"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "steak",
+     "displayName": "Steak",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "montreal steak spice",
+     "displayName": "Montreal steak spice",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "corn",
+     "displayName": "Corn",
+     "quantityPerServing": 80,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Rub the steak with oil and steak spice.",
+    "Boil the potatoes in chunks until tender, then crisp them in a pan.",
+    "Grill or pan-fry the steak 3 to 5 minutes per side to 63°C for medium-rare, then rest 5 minutes.",
+    "Serve with the potatoes and corn."
+   ],
+   "emoji": "🥩",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-montreal-smoked-meat",
+   "title": "Smoked Meat Sandwich",
+   "description": "Deli rye with smoked meat and mustard, pickle on the side.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 5,
+   "baseServings": 2,
+   "tags": [
+    "Montreal",
+    "Quick"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "smoked meat",
+     "displayName": "Smoked meat",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "mustard",
+     "displayName": "Mustard",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cucumber",
+     "displayName": "Cucumber",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Steam or microwave the smoked meat 1 minute until hot.",
+    "Pile onto bread spread with mustard. Serve with a pickle or cucumber."
+   ],
+   "emoji": "🥪",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-kd-hotdogs",
+   "title": "Mac and Cheese with Hot Dogs",
+   "description": "Boxed mac and cheese with sliced franks and peas.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 12,
+   "baseServings": 2,
+   "tags": [
+    "Kids",
+    "Budget"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "kraft dinner",
+     "displayName": "Kraft dinner",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "game sausage",
+     "displayName": "Game sausage",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Cook the pasta from the box for 7 minutes, adding the peas for the last 2.",
+    "Drain and stir in the cheese powder, milk and butter.",
+    "Fry the sliced sausage until it reaches 74°C and stir through."
+   ],
+   "emoji": "🧀",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-bannock-stew",
+   "title": "Beef Stew with Bannock",
+   "description": "Hearty beef stew served with pan bannock.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 120,
+   "baseServings": 4,
+   "tags": [
+    "Winter"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "stewing beef",
+     "displayName": "Stewing beef",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "bannock",
+     "displayName": "Bannock",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brown the beef in oil, add onion, carrot, potato and stock with 300 ml water per serving. Simmer covered 1.5 to 2 hours until tender (74°C).",
+    "Mix the bannock mix with water to a soft dough, flatten and fry in oil 5 minutes per side.",
+    "Serve the stew with warm bannock."
+   ],
+   "emoji": "🍲",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-halibut-chips",
+   "title": "Halibut and Chips",
+   "description": "West-coast style crispy halibut with fries.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Coastal"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Fish",
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "halibut",
+     "displayName": "Halibut",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "fries",
+     "displayName": "Fries",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "plain flour",
+     "displayName": "Plain flour",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread flour",
+     "displayName": "Bread flour",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bake the fries according to the pack.",
+    "Coat the halibut in flour, egg, then more flour, and pan-fry in oil 3 to 4 minutes per side until it reaches 63°C.",
+    "Serve with lemon."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-salmon-cakes",
+   "title": "Salmon Cakes",
+   "description": "Canned sockeye salmon patties with salad.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "Budget",
+    "Coastal"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Fish",
+    "Eggs",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "canned salmon",
+     "displayName": "Canned salmon",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "spring onions",
+     "displayName": "Spring onions",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "plain flour",
+     "displayName": "Plain flour",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Boil and mash the potato. Mix with the drained salmon, beaten egg and sliced spring onion.",
+    "Shape into patties, dust with flour and fry 4 minutes per side until golden and hot through (74°C).",
+    "Serve with salad."
+   ],
+   "emoji": "🍥",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-turkey-dinner",
+   "title": "Roast Turkey Dinner",
+   "description": "Thanksgiving-style turkey with potatoes and cranberry sauce.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 180,
+   "baseServings": 8,
+   "tags": [
+    "Holiday"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "turkey",
+     "displayName": "Turkey",
+     "quantityPerServing": 350,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "cranberry sauce",
+     "displayName": "Cranberry sauce",
+     "quantityPerServing": 40,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "gravy mix",
+     "displayName": "Gravy mix",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Thaw the turkey fully in the fridge. Roast at 165°C about 40 minutes per kg until the thickest part of the thigh reaches 82°C.",
+    "Rest 20 minutes. Meanwhile boil and mash the potatoes with butter and roast the carrots.",
+    "Make gravy from the pan juices or mix and serve with cranberry sauce."
+   ],
+   "emoji": "🦃",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-ground-turkey-chili",
+   "title": "Turkey Chili",
+   "description": "Lean turkey chili with beans and corn.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Healthy",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "ground turkey",
+     "displayName": "Ground turkey",
+     "quantityPerServing": 110,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "kidney beans",
+     "displayName": "Kidney beans",
+     "quantityPerServing": 100,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "diced tomatoes",
+     "displayName": "Diced tomatoes",
+     "quantityPerServing": 200,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "corn",
+     "displayName": "Corn",
+     "quantityPerServing": 50,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "chilli powder",
+     "displayName": "Chilli powder",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cumin",
+     "displayName": "Cumin",
+     "quantityPerServing": 2.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brown the turkey with the onion until it reaches 74°C.",
+    "Add the spices, beans, tomatoes and corn.",
+    "Simmer 20 minutes and serve."
+   ],
+   "emoji": "🌶️",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-wild-rice-soup",
+   "title": "Chicken and Wild Rice Soup",
+   "description": "Creamy prairie soup.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 50,
+   "baseServings": 4,
+   "tags": [
+    "Winter"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken breast",
+     "displayName": "Chicken breast",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "wild rice",
+     "displayName": "Wild rice",
+     "quantityPerServing": 35,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "celery",
+     "displayName": "Celery",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cream",
+     "displayName": "Cream",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Simmer the wild rice in stock with 350 ml water per serving for 40 minutes.",
+    "Add diced chicken, carrot, celery and onion and simmer 15 minutes until the chicken reaches 74°C.",
+    "Stir in the cream and season."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-bagel-lox",
+   "title": "Bagel with Smoked Salmon",
+   "description": "Bagel, cream cheese, smoked salmon and onion.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 2,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "No Cook"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Fish",
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "bagels",
+     "displayName": "Bagels",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "cream cheese",
+     "displayName": "Cream cheese",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "smoked salmon",
+     "displayName": "Smoked salmon",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "red onion",
+     "displayName": "Red onion",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Toast the bagel.",
+    "Spread with cream cheese and top with smoked salmon and thin red onion."
+   ],
+   "emoji": "🥯",
+   "supportedSlots": [
+    "BREAKFAST",
+    "LUNCH"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-maple-baked-beans-toast",
+   "title": "Maple Beans and Eggs",
+   "description": "Maple baked beans with eggs and toast.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 10,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Eggs",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "maple baked beans",
+     "displayName": "Maple baked beans",
+     "quantityPerServing": 200,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Warm the beans.",
+    "Fry or poach the egg until set.",
+    "Serve with toast."
+   ],
+   "emoji": "🍳",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-pork-chops-apples",
+   "title": "Pork Chops with Apples",
+   "description": "Pan pork chops with maple apples and mash.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pork chops",
+     "displayName": "Pork chops",
+     "quantityPerServing": 180,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "honeycrisp apples",
+     "displayName": "Honeycrisp apples",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "maple syrup",
+     "displayName": "Maple syrup",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Boil the potatoes and mash with half the butter and the milk.",
+    "Fry the pork chops 4 to 5 minutes per side until they reach 71°C. Rest.",
+    "Fry sliced apples in the remaining butter with the maple syrup until soft. Spoon over the chops."
+   ],
+   "emoji": "🍖",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-fiddlehead-pasta",
+   "title": "Spring Fiddlehead Pasta",
+   "description": "Pasta with fiddleheads, garlic and parmesan.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Seasonal"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "fiddleheads",
+     "displayName": "Fiddleheads",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "pasta",
+     "displayName": "Pasta",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "olive oil",
+     "displayName": "Olive oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "parmesan",
+     "displayName": "Parmesan",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Boil the fiddleheads for 15 minutes (always cook fully), drain.",
+    "Cook the pasta.",
+    "Fry the garlic in olive oil, add fiddleheads and pasta, lemon juice and parmesan."
+   ],
+   "emoji": "🍝",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-arctic-char",
+   "title": "Pan-Seared Arctic Char",
+   "description": "Northern fish with wild rice and greens.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 50,
+   "baseServings": 2,
+   "tags": [
+    "Healthy"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Fish",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "arctic char",
+     "displayName": "Arctic char",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "wild rice",
+     "displayName": "Wild rice",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "spinach",
+     "displayName": "Spinach",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Simmer the wild rice in salted water about 45 minutes until tender.",
+    "Fry the char skin-side down in butter 4 minutes, flip for 2 minutes until it reaches 63°C.",
+    "Wilt the spinach and serve with lemon."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-split-pea-ham-hash",
+   "title": "Cretons on Toast",
+   "description": "Quebec breakfast pork spread on toast with coffee.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 3,
+   "baseServings": 1,
+   "tags": [
+    "Quebec",
+    "Quick"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "cretons",
+     "displayName": "Cretons",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "mustard",
+     "displayName": "Mustard",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Toast the bread.",
+    "Spread thickly with cretons and a little mustard."
+   ],
+   "emoji": "🍞",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-nanaimo-treat",
+   "title": "Nanaimo Bar and Fruit",
+   "description": "Lunchbox treat with fresh fruit.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Treat",
+    "No Cook"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Eggs",
+    "Gluten",
+    "Tree Nuts"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "nanaimo bars",
+     "displayName": "Nanaimo bars",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "apples",
+     "displayName": "Apples",
+     "quantityPerServing": 180,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Serve a Nanaimo bar with a sliced apple."
+   ],
+   "emoji": "🍫",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-chicken-caesar-wrap",
+   "title": "Chicken Caesar Wrap",
+   "description": "Grilled chicken, romaine and Caesar-style dressing in a wrap.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 12,
+   "baseServings": 2,
+   "tags": [
+    "Quick"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken breast",
+     "displayName": "Chicken breast",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "tortillas",
+     "displayName": "Tortillas",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.15,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "parmesan",
+     "displayName": "Parmesan",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "mayonnaise",
+     "displayName": "Mayonnaise",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 0.05,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Grill the chicken 5 to 6 minutes per side until it reaches 74°C, then slice.",
+    "Mix mayo, lemon juice, crushed garlic and grated parmesan for the dressing.",
+    "Fill the tortillas with lettuce, chicken and dressing, and roll up."
+   ],
+   "emoji": "🌯",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "ca-shepherd-pate-chinois",
+   "title": "Pâté Chinois",
+   "description": "Quebec's shepherd's pie: beef, creamed corn and mash.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 35,
+   "baseServings": 4,
+   "tags": [
+    "Quebec",
+    "Family Classic"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "ground beef",
+     "displayName": "Ground beef",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "corn",
+     "displayName": "Corn",
+     "quantityPerServing": 100,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 190°C. Brown the beef with the onion until it reaches 71°C.",
+    "Mash the boiled potatoes with butter and milk.",
+    "Layer beef, corn and mash in a dish and bake 25 minutes until golden."
+   ],
+   "emoji": "🥧",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Canadian",
+   "defaultFitReason": "optional"
+  }
+ ]
+}

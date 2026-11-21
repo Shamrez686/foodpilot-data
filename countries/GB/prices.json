@@ -1,0 +1,2393 @@
+{
+ "schema": 1,
+ "country": "GB",
+ "currency": "GBP",
+ "dataVersion": "2026-11",
+ "updated": "2026-11-21",
+ "estimated": true,
+ "sources": [
+  "Hand-estimated from public UK supermarket shelf prices and AHDB/ONS averages.",
+  "Not live prices. To be refreshed monthly."
+ ],
+ "items": [
+  {
+   "id": "milk-whole",
+   "name": "Whole milk",
+   "aliases": [
+    "milk",
+    "full cream milk",
+    "whole milk",
+    "vollmilch"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 2.272,
+    "unit": "l"
+   },
+   "price": 1.75,
+   "local": false
+  },
+  {
+   "id": "milk-low-fat",
+   "name": "Low-fat milk",
+   "aliases": [
+    "semi skimmed milk",
+    "2% milk",
+    "low fat milk",
+    "lite milk"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 2.272,
+    "unit": "l"
+   },
+   "price": 1.75,
+   "local": false
+  },
+  {
+   "id": "butter",
+   "name": "Butter",
+   "aliases": [
+    "butter",
+    "salted butter",
+    "unsalted butter"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 250,
+    "unit": "g"
+   },
+   "price": 2.19,
+   "local": false
+  },
+  {
+   "id": "eggs",
+   "name": "Eggs (dozen)",
+   "aliases": [
+    "egg",
+    "eggs",
+    "large eggs"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 12,
+    "unit": "count"
+   },
+   "price": 3.3,
+   "local": false
+  },
+  {
+   "id": "cheddar",
+   "name": "Cheddar cheese",
+   "aliases": [
+    "cheddar",
+    "cheese",
+    "shredded cheese",
+    "grated cheese"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 400,
+    "unit": "g"
+   },
+   "price": 3.69,
+   "local": false
+  },
+  {
+   "id": "mozzarella",
+   "name": "Mozzarella",
+   "aliases": [
+    "mozzarella",
+    "pizza cheese"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 125,
+    "unit": "g"
+   },
+   "price": 0.75,
+   "local": false
+  },
+  {
+   "id": "parmesan",
+   "name": "Parmesan",
+   "aliases": [
+    "parmesan",
+    "parmigiano",
+    "grated parmesan"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 100,
+    "unit": "g"
+   },
+   "price": 2.19,
+   "local": false
+  },
+  {
+   "id": "cream-cheese",
+   "name": "Cream cheese",
+   "aliases": [
+    "cream cheese",
+    "soft cheese",
+    "frischkase"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 180,
+    "unit": "g"
+   },
+   "price": 1.15,
+   "local": false
+  },
+  {
+   "id": "yogurt-plain",
+   "name": "Plain yogurt",
+   "aliases": [
+    "yogurt",
+    "yoghurt",
+    "greek yogurt",
+    "natural yogurt",
+    "joghurt"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "cream",
+   "name": "Cream",
+   "aliases": [
+    "cream",
+    "heavy cream",
+    "double cream",
+    "thickened cream",
+    "whipping cream",
+    "sahne"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 300,
+    "unit": "ml"
+   },
+   "price": 1.25,
+   "local": false
+  },
+  {
+   "id": "sour-cream",
+   "name": "Sour cream",
+   "aliases": [
+    "sour cream",
+    "creme fraiche",
+    "schmand"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 300,
+    "unit": "ml"
+   },
+   "price": 0.99,
+   "local": false
+  },
+  {
+   "id": "bread-white",
+   "name": "White bread",
+   "aliases": [
+    "bread",
+    "white bread",
+    "sandwich bread",
+    "toast"
+   ],
+   "category": "Bakery",
+   "pack": {
+    "qty": 800,
+    "unit": "g"
+   },
+   "price": 1.39,
+   "local": false
+  },
+  {
+   "id": "bread-wholemeal",
+   "name": "Wholemeal bread",
+   "aliases": [
+    "whole wheat bread",
+    "brown bread",
+    "wholemeal bread",
+    "vollkornbrot"
+   ],
+   "category": "Bakery",
+   "pack": {
+    "qty": 800,
+    "unit": "g"
+   },
+   "price": 1.45,
+   "local": false
+  },
+  {
+   "id": "tortillas",
+   "name": "Flour tortillas",
+   "aliases": [
+    "tortilla",
+    "tortillas",
+    "wraps"
+   ],
+   "category": "Bakery",
+   "pack": {
+    "qty": 8,
+    "unit": "count"
+   },
+   "price": 1.5,
+   "local": false
+  },
+  {
+   "id": "pasta-spaghetti",
+   "name": "Spaghetti",
+   "aliases": [
+    "spaghetti",
+    "pasta"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 0.75,
+   "local": false
+  },
+  {
+   "id": "pasta-penne",
+   "name": "Penne pasta",
+   "aliases": [
+    "penne",
+    "pasta",
+    "macaroni",
+    "fusilli"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 0.75,
+   "local": false
+  },
+  {
+   "id": "rice-white",
+   "name": "White rice",
+   "aliases": [
+    "rice",
+    "long grain rice",
+    "white rice"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 1.65,
+   "local": false
+  },
+  {
+   "id": "rice-basmati",
+   "name": "Basmati rice",
+   "aliases": [
+    "basmati",
+    "basmati rice"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 3.2,
+   "local": false
+  },
+  {
+   "id": "oats",
+   "name": "Rolled oats",
+   "aliases": [
+    "oats",
+    "oatmeal",
+    "porridge oats",
+    "haferflocken"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "flour",
+   "name": "Plain flour",
+   "aliases": [
+    "flour",
+    "all purpose flour",
+    "plain flour",
+    "mehl"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 1.5,
+    "unit": "kg"
+   },
+   "price": 0.9,
+   "local": false
+  },
+  {
+   "id": "sugar",
+   "name": "White sugar",
+   "aliases": [
+    "sugar",
+    "granulated sugar",
+    "caster sugar",
+    "zucker"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 1.15,
+   "local": false
+  },
+  {
+   "id": "cereal-cornflakes",
+   "name": "Cornflakes",
+   "aliases": [
+    "cornflakes",
+    "cereal"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 1.5,
+   "local": false
+  },
+  {
+   "id": "noodles-instant",
+   "name": "Noodles",
+   "aliases": [
+    "instant noodles",
+    "noodles",
+    "ramen",
+    "egg noodles",
+    "2 minute noodles"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 70,
+    "unit": "g"
+   },
+   "price": 0.25,
+   "local": false
+  },
+  {
+   "id": "couscous",
+   "name": "Couscous",
+   "aliases": [
+    "couscous"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 1.2,
+   "local": false
+  },
+  {
+   "id": "chicken-breast",
+   "name": "Chicken breast",
+   "aliases": [
+    "chicken breast",
+    "chicken",
+    "boneless chicken",
+    "hahnchenbrust"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 6.5,
+   "local": false
+  },
+  {
+   "id": "chicken-thighs",
+   "name": "Chicken thighs",
+   "aliases": [
+    "chicken thighs",
+    "chicken thigh"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 5.2,
+   "local": false
+  },
+  {
+   "id": "chicken-whole",
+   "name": "Whole chicken",
+   "aliases": [
+    "whole chicken",
+    "roast chicken"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 1.5,
+    "unit": "kg"
+   },
+   "price": 4.5,
+   "local": false
+  },
+  {
+   "id": "beef-mince",
+   "name": "Ground beef / mince",
+   "aliases": [
+    "ground beef",
+    "beef mince",
+    "minced beef",
+    "mince",
+    "hackfleisch"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 3.3,
+   "local": false
+  },
+  {
+   "id": "beef-steak",
+   "name": "Beef steak",
+   "aliases": [
+    "steak",
+    "beef steak",
+    "sirloin",
+    "rump steak"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 16.0,
+   "local": false
+  },
+  {
+   "id": "beef-stewing",
+   "name": "Stewing beef",
+   "aliases": [
+    "stewing beef",
+    "beef chunks",
+    "diced beef",
+    "braising steak",
+    "gulasch"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 10.5,
+   "local": false
+  },
+  {
+   "id": "pork-chops",
+   "name": "Pork chops",
+   "aliases": [
+    "pork chops",
+    "pork loin"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 7.0,
+   "local": false
+  },
+  {
+   "id": "pork-mince",
+   "name": "Ground pork",
+   "aliases": [
+    "ground pork",
+    "pork mince"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 2.9,
+   "local": false
+  },
+  {
+   "id": "bacon",
+   "name": "Bacon",
+   "aliases": [
+    "bacon",
+    "streaky bacon",
+    "speck"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 300,
+    "unit": "g"
+   },
+   "price": 2.49,
+   "local": false
+  },
+  {
+   "id": "sausages",
+   "name": "Pork sausages",
+   "aliases": [
+    "sausage",
+    "sausages"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 454,
+    "unit": "g"
+   },
+   "price": 2.75,
+   "local": false
+  },
+  {
+   "id": "ham-sliced",
+   "name": "Sliced ham",
+   "aliases": [
+    "ham",
+    "sliced ham",
+    "kochschinken"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 120,
+    "unit": "g"
+   },
+   "price": 1.5,
+   "local": false
+  },
+  {
+   "id": "lamb-mince",
+   "name": "Lamb mince",
+   "aliases": [
+    "lamb mince",
+    "ground lamb",
+    "lamb"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 4.75,
+   "local": false
+  },
+  {
+   "id": "salmon",
+   "name": "Salmon fillets",
+   "aliases": [
+    "salmon",
+    "salmon fillet",
+    "lachs"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 240,
+    "unit": "g"
+   },
+   "price": 4.25,
+   "local": false
+  },
+  {
+   "id": "white-fish",
+   "name": "White fish fillets",
+   "aliases": [
+    "white fish",
+    "cod",
+    "hake",
+    "basa",
+    "pollock",
+    "fish fillets"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 400,
+    "unit": "g"
+   },
+   "price": 4.0,
+   "local": false
+  },
+  {
+   "id": "tuna-can",
+   "name": "Canned tuna",
+   "aliases": [
+    "tuna",
+    "canned tuna",
+    "tinned tuna",
+    "thunfisch"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 145,
+    "unit": "g"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "tofu",
+   "name": "Tofu",
+   "aliases": [
+    "tofu"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 280,
+    "unit": "g"
+   },
+   "price": 1.8,
+   "local": false
+  },
+  {
+   "id": "lentils-dry",
+   "name": "Red lentils",
+   "aliases": [
+    "lentils",
+    "red lentils",
+    "linsen"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 1.4,
+   "local": false
+  },
+  {
+   "id": "chickpeas-can",
+   "name": "Canned chickpeas",
+   "aliases": [
+    "chickpeas",
+    "garbanzo beans",
+    "kichererbsen"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 400,
+    "unit": "g"
+   },
+   "price": 0.55,
+   "local": false
+  },
+  {
+   "id": "beans-black-can",
+   "name": "Canned beans",
+   "aliases": [
+    "black beans",
+    "kidney beans",
+    "red kidney beans",
+    "beans"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 400,
+    "unit": "g"
+   },
+   "price": 0.55,
+   "local": false
+  },
+  {
+   "id": "baked-beans",
+   "name": "Baked beans",
+   "aliases": [
+    "baked beans"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 415,
+    "unit": "g"
+   },
+   "price": 0.85,
+   "local": false
+  },
+  {
+   "id": "tomatoes-can",
+   "name": "Canned tomatoes",
+   "aliases": [
+    "canned tomatoes",
+    "chopped tomatoes",
+    "diced tomatoes",
+    "tinned tomatoes"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 400,
+    "unit": "g"
+   },
+   "price": 0.55,
+   "local": false
+  },
+  {
+   "id": "tomato-paste",
+   "name": "Tomato paste",
+   "aliases": [
+    "tomato paste",
+    "tomato puree",
+    "tomatenmark"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 200,
+    "unit": "g"
+   },
+   "price": 0.85,
+   "local": false
+  },
+  {
+   "id": "passata",
+   "name": "Passata / tomato sauce",
+   "aliases": [
+    "passata",
+    "tomato sauce",
+    "pasta sauce",
+    "marinara"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 0.65,
+   "local": false
+  },
+  {
+   "id": "corn-can",
+   "name": "Canned sweetcorn",
+   "aliases": [
+    "sweetcorn",
+    "corn",
+    "canned corn",
+    "mais"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 325,
+    "unit": "g"
+   },
+   "price": 0.75,
+   "local": false
+  },
+  {
+   "id": "coconut-milk",
+   "name": "Coconut milk",
+   "aliases": [
+    "coconut milk",
+    "kokosmilch"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 400,
+    "unit": "ml"
+   },
+   "price": 1.15,
+   "local": false
+  },
+  {
+   "id": "stock-cubes",
+   "name": "Stock cubes",
+   "aliases": [
+    "stock",
+    "broth",
+    "chicken stock",
+    "beef stock",
+    "bouillon",
+    "bruhe"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 10,
+    "unit": "count"
+   },
+   "price": 1.0,
+   "local": false
+  },
+  {
+   "id": "olive-oil",
+   "name": "Olive oil",
+   "aliases": [
+    "olive oil",
+    "extra virgin olive oil",
+    "olivenol"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 500,
+    "unit": "ml"
+   },
+   "price": 4.75,
+   "local": false
+  },
+  {
+   "id": "vegetable-oil",
+   "name": "Vegetable oil",
+   "aliases": [
+    "vegetable oil",
+    "cooking oil",
+    "canola oil",
+    "sunflower oil",
+    "oil"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 1,
+    "unit": "l"
+   },
+   "price": 1.75,
+   "local": false
+  },
+  {
+   "id": "salt",
+   "name": "Salt",
+   "aliases": [
+    "salt",
+    "table salt",
+    "salz"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 750,
+    "unit": "g"
+   },
+   "price": 0.45,
+   "local": false
+  },
+  {
+   "id": "black-pepper",
+   "name": "Black pepper",
+   "aliases": [
+    "pepper",
+    "black pepper",
+    "ground pepper",
+    "pfeffer"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 100,
+    "unit": "g"
+   },
+   "price": 1.8,
+   "local": false
+  },
+  {
+   "id": "paprika",
+   "name": "Paprika",
+   "aliases": [
+    "paprika",
+    "smoked paprika",
+    "paprikapulver"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 50,
+    "unit": "g"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "cumin",
+   "name": "Ground cumin",
+   "aliases": [
+    "cumin",
+    "ground cumin",
+    "kreuzkummel"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 50,
+    "unit": "g"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "curry-powder",
+   "name": "Curry powder",
+   "aliases": [
+    "curry powder",
+    "curry"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 100,
+    "unit": "g"
+   },
+   "price": 1.2,
+   "local": false
+  },
+  {
+   "id": "chilli-flakes",
+   "name": "Chilli flakes / powder",
+   "aliases": [
+    "chili flakes",
+    "chilli flakes",
+    "red pepper flakes",
+    "chilli powder",
+    "chili powder",
+    "cayenne"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 40,
+    "unit": "g"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "mixed-herbs",
+   "name": "Dried mixed herbs",
+   "aliases": [
+    "oregano",
+    "dried herbs",
+    "italian seasoning",
+    "mixed herbs",
+    "thyme",
+    "basil dried"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 15,
+    "unit": "g"
+   },
+   "price": 0.95,
+   "local": false
+  },
+  {
+   "id": "garlic-powder",
+   "name": "Garlic powder",
+   "aliases": [
+    "garlic powder",
+    "garlic granules"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 50,
+    "unit": "g"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "cinnamon",
+   "name": "Ground cinnamon",
+   "aliases": [
+    "cinnamon",
+    "zimt"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 40,
+    "unit": "g"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "soy-sauce",
+   "name": "Soy sauce",
+   "aliases": [
+    "soy sauce",
+    "sojasauce"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 150,
+    "unit": "ml"
+   },
+   "price": 1.5,
+   "local": false
+  },
+  {
+   "id": "vinegar",
+   "name": "Vinegar",
+   "aliases": [
+    "vinegar",
+    "white vinegar",
+    "apple cider vinegar",
+    "essig"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 568,
+    "unit": "ml"
+   },
+   "price": 0.4,
+   "local": false
+  },
+  {
+   "id": "ketchup",
+   "name": "Tomato ketchup",
+   "aliases": [
+    "ketchup",
+    "tomato sauce bottle"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 460,
+    "unit": "g"
+   },
+   "price": 1.25,
+   "local": false
+  },
+  {
+   "id": "mayonnaise",
+   "name": "Mayonnaise",
+   "aliases": [
+    "mayonnaise",
+    "mayo"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 500,
+    "unit": "ml"
+   },
+   "price": 1.29,
+   "local": false
+  },
+  {
+   "id": "mustard",
+   "name": "Mustard",
+   "aliases": [
+    "mustard",
+    "dijon mustard",
+    "senf"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 180,
+    "unit": "g"
+   },
+   "price": 0.95,
+   "local": false
+  },
+  {
+   "id": "honey",
+   "name": "Honey",
+   "aliases": [
+    "honey",
+    "honig"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 340,
+    "unit": "g"
+   },
+   "price": 1.95,
+   "local": false
+  },
+  {
+   "id": "peanut-butter",
+   "name": "Peanut butter",
+   "aliases": [
+    "peanut butter"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 340,
+    "unit": "g"
+   },
+   "price": 1.5,
+   "local": false
+  },
+  {
+   "id": "jam",
+   "name": "Jam",
+   "aliases": [
+    "jam",
+    "jelly",
+    "strawberry jam",
+    "marmelade"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 454,
+    "unit": "g"
+   },
+   "price": 1.0,
+   "local": false
+  },
+  {
+   "id": "baking-powder",
+   "name": "Baking powder",
+   "aliases": [
+    "baking powder",
+    "backpulver"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 170,
+    "unit": "g"
+   },
+   "price": 1.2,
+   "local": false
+  },
+  {
+   "id": "cocoa",
+   "name": "Cocoa powder",
+   "aliases": [
+    "cocoa",
+    "cocoa powder"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 250,
+    "unit": "g"
+   },
+   "price": 2.75,
+   "local": false
+  },
+  {
+   "id": "dark-chocolate",
+   "name": "Chocolate bar",
+   "aliases": [
+    "chocolate",
+    "dark chocolate",
+    "milk chocolate"
+   ],
+   "category": "Other",
+   "pack": {
+    "qty": 100,
+    "unit": "g"
+   },
+   "price": 1.0,
+   "local": false
+  },
+  {
+   "id": "coffee-instant",
+   "name": "Instant coffee",
+   "aliases": [
+    "instant coffee",
+    "coffee"
+   ],
+   "category": "Drinks",
+   "pack": {
+    "qty": 200,
+    "unit": "g"
+   },
+   "price": 5.5,
+   "local": false
+  },
+  {
+   "id": "coffee-ground",
+   "name": "Ground coffee",
+   "aliases": [
+    "ground coffee",
+    "filter coffee"
+   ],
+   "category": "Drinks",
+   "pack": {
+    "qty": 227,
+    "unit": "g"
+   },
+   "price": 3.5,
+   "local": false
+  },
+  {
+   "id": "tea-bags",
+   "name": "Black tea bags",
+   "aliases": [
+    "tea",
+    "tea bags",
+    "black tea"
+   ],
+   "category": "Drinks",
+   "pack": {
+    "qty": 80,
+    "unit": "count"
+   },
+   "price": 1.8,
+   "local": false
+  },
+  {
+   "id": "orange-juice",
+   "name": "Orange juice",
+   "aliases": [
+    "orange juice",
+    "juice",
+    "orangensaft"
+   ],
+   "category": "Drinks",
+   "pack": {
+    "qty": 1,
+    "unit": "l"
+   },
+   "price": 1.2,
+   "local": false
+  },
+  {
+   "id": "bottled-water",
+   "name": "Bottled water",
+   "aliases": [
+    "water",
+    "bottled water",
+    "mineral water"
+   ],
+   "category": "Drinks",
+   "pack": {
+    "qty": 6,
+    "unit": "count"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "apples",
+   "name": "Apples",
+   "aliases": [
+    "apple",
+    "apples"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 2.2,
+   "local": false
+  },
+  {
+   "id": "bananas",
+   "name": "Bananas",
+   "aliases": [
+    "banana",
+    "bananas"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 1.0,
+   "local": false
+  },
+  {
+   "id": "oranges",
+   "name": "Oranges",
+   "aliases": [
+    "orange",
+    "oranges"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 2.0,
+   "local": false
+  },
+  {
+   "id": "lemons",
+   "name": "Lemons / limes",
+   "aliases": [
+    "lemon",
+    "lemons",
+    "lemon juice",
+    "lime juice",
+    "lime",
+    "limes"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 4,
+    "unit": "count"
+   },
+   "price": 1.2,
+   "local": false
+  },
+  {
+   "id": "grapes",
+   "name": "Grapes",
+   "aliases": [
+    "grapes",
+    "trauben"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 2.0,
+   "local": false
+  },
+  {
+   "id": "strawberries",
+   "name": "Strawberries",
+   "aliases": [
+    "strawberries",
+    "erdbeeren"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 400,
+    "unit": "g"
+   },
+   "price": 2.5,
+   "local": false
+  },
+  {
+   "id": "potatoes",
+   "name": "Potatoes",
+   "aliases": [
+    "potato",
+    "potatoes",
+    "kartoffeln"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 2,
+    "unit": "kg"
+   },
+   "price": 1.35,
+   "local": false
+  },
+  {
+   "id": "sweet-potatoes",
+   "name": "Sweet potatoes",
+   "aliases": [
+    "sweet potato",
+    "sweet potatoes",
+    "kumara",
+    "susskartoffel"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 1.6,
+   "local": false
+  },
+  {
+   "id": "onions",
+   "name": "Onions",
+   "aliases": [
+    "onion",
+    "onions",
+    "brown onion",
+    "yellow onion",
+    "zwiebeln"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 0.95,
+   "local": false
+  },
+  {
+   "id": "red-onion",
+   "name": "Red onions",
+   "aliases": [
+    "red onion",
+    "red onions"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 1.2,
+   "local": false
+  },
+  {
+   "id": "garlic",
+   "name": "Garlic",
+   "aliases": [
+    "garlic",
+    "garlic cloves",
+    "knoblauch"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 4,
+    "unit": "count"
+   },
+   "price": 0.85,
+   "local": false
+  },
+  {
+   "id": "ginger",
+   "name": "Fresh ginger",
+   "aliases": [
+    "ginger",
+    "ingwer"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 200,
+    "unit": "g"
+   },
+   "price": 0.8,
+   "local": false
+  },
+  {
+   "id": "carrots",
+   "name": "Carrots",
+   "aliases": [
+    "carrot",
+    "carrots",
+    "karotten",
+    "mohren"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 0.65,
+   "local": false
+  },
+  {
+   "id": "tomatoes",
+   "name": "Tomatoes",
+   "aliases": [
+    "tomato",
+    "tomatoes",
+    "tomaten"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 0.95,
+   "local": false
+  },
+  {
+   "id": "cucumber",
+   "name": "Cucumber",
+   "aliases": [
+    "cucumber",
+    "gurke"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 0.75,
+   "local": false
+  },
+  {
+   "id": "lettuce",
+   "name": "Lettuce",
+   "aliases": [
+    "lettuce",
+    "iceberg",
+    "salad leaves",
+    "romaine"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 0.85,
+   "local": false
+  },
+  {
+   "id": "spinach",
+   "name": "Spinach",
+   "aliases": [
+    "spinach",
+    "baby spinach",
+    "spinat"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 200,
+    "unit": "g"
+   },
+   "price": 1.3,
+   "local": false
+  },
+  {
+   "id": "bell-peppers",
+   "name": "Bell peppers",
+   "aliases": [
+    "bell pepper",
+    "capsicum",
+    "paprika fresh",
+    "red pepper",
+    "green pepper"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 3,
+    "unit": "count"
+   },
+   "price": 1.7,
+   "local": false
+  },
+  {
+   "id": "broccoli",
+   "name": "Broccoli",
+   "aliases": [
+    "broccoli",
+    "brokkoli"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 350,
+    "unit": "g"
+   },
+   "price": 0.85,
+   "local": false
+  },
+  {
+   "id": "cauliflower",
+   "name": "Cauliflower",
+   "aliases": [
+    "cauliflower",
+    "blumenkohl"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 1.1,
+   "local": false
+  },
+  {
+   "id": "cabbage",
+   "name": "Cabbage",
+   "aliases": [
+    "cabbage",
+    "kohl",
+    "weisskohl"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 0.8,
+   "local": false
+  },
+  {
+   "id": "mushrooms",
+   "name": "Mushrooms",
+   "aliases": [
+    "mushroom",
+    "mushrooms",
+    "champignons"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 300,
+    "unit": "g"
+   },
+   "price": 1.15,
+   "local": false
+  },
+  {
+   "id": "zucchini",
+   "name": "Zucchini / courgette",
+   "aliases": [
+    "zucchini",
+    "courgette"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 3,
+    "unit": "count"
+   },
+   "price": 1.3,
+   "local": false
+  },
+  {
+   "id": "celery",
+   "name": "Celery",
+   "aliases": [
+    "celery",
+    "sellerie"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 0.75,
+   "local": false
+  },
+  {
+   "id": "green-beans",
+   "name": "Green beans",
+   "aliases": [
+    "green beans",
+    "bohnen"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 220,
+    "unit": "g"
+   },
+   "price": 1.0,
+   "local": false
+  },
+  {
+   "id": "avocado",
+   "name": "Avocado",
+   "aliases": [
+    "avocado"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 0.8,
+   "local": false
+  },
+  {
+   "id": "spring-onions",
+   "name": "Spring onions",
+   "aliases": [
+    "spring onion",
+    "green onion",
+    "scallions",
+    "shallots",
+    "fruhlingszwiebeln"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 0.6,
+   "local": false
+  },
+  {
+   "id": "fresh-herbs",
+   "name": "Fresh herbs (bunch)",
+   "aliases": [
+    "parsley",
+    "coriander",
+    "fresh basil",
+    "dill",
+    "fresh herbs",
+    "petersilie"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 30,
+    "unit": "g"
+   },
+   "price": 0.8,
+   "local": false
+  },
+  {
+   "id": "chillies",
+   "name": "Fresh chillies",
+   "aliases": [
+    "chilli",
+    "chili",
+    "fresh chilli"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 50,
+    "unit": "g"
+   },
+   "price": 0.6,
+   "local": false
+  },
+  {
+   "id": "frozen-peas",
+   "name": "Frozen peas",
+   "aliases": [
+    "peas",
+    "frozen peas",
+    "erbsen"
+   ],
+   "category": "Frozen",
+   "pack": {
+    "qty": 900,
+    "unit": "g"
+   },
+   "price": 1.2,
+   "local": false
+  },
+  {
+   "id": "frozen-mixed-veg",
+   "name": "Frozen mixed vegetables",
+   "aliases": [
+    "frozen vegetables",
+    "mixed vegetables"
+   ],
+   "category": "Frozen",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 1.3,
+   "local": false
+  },
+  {
+   "id": "frozen-chips",
+   "name": "Frozen fries / chips",
+   "aliases": [
+    "fries",
+    "chips",
+    "frozen fries",
+    "oven chips",
+    "pommes"
+   ],
+   "category": "Frozen",
+   "pack": {
+    "qty": 1.5,
+    "unit": "kg"
+   },
+   "price": 1.8,
+   "local": false
+  },
+  {
+   "id": "frozen-pizza",
+   "name": "Frozen pizza",
+   "aliases": [
+    "frozen pizza",
+    "pizza"
+   ],
+   "category": "Frozen",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 2.5,
+   "local": false
+  },
+  {
+   "id": "ice-cream",
+   "name": "Ice cream",
+   "aliases": [
+    "ice cream",
+    "eis"
+   ],
+   "category": "Frozen",
+   "pack": {
+    "qty": 1,
+    "unit": "l"
+   },
+   "price": 2.0,
+   "local": false
+  },
+  {
+   "id": "crumpets",
+   "name": "Crumpets",
+   "aliases": [
+    "crumpets"
+   ],
+   "category": "Bakery",
+   "pack": {
+    "qty": 6,
+    "unit": "count"
+   },
+   "price": 0.85,
+   "local": true
+  },
+  {
+   "id": "english-muffins",
+   "name": "English muffins",
+   "aliases": [
+    "english muffins",
+    "muffins"
+   ],
+   "category": "Bakery",
+   "pack": {
+    "qty": 6,
+    "unit": "count"
+   },
+   "price": 0.95,
+   "local": true
+  },
+  {
+   "id": "hot-cross-buns",
+   "name": "Hot cross buns",
+   "aliases": [
+    "hot cross buns"
+   ],
+   "category": "Bakery",
+   "pack": {
+    "qty": 4,
+    "unit": "count"
+   },
+   "price": 1.0,
+   "local": true
+  },
+  {
+   "id": "naan-bread",
+   "name": "Naan bread",
+   "aliases": [
+    "naan",
+    "naan bread"
+   ],
+   "category": "Bakery",
+   "pack": {
+    "qty": 2,
+    "unit": "count"
+   },
+   "price": 1.05,
+   "local": true
+  },
+  {
+   "id": "scones",
+   "name": "Scones",
+   "aliases": [
+    "scones"
+   ],
+   "category": "Bakery",
+   "pack": {
+    "qty": 4,
+    "unit": "count"
+   },
+   "price": 1.3,
+   "local": true
+  },
+  {
+   "id": "yorkshire-puddings",
+   "name": "Frozen Yorkshire puddings",
+   "aliases": [
+    "yorkshire pudding",
+    "yorkshire puddings"
+   ],
+   "category": "Frozen",
+   "pack": {
+    "qty": 12,
+    "unit": "count"
+   },
+   "price": 1.25,
+   "local": true
+  },
+  {
+   "id": "fish-fingers",
+   "name": "Fish fingers",
+   "aliases": [
+    "fish fingers",
+    "fish sticks"
+   ],
+   "category": "Frozen",
+   "pack": {
+    "qty": 10,
+    "unit": "count"
+   },
+   "price": 1.7,
+   "local": true
+  },
+  {
+   "id": "black-pudding",
+   "name": "Black pudding",
+   "aliases": [
+    "black pudding"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 250,
+    "unit": "g"
+   },
+   "price": 1.5,
+   "local": true
+  },
+  {
+   "id": "gammon",
+   "name": "Gammon joint",
+   "aliases": [
+    "gammon",
+    "ham joint"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 750,
+    "unit": "g"
+   },
+   "price": 4.5,
+   "local": true
+  },
+  {
+   "id": "pork-pie",
+   "name": "Pork pie",
+   "aliases": [
+    "pork pie"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 140,
+    "unit": "g"
+   },
+   "price": 1.1,
+   "local": true
+  },
+  {
+   "id": "cumberland-sausage",
+   "name": "Cumberland sausage",
+   "aliases": [
+    "cumberland sausage",
+    "cumberland"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 400,
+    "unit": "g"
+   },
+   "price": 3.0,
+   "local": true
+  },
+  {
+   "id": "smoked-haddock",
+   "name": "Smoked haddock",
+   "aliases": [
+    "smoked haddock",
+    "haddock"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 250,
+    "unit": "g"
+   },
+   "price": 4.0,
+   "local": true
+  },
+  {
+   "id": "mackerel-fillets",
+   "name": "Smoked mackerel",
+   "aliases": [
+    "mackerel",
+    "smoked mackerel"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 200,
+    "unit": "g"
+   },
+   "price": 2.3,
+   "local": true
+  },
+  {
+   "id": "branston-pickle",
+   "name": "Brown pickle",
+   "aliases": [
+    "branston",
+    "brown pickle",
+    "pickle"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 360,
+    "unit": "g"
+   },
+   "price": 1.85,
+   "local": true
+  },
+  {
+   "id": "brown-sauce",
+   "name": "Brown sauce",
+   "aliases": [
+    "brown sauce",
+    "hp sauce"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 450,
+    "unit": "g"
+   },
+   "price": 1.6,
+   "local": true
+  },
+  {
+   "id": "marmite",
+   "name": "Yeast extract (Marmite)",
+   "aliases": [
+    "marmite",
+    "yeast extract"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 250,
+    "unit": "g"
+   },
+   "price": 4.25,
+   "local": true
+  },
+  {
+   "id": "marmalade",
+   "name": "Orange marmalade",
+   "aliases": [
+    "marmalade"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 454,
+    "unit": "g"
+   },
+   "price": 1.2,
+   "local": true
+  },
+  {
+   "id": "golden-syrup",
+   "name": "Golden syrup",
+   "aliases": [
+    "golden syrup"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 454,
+    "unit": "g"
+   },
+   "price": 1.65,
+   "local": true
+  },
+  {
+   "id": "custard-powder",
+   "name": "Custard powder",
+   "aliases": [
+    "custard",
+    "custard powder"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 300,
+    "unit": "g"
+   },
+   "price": 1.8,
+   "local": true
+  },
+  {
+   "id": "gravy-granules",
+   "name": "Gravy granules",
+   "aliases": [
+    "gravy",
+    "gravy granules"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 170,
+    "unit": "g"
+   },
+   "price": 1.0,
+   "local": true
+  },
+  {
+   "id": "mint-sauce",
+   "name": "Mint sauce",
+   "aliases": [
+    "mint sauce"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 165,
+    "unit": "g"
+   },
+   "price": 0.8,
+   "local": true
+  },
+  {
+   "id": "worcestershire",
+   "name": "Worcestershire sauce",
+   "aliases": [
+    "worcestershire sauce",
+    "worcester sauce"
+   ],
+   "category": "Spices & Oils",
+   "pack": {
+    "qty": 150,
+    "unit": "ml"
+   },
+   "price": 1.5,
+   "local": true
+  },
+  {
+   "id": "mushy-peas",
+   "name": "Mushy peas",
+   "aliases": [
+    "mushy peas"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 300,
+    "unit": "g"
+   },
+   "price": 0.55,
+   "local": true
+  },
+  {
+   "id": "tinned-spaghetti",
+   "name": "Spaghetti in tomato sauce",
+   "aliases": [
+    "tinned spaghetti",
+    "spaghetti hoops"
+   ],
+   "category": "Canned Goods",
+   "pack": {
+    "qty": 410,
+    "unit": "g"
+   },
+   "price": 0.75,
+   "local": true
+  },
+  {
+   "id": "cream-crackers",
+   "name": "Cream crackers",
+   "aliases": [
+    "cream crackers",
+    "crackers"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 200,
+    "unit": "g"
+   },
+   "price": 0.85,
+   "local": true
+  },
+  {
+   "id": "digestives",
+   "name": "Digestive biscuits",
+   "aliases": [
+    "digestives",
+    "biscuits"
+   ],
+   "category": "Other",
+   "pack": {
+    "qty": 400,
+    "unit": "g"
+   },
+   "price": 0.9,
+   "local": true
+  },
+  {
+   "id": "weetabix",
+   "name": "Wheat biscuits cereal",
+   "aliases": [
+    "weetabix",
+    "wheat biscuits"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 24,
+    "unit": "count"
+   },
+   "price": 2.85,
+   "local": true
+  },
+  {
+   "id": "squash",
+   "name": "Fruit squash",
+   "aliases": [
+    "squash",
+    "cordial"
+   ],
+   "category": "Drinks",
+   "pack": {
+    "qty": 1,
+    "unit": "l"
+   },
+   "price": 1.2,
+   "local": true
+  },
+  {
+   "id": "clotted-cream",
+   "name": "Clotted cream",
+   "aliases": [
+    "clotted cream"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 113,
+    "unit": "g"
+   },
+   "price": 1.55,
+   "local": true
+  },
+  {
+   "id": "red-leicester",
+   "name": "Red Leicester cheese",
+   "aliases": [
+    "red leicester"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 350,
+    "unit": "g"
+   },
+   "price": 3.2,
+   "local": true
+  },
+  {
+   "id": "stilton",
+   "name": "Blue Stilton",
+   "aliases": [
+    "stilton",
+    "blue cheese"
+   ],
+   "category": "Dairy",
+   "pack": {
+    "qty": 200,
+    "unit": "g"
+   },
+   "price": 3.0,
+   "local": true
+  },
+  {
+   "id": "swede",
+   "name": "Swede",
+   "aliases": [
+    "swede",
+    "rutabaga"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "count"
+   },
+   "price": 0.75,
+   "local": true
+  },
+  {
+   "id": "parsnips",
+   "name": "Parsnips",
+   "aliases": [
+    "parsnip",
+    "parsnips"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 0.65,
+   "local": true
+  },
+  {
+   "id": "leeks",
+   "name": "Leeks",
+   "aliases": [
+    "leek",
+    "leeks"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 1.0,
+   "local": true
+  },
+  {
+   "id": "brussels-sprouts",
+   "name": "Brussels sprouts",
+   "aliases": [
+    "brussels sprouts",
+    "sprouts"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 500,
+    "unit": "g"
+   },
+   "price": 0.9,
+   "local": true
+  },
+  {
+   "id": "bramley-apples",
+   "name": "Bramley cooking apples",
+   "aliases": [
+    "bramley apples",
+    "cooking apples"
+   ],
+   "category": "Produce",
+   "pack": {
+    "qty": 1,
+    "unit": "kg"
+   },
+   "price": 2.1,
+   "local": true
+  },
+  {
+   "id": "quorn-mince",
+   "name": "Mycoprotein mince (Quorn)",
+   "aliases": [
+    "quorn",
+    "quorn mince",
+    "meat free mince"
+   ],
+   "category": "Meat & Protein",
+   "pack": {
+    "qty": 300,
+    "unit": "g"
+   },
+   "price": 2.75,
+   "local": true
+  },
+  {
+   "id": "sausage-rolls",
+   "name": "Sausage rolls",
+   "aliases": [
+    "sausage rolls"
+   ],
+   "category": "Frozen",
+   "pack": {
+    "qty": 6,
+    "unit": "count"
+   },
+   "price": 1.8,
+   "local": true
+  },
+  {
+   "id": "suet",
+   "name": "Beef suet",
+   "aliases": [
+    "suet"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 200,
+    "unit": "g"
+   },
+   "price": 1.75,
+   "local": true
+  },
+  {
+   "id": "self-raising-flour",
+   "name": "Self-raising flour",
+   "aliases": [
+    "self raising flour",
+    "self-raising flour"
+   ],
+   "category": "Grains & Pasta",
+   "pack": {
+    "qty": 1.5,
+    "unit": "kg"
+   },
+   "price": 0.9,
+   "local": true
+  }
+ ]
+}

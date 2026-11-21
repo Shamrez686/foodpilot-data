@@ -1,0 +1,184 @@
+{
+ "schema": 1,
+ "code": "CA",
+ "name": "Canada",
+ "currency": "CAD",
+ "currencySymbol": "$",
+ "locale": "en-CA",
+ "language": "en",
+ "units": "metric",
+ "livePriceProvider": null,
+ "priceLabel": "Estimated price",
+ "defaultRegion": "ON",
+ "regions": [
+  {
+   "id": "ON",
+   "name": "Ontario",
+   "multiplier": 1.0,
+   "match": {
+    "admin1": [
+     "Ontario"
+    ],
+    "codes": [
+     "ON"
+    ]
+   }
+  },
+  {
+   "id": "QC",
+   "name": "Quebec",
+   "multiplier": 0.98,
+   "match": {
+    "admin1": [
+     "Quebec"
+    ],
+    "codes": [
+     "QC"
+    ]
+   }
+  },
+  {
+   "id": "BC",
+   "name": "British Columbia",
+   "multiplier": 1.05,
+   "match": {
+    "admin1": [
+     "British Columbia"
+    ],
+    "codes": [
+     "BC"
+    ]
+   }
+  },
+  {
+   "id": "AB",
+   "name": "Alberta",
+   "multiplier": 1.0,
+   "match": {
+    "admin1": [
+     "Alberta"
+    ],
+    "codes": [
+     "AB"
+    ]
+   }
+  },
+  {
+   "id": "MB",
+   "name": "Manitoba",
+   "multiplier": 1.02,
+   "match": {
+    "admin1": [
+     "Manitoba"
+    ],
+    "codes": [
+     "MB"
+    ]
+   }
+  },
+  {
+   "id": "SK",
+   "name": "Saskatchewan",
+   "multiplier": 1.02,
+   "match": {
+    "admin1": [
+     "Saskatchewan"
+    ],
+    "codes": [
+     "SK"
+    ]
+   }
+  },
+  {
+   "id": "NS",
+   "name": "Nova Scotia",
+   "multiplier": 1.06,
+   "match": {
+    "admin1": [
+     "Nova Scotia"
+    ],
+    "codes": [
+     "NS"
+    ]
+   }
+  },
+  {
+   "id": "NB",
+   "name": "New Brunswick",
+   "multiplier": 1.05,
+   "match": {
+    "admin1": [
+     "New Brunswick"
+    ],
+    "codes": [
+     "NB"
+    ]
+   }
+  },
+  {
+   "id": "NL",
+   "name": "Newfoundland and Labrador",
+   "multiplier": 1.1,
+   "match": {
+    "admin1": [
+     "Newfoundland and Labrador"
+    ],
+    "codes": [
+     "NL"
+    ]
+   }
+  },
+  {
+   "id": "PE",
+   "name": "Prince Edward Island",
+   "multiplier": 1.07,
+   "match": {
+    "admin1": [
+     "Prince Edward Island"
+    ],
+    "codes": [
+     "PE"
+    ]
+   }
+  },
+  {
+   "id": "YT",
+   "name": "Yukon",
+   "multiplier": 1.25,
+   "match": {
+    "admin1": [
+     "Yukon"
+    ],
+    "codes": [
+     "YT"
+    ]
+   }
+  },
+  {
+   "id": "NT",
+   "name": "Northwest Territories",
+   "multiplier": 1.35,
+   "match": {
+    "admin1": [
+     "Northwest Territories"
+    ],
+    "codes": [
+     "NT"
+    ]
+   }
+  },
+  {
+   "id": "NU",
+   "name": "Nunavut",
+   "multiplier": 1.8,
+   "match": {
+    "admin1": [
+     "Nunavut"
+    ],
+    "codes": [
+     "NU"
+    ]
+   }
+  }
+ ]
+}

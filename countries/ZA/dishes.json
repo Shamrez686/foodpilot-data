@@ -1,0 +1,1882 @@
+{
+ "schema": 1,
+ "country": "ZA",
+ "dataVersion": "2026-11",
+ "dishes": [
+  {
+   "id": "za-pap-boerewors",
+   "title": "Pap and Boerewors with Chakalaka",
+   "description": "A braai classic: stiff maize porridge, boerewors and spicy relish.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Braai",
+    "Classic"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "boerewors",
+     "displayName": "Boerewors",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "mealie meal",
+     "displayName": "Mealie meal",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "chakalaka",
+     "displayName": "Chakalaka",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bring 300 ml salted water per serving to the boil. Stir in the maize meal, cover and cook on low 20 to 25 minutes, stirring now and then, until stiff.",
+    "Braai or pan-fry the boerewors coil 6 to 8 minutes per side until it reaches 71°C.",
+    "Warm the chakalaka and serve everything together."
+   ],
+   "emoji": "🌭",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-bobotie",
+   "title": "Bobotie",
+   "description": "Cape Malay spiced mince baked under an egg custard, with yellow rice.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 45,
+   "baseServings": 6,
+   "tags": [
+    "Cape Malay",
+    "Family Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Eggs",
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "beef mince",
+     "displayName": "Beef mince",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "chutney",
+     "displayName": "Chutney",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "apricot jam",
+     "displayName": "Apricot jam",
+     "quantityPerServing": 7.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 60,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 70,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 180°C. Fry the onion, add curry powder, then brown the mince.",
+    "Soak the bread in the milk, squeeze it out (keep the milk) and mix the bread, chutney and jam into the mince.",
+    "Spread in a dish. Whisk the eggs into the saved milk and pour over.",
+    "Bake 30 to 35 minutes until set and the mince reaches 71°C. Serve with rice cooked with a pinch of turmeric or curry powder."
+   ],
+   "emoji": "🥘",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-bunny-chow",
+   "title": "Durban Bunny Chow",
+   "description": "Spicy chicken curry served in a hollowed-out loaf.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 40,
+   "baseServings": 4,
+   "tags": [
+    "Durban",
+    "Street Food"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken thighs",
+     "displayName": "Chicken thighs",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "durban masala",
+     "displayName": "Durban masala",
+     "quantityPerServing": 7.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "ginger",
+     "displayName": "Ginger",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "unsliced bread",
+     "displayName": "Unsliced bread",
+     "quantityPerServing": 175,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Fry the onion in oil, add garlic, ginger and masala for 1 minute.",
+    "Add diced chicken and chopped tomato and cook 5 minutes, then add diced potato and 150 ml water per serving.",
+    "Simmer 25 minutes until the potato is soft and the chicken reaches 74°C.",
+    "Cut the loaf into quarters, hollow them out and fill with curry. Use the bread you took out for dipping."
+   ],
+   "emoji": "🍛",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-braai-chops",
+   "title": "Braai Lamb Chops with Mielies",
+   "description": "Chops and corn on the coals with salad.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Braai"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "mutton chops",
+     "displayName": "Mutton chops",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "braai spice",
+     "displayName": "Braai spice",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "mielies",
+     "displayName": "Mielies",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Season the chops with braai spice.",
+    "Braai or grill the mielies 15 minutes, turning.",
+    "Cook the chops 4 to 5 minutes per side over hot coals until they reach 63°C or more.",
+    "Serve with a tomato and onion salad."
+   ],
+   "emoji": "🍖",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-peri-peri-chicken",
+   "title": "Peri-Peri Chicken",
+   "description": "Spicy grilled chicken with chips and salad.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 40,
+   "baseServings": 4,
+   "tags": [
+    "Spicy"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "chicken thighs",
+     "displayName": "Chicken thighs",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "peri peri",
+     "displayName": "Peri peri",
+     "quantityPerServing": 2,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "chips",
+     "displayName": "Chips",
+     "quantityPerServing": 180,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Marinate the chicken in peri-peri sauce and lemon juice for at least 30 minutes.",
+    "Roast at 200°C or braai 30 to 35 minutes until it reaches 74°C.",
+    "Bake the chips and serve with salad and extra sauce."
+   ],
+   "emoji": "🌶️",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-chicken-livers",
+   "title": "Peri-Peri Chicken Livers",
+   "description": "Creamy spicy livers with bread.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 2,
+   "tags": [
+    "Quick",
+    "Budget"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken livers",
+     "displayName": "Chicken livers",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "peri peri",
+     "displayName": "Peri peri",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cream",
+     "displayName": "Cream",
+     "quantityPerServing": 40,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Fry the onion until soft.",
+    "Add the trimmed livers and fry 3 minutes, add peri-peri and cream and simmer 3 to 4 minutes until the livers reach 70°C with no pink juices.",
+    "Serve with bread."
+   ],
+   "emoji": "🍳",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-tomato-bredie",
+   "title": "Tomato Bredie",
+   "description": "Slow-cooked lamb and tomato stew.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 120,
+   "baseServings": 4,
+   "tags": [
+    "Slow Cook",
+    "Cape"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "mutton",
+     "displayName": "Mutton",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 240,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "cinnamon",
+     "displayName": "Cinnamon",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "sugar",
+     "displayName": "Sugar",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brown the mutton, add onion and cook until soft.",
+    "Add chopped tomatoes, cinnamon, sugar and 100 ml water per serving. Cover and simmer 1.5 hours.",
+    "Add potatoes and cook 30 minutes until the meat is tender (71°C or more). Serve with rice."
+   ],
+   "emoji": "🍲",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-samp-beans",
+   "title": "Umngqusho (Samp and Beans)",
+   "description": "Xhosa samp and beans, creamy and filling.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 180,
+   "baseServings": 6,
+   "tags": [
+    "Budget",
+    "Traditional"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Vegan",
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "samp and beans",
+     "displayName": "Samp and beans",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Soak the samp and beans overnight, drain.",
+    "Cover with fresh water and simmer 2.5 to 3 hours until soft, topping up water.",
+    "Fry the onion in oil, stir in with the stock and season."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-pap-morogo",
+   "title": "Pap with Morogo and Tomato Gravy",
+   "description": "Maize porridge with wild spinach and tomato relish.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Traditional",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "mealie meal",
+     "displayName": "Mealie meal",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "morogo",
+     "displayName": "Morogo",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Make stiff pap: stir the maize meal into 300 ml boiling salted water per serving, cover and cook 20 to 25 minutes on low.",
+    "Fry the onion in oil, add chopped tomato and cook 10 minutes into a gravy.",
+    "Wilt the morogo in a little water with salt for 5 minutes. Serve together."
+   ],
+   "emoji": "🥬",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-mince-and-rice",
+   "title": "Curried Mince and Rice",
+   "description": "Weeknight mince with peas and carrots.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Budget",
+    "Family Classic"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "beef mince",
+     "displayName": "Beef mince",
+     "quantityPerServing": 110,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomato paste",
+     "displayName": "Tomato paste",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brown the mince with onion and curry powder until it reaches 71°C.",
+    "Add diced carrot, tomato paste and 80 ml water per serving, simmer 15 minutes. Add peas.",
+    "Serve with rice."
+   ],
+   "emoji": "🍛",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-pilchard-curry",
+   "title": "Pilchard Curry",
+   "description": "Thrifty curry from tinned pilchards.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Fish"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pilchards",
+     "displayName": "Pilchards",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Fry the onion in oil, add curry powder and chopped tomato.",
+    "Add the pilchards with their sauce and simmer gently 10 minutes until piping hot.",
+    "Serve with rice or pap."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-vetkoek",
+   "title": "Vetkoek with Mince",
+   "description": "Fried dough bread filled with savoury mince.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 30,
+   "baseServings": 6,
+   "tags": [
+    "Street Food"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "cake flour",
+     "displayName": "Cake flour",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "sugar",
+     "displayName": "Sugar",
+     "quantityPerServing": 3,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "beef mince",
+     "displayName": "Beef mince",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 2.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 3,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Mix the flour, sugar, a pinch of salt, instant yeast and warm water into a soft dough. Rest 45 minutes until doubled.",
+    "Cook the mince with onion and curry powder until it reaches 71°C.",
+    "Shape small balls and deep-fry at 170°C for 4 to 5 minutes until golden and cooked through.",
+    "Split and fill with mince."
+   ],
+   "emoji": "🍞",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-rusks-coffee",
+   "title": "Rusks and Rooibos",
+   "description": "Classic South African breakfast dunk.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "No Cook"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Dairy",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "rusks",
+     "displayName": "Rusks",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "rooibos",
+     "displayName": "Rooibos",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brew the rooibos for 4 minutes and add milk.",
+    "Dunk the rusks."
+   ],
+   "emoji": "☕",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-maltabella",
+   "title": "Mabela Porridge",
+   "description": "Warm sorghum porridge with milk and sugar.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 10,
+   "baseServings": 1,
+   "tags": [
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "mabela",
+     "displayName": "Mabela",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 150,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "sugar",
+     "displayName": "Sugar",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Whisk the sorghum meal into 250 ml boiling water and simmer 8 minutes, stirring.",
+    "Serve with milk, sugar and butter."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-mageu-pap",
+   "title": "Soft Pap with Amasi",
+   "description": "Soft maize porridge with fermented milk.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 15,
+   "baseServings": 1,
+   "tags": [
+    "Traditional",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "mealie meal",
+     "displayName": "Mealie meal",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "amasi",
+     "displayName": "Amasi",
+     "quantityPerServing": 150,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "sugar",
+     "displayName": "Sugar",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": true
+    }
+   ],
+   "instructions": [
+    "Stir the maize meal into 300 ml boiling water and cook 15 minutes on low, stirring, into a soft porridge.",
+    "Cool slightly and pour over the amasi."
+   ],
+   "emoji": "🥛",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-boerie-roll",
+   "title": "Boerie Roll",
+   "description": "Boerewors in a roll with tomato-onion relish.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "Braai",
+    "Quick"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "boerewors",
+     "displayName": "Boerewors",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread rolls",
+     "displayName": "Bread rolls",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "chutney",
+     "displayName": "Chutney",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Braai or fry the boerewors until it reaches 71°C.",
+    "Fry the onion and tomato together into a relish.",
+    "Serve in rolls with relish and chutney."
+   ],
+   "emoji": "🌭",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-snoek-braai",
+   "title": "Braaied Snoek with Apricot Glaze",
+   "description": "West Coast snoek with sweet potatoes.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Cape",
+    "Braai"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Fish",
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "snoek",
+     "displayName": "Snoek",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "apricot jam",
+     "displayName": "Apricot jam",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "sweet potatoes",
+     "displayName": "Sweet potatoes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bake or boil the sweet potatoes until tender.",
+    "Melt the butter with jam and lemon juice.",
+    "Braai or grill the snoek flesh-side up, basting with the glaze, 15 to 20 minutes until it flakes and reaches 63°C."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-malay-chicken-curry",
+   "title": "Cape Malay Chicken Curry",
+   "description": "Fragrant, mildly sweet curry.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 40,
+   "baseServings": 4,
+   "tags": [
+    "Cape Malay"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "chicken thighs",
+     "displayName": "Chicken thighs",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "ginger",
+     "displayName": "Ginger",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cinnamon",
+     "displayName": "Cinnamon",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "apricot jam",
+     "displayName": "Apricot jam",
+     "quantityPerServing": 7.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 70,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Fry onion, garlic and ginger, add spices.",
+    "Add chicken and brown, then tomatoes, potatoes, jam and 120 ml water per serving.",
+    "Simmer 30 minutes until the chicken reaches 74°C. Serve with rice."
+   ],
+   "emoji": "🍛",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-butternut-soup",
+   "title": "Butternut Soup",
+   "description": "Velvety butternut soup with a hint of curry.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Budget",
+    "Winter"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "butternut",
+     "displayName": "Butternut",
+     "quantityPerServing": 300,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cream",
+     "displayName": "Cream",
+     "quantityPerServing": 20,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Fry the onion and curry powder, add diced butternut and stock with 250 ml water per serving.",
+    "Simmer 20 minutes, blend and stir in cream."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-gem-squash",
+   "title": "Stuffed Gem Squash",
+   "description": "Gem squash filled with cheesy sweetcorn.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Vegetarian"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "gem squash",
+     "displayName": "Gem squash",
+     "quantityPerServing": 300,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "sweetcorn",
+     "displayName": "Sweetcorn",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cheddar",
+     "displayName": "Cheddar",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Boil the whole squash 20 to 25 minutes until soft. Halve and scoop out the seeds.",
+    "Fill with corn, butter and cheese and grill 5 minutes until melted."
+   ],
+   "emoji": "🎃",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-chakalaka-beans",
+   "title": "Chakalaka and Beans with Rice",
+   "description": "Budget meat-free plate.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "chakalaka",
+     "displayName": "Chakalaka",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "sugar beans",
+     "displayName": "Sugar beans",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Soak and boil the sugar beans until soft (or use canned beans).",
+    "Heat with the chakalaka and serve with rice."
+   ],
+   "emoji": "🫘",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-tripe",
+   "title": "Mogodu (Tripe Stew)",
+   "description": "Traditional slow-cooked tripe with pap.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 180,
+   "baseServings": 6,
+   "tags": [
+    "Traditional"
+   ],
+   "dietaryTags": [
+    "Gluten-Free",
+    "Dairy-Free"
+   ],
+   "allergens": [],
+   "ingredients": [
+    {
+     "normalizedName": "tripe",
+     "displayName": "Tripe",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 2.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "mealie meal",
+     "displayName": "Mealie meal",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Rinse the cleaned tripe well and cut into pieces. Simmer in salted water 2.5 to 3 hours until tender.",
+    "Fry the onion with curry powder and add to the tripe for the last 20 minutes.",
+    "Serve with pap."
+   ],
+   "emoji": "🍲",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-russian-chips",
+   "title": "Russian and Slap Chips",
+   "description": "Takeaway favourite: sausage and soft vinegar chips.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 20,
+   "baseServings": 2,
+   "tags": [
+    "Takeaway"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "russians",
+     "displayName": "Russians",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "vinegar",
+     "displayName": "Vinegar",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 2,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Cut the potatoes into thick chips and fry at 160°C until soft (slap), about 10 minutes.",
+    "Fry or grill the Russian until it reaches 71°C.",
+    "Sprinkle the chips with salt and vinegar."
+   ],
+   "emoji": "🍟",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-polony-sandwich",
+   "title": "Polony and Atchar Sandwich",
+   "description": "Kasi lunchbox classic.",
+   "prepTimeMinutes": 3,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "No Cook"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten",
+    "Fish"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "polony",
+     "displayName": "Polony",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "atchar",
+     "displayName": "Atchar",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "margarine",
+     "displayName": "Margarine",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Spread the bread with margarine.",
+    "Fill with polony and atchar."
+   ],
+   "emoji": "🥪",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-malva",
+   "title": "Koeksister Treat",
+   "description": "Syrupy plaited koeksisters with rooibos.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Treat"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "koeksisters",
+     "displayName": "Koeksisters",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "rooibos",
+     "displayName": "Rooibos",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Serve a cold koeksister with hot rooibos tea."
+   ],
+   "emoji": "🍩",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "za-roti-curry",
+   "title": "Roti with Bean Curry",
+   "description": "Durban-style roti wrap.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Durban"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Vegan"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "roti",
+     "displayName": "Roti",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "sugar beans",
+     "displayName": "Sugar beans",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "durban masala",
+     "displayName": "Durban masala",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Cook the soaked beans until soft (or use canned).",
+    "Fry onion and masala, add tomato, diced potato, beans and 100 ml water per serving and simmer 20 minutes.",
+    "Heat the roti and roll it around the curry."
+   ],
+   "emoji": "🌯",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "South African",
+   "defaultFitReason": "optional"
+  }
+ ]
+}

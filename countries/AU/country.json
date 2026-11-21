@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "code": "AU",
+ "name": "Australia",
+ "currency": "AUD",
+ "currencySymbol": "$",
+ "locale": "en-AU",
+ "language": "en",
+ "units": "metric",
+ "livePriceProvider": null,
+ "priceLabel": "Estimated price",
+ "defaultRegion": "NSW",
+ "regions": [
+  {
+   "id": "NSW",
+   "name": "New South Wales",
+   "multiplier": 1.0,
+   "match": {
+    "admin1": [
+     "New South Wales"
+    ],
+    "codes": [
+     "NSW"
+    ]
+   }
+  },
+  {
+   "id": "VIC",
+   "name": "Victoria",
+   "multiplier": 0.99,
+   "match": {
+    "admin1": [
+     "Victoria"
+    ],
+    "codes": [
+     "VIC"
+    ]
+   }
+  },
+  {
+   "id": "QLD",
+   "name": "Queensland",
+   "multiplier": 1.0,
+   "match": {
+    "admin1": [
+     "Queensland"
+    ],
+    "codes": [
+     "QLD"
+    ]
+   }
+  },
+  {
+   "id": "WA",
+   "name": "Western Australia",
+   "multiplier": 1.03,
+   "match": {
+    "admin1": [
+     "Western Australia"
+    ],
+    "codes": [
+     "WA"
+    ]
+   }
+  },
+  {
+   "id": "SA",
+   "name": "South Australia",
+   "multiplier": 1.0,
+   "match": {
+    "admin1": [
+     "South Australia"
+    ],
+    "codes": [
+     "SA"
+    ]
+   }
+  },
+  {
+   "id": "TAS",
+   "name": "Tasmania",
+   "multiplier": 1.04,
+   "match": {
+    "admin1": [
+     "Tasmania"
+    ],
+    "codes": [
+     "TAS"
+    ]
+   }
+  },
+  {
+   "id": "ACT",
+   "name": "Australian Capital Territory",
+   "multiplier": 1.01,
+   "match": {
+    "admin1": [
+     "Australian Capital Territory"
+    ],
+    "codes": [
+     "ACT"
+    ]
+   }
+  },
+  {
+   "id": "NT",
+   "name": "Northern Territory",
+   "multiplier": 1.08,
+   "match": {
+    "admin1": [
+     "Northern Territory"
+    ],
+    "codes": [
+     "NT"
+    ]
+   }
+  }
+ ]
+}

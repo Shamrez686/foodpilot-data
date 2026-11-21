@@ -1,0 +1,1903 @@
+{
+ "schema": 1,
+ "country": "AU",
+ "dataVersion": "2026-11",
+ "dishes": [
+  {
+   "id": "au-snags-bbq",
+   "title": "Aussie BBQ Snags",
+   "description": "Sausages in bread with fried onions and sauce.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "BBQ",
+    "Quick"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "snags",
+     "displayName": "Snags",
+     "quantityPerServing": 160,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomato sauce squeeze",
+     "displayName": "Tomato sauce squeeze",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Grill the sausages over medium heat 12 to 15 minutes, turning, until they reach 71°C.",
+    "Fry the sliced onions in oil until soft and golden.",
+    "Wrap each snag in a slice of bread with onions and sauce."
+   ],
+   "emoji": "🌭",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-chicken-parmy",
+   "title": "Chicken Parmigiana",
+   "description": "Pub-style crumbed chicken with tomato and melted cheese, with chips and salad.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Pub Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Dairy",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken schnitzel",
+     "displayName": "Chicken schnitzel",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "passata",
+     "displayName": "Passata",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "ham",
+     "displayName": "Ham",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "mozzarella",
+     "displayName": "Mozzarella",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "chips",
+     "displayName": "Chips",
+     "quantityPerServing": 180,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 220°C and bake the chips.",
+    "Bake the schnitzels 15 minutes, then top with passata, ham and mozzarella.",
+    "Bake 8 to 10 minutes more until the cheese bubbles and the chicken reaches 74°C. Serve with salad."
+   ],
+   "emoji": "🍗",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-lamb-roast",
+   "title": "Roast Lamb with Vegetables",
+   "description": "Classic Sunday lamb roast with pumpkin and potatoes.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 100,
+   "baseServings": 6,
+   "tags": [
+    "Weekend",
+    "Family Classic"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "lamb leg",
+     "displayName": "Lamb leg",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butternut pumpkin",
+     "displayName": "Butternut pumpkin",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "olive oil",
+     "displayName": "Olive oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "mixed herbs",
+     "displayName": "Mixed herbs",
+     "quantityPerServing": 2.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 180°C. Rub the lamb with oil, garlic and herbs.",
+    "Roast the lamb about 25 minutes per 500 g until it reaches 63°C for medium-rare (71°C for medium).",
+    "Roast the potato and pumpkin chunks in oil for the last 50 minutes.",
+    "Rest the lamb 15 minutes, carve and serve with peas."
+   ],
+   "emoji": "🍖",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-lamb-chops-salad",
+   "title": "Lamb Chops with Greek Salad",
+   "description": "Grilled lamb chops with a fresh salad.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 10,
+   "baseServings": 2,
+   "tags": [
+    "Quick"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "lamb chops",
+     "displayName": "Lamb chops",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "cucumber",
+     "displayName": "Cucumber",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "red onion",
+     "displayName": "Red onion",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "haloumi",
+     "displayName": "Haloumi",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "olive oil",
+     "displayName": "Olive oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Season and grill the chops 3 to 4 minutes per side until they reach 63°C or more. Rest.",
+    "Fry slices of haloumi until golden.",
+    "Toss chopped tomato, cucumber and onion with oil and lemon. Serve with the chops and haloumi."
+   ],
+   "emoji": "🥗",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-barramundi",
+   "title": "Pan-Fried Barramundi",
+   "description": "Crispy-skin barramundi with lemon, rice and greens.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 15,
+   "baseServings": 2,
+   "tags": [
+    "Healthy",
+    "Quick"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Fish",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "barramundi",
+     "displayName": "Barramundi",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "broccoli",
+     "displayName": "Broccoli",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Cook the rice. Steam the broccoli.",
+    "Fry the barramundi skin-side down in butter 4 to 5 minutes, flip for 2 minutes until it reaches 63°C.",
+    "Squeeze over lemon and serve."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-prawn-pasta",
+   "title": "Garlic Prawn Pasta",
+   "description": "Spaghetti with garlic prawns, chilli and parsley.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "Quick",
+    "Summer"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Shellfish",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "prawns",
+     "displayName": "Prawns",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "spaghetti",
+     "displayName": "Spaghetti",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "chilli",
+     "displayName": "Chilli",
+     "quantityPerServing": 3.75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "olive oil",
+     "displayName": "Olive oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "parsley",
+     "displayName": "Parsley",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Cook the spaghetti.",
+    "Fry the garlic and chilli in oil for 1 minute, add the peeled prawns and heat through 2 minutes (if raw, cook until pink and 63°C).",
+    "Toss with pasta, lemon juice and parsley."
+   ],
+   "emoji": "🍤",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-meat-pie-peas",
+   "title": "Meat Pie with Mushy Peas",
+   "description": "The national favourite, with sauce.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Quick",
+    "Footy"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "meat pie",
+     "displayName": "Meat pie",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomato sauce squeeze",
+     "displayName": "Tomato sauce squeeze",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bake the frozen pies at 200°C for 25 to 30 minutes until the centre reaches 74°C.",
+    "Cook and roughly mash the peas.",
+    "Serve the pie with peas and tomato sauce."
+   ],
+   "emoji": "🥧",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-vegemite-toast",
+   "title": "Vegemite and Avocado Toast",
+   "description": "Toast with butter, a thin scrape of Vegemite and avocado.",
+   "prepTimeMinutes": 3,
+   "cookTimeMinutes": 3,
+   "baseServings": 1,
+   "tags": [
+    "Quick"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegemite",
+     "displayName": "Vegemite",
+     "quantityPerServing": 4,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "avocado",
+     "displayName": "Avocado",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Toast the bread and butter it.",
+    "Spread thinly with Vegemite and top with sliced avocado."
+   ],
+   "emoji": "🍞",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-smashed-avo",
+   "title": "Smashed Avo with Poached Eggs",
+   "description": "Café-style breakfast.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 8,
+   "baseServings": 2,
+   "tags": [
+    "Café"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Eggs",
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "avocado",
+     "displayName": "Avocado",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 2,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "haloumi",
+     "displayName": "Haloumi",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "chilli flakes",
+     "displayName": "Chilli flakes",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Poach the eggs in simmering water 3 to 4 minutes for runny yolks (longer for set).",
+    "Smash the avocado with lemon, salt and chilli.",
+    "Toast the bread, top with avo, eggs and crumbled or fried haloumi."
+   ],
+   "emoji": "🥑",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-weetbix-breakfast",
+   "title": "Weet-Bix with Banana",
+   "description": "Quick cereal breakfast.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "Kids"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "weet-bix",
+     "displayName": "Weet-bix",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 200,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "banana",
+     "displayName": "Banana",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "honey",
+     "displayName": "Honey",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Pour milk over the biscuits and top with sliced banana and honey."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-sausage-sizzle-rolls",
+   "title": "Sausage Rolls with Salad",
+   "description": "Golden sausage rolls with salad and sauce.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Kids"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "sausage rolls",
+     "displayName": "Sausage rolls",
+     "quantityPerServing": 2,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomato sauce squeeze",
+     "displayName": "Tomato sauce squeeze",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bake the sausage rolls 20 to 25 minutes at 200°C until puffed and 74°C in the centre.",
+    "Serve with salad and sauce."
+   ],
+   "emoji": "🥐",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-spag-bol",
+   "title": "Spag Bol",
+   "description": "Aussie family spaghetti bolognese.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 40,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pork and veal mince",
+     "displayName": "Pork and veal mince",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "spaghetti",
+     "displayName": "Spaghetti",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "passata",
+     "displayName": "Passata",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "mixed herbs",
+     "displayName": "Mixed herbs",
+     "quantityPerServing": 2.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brown the mince with onion, carrot and garlic until it reaches 71°C.",
+    "Add the passata, herbs and a splash of water and simmer 30 minutes.",
+    "Serve over cooked spaghetti."
+   ],
+   "emoji": "🍝",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-kangaroo-stirfry",
+   "title": "Kangaroo Stir-Fry",
+   "description": "Lean kangaroo with vegetables and noodles.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 10,
+   "baseServings": 2,
+   "tags": [
+    "Healthy"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Soy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "kangaroo",
+     "displayName": "Kangaroo",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "noodles",
+     "displayName": "Noodles",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "capsicum",
+     "displayName": "Capsicum",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "broccoli",
+     "displayName": "Broccoli",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "soy sauce",
+     "displayName": "Soy sauce",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Slice the kangaroo thinly and stir-fry very quickly in hot oil 1 to 2 minutes (best medium-rare, 63°C). Remove.",
+    "Stir-fry the vegetables and garlic 3 minutes.",
+    "Add cooked noodles, soy sauce and the meat. Toss and serve."
+   ],
+   "emoji": "🥢",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-corned-beef",
+   "title": "Corned Silverside with White Sauce",
+   "description": "Slow-simmered silverside with vegetables.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 150,
+   "baseServings": 6,
+   "tags": [
+    "Slow Cook"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "corned beef",
+     "displayName": "Corned beef",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "cabbage",
+     "displayName": "Cabbage",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "plain flour",
+     "displayName": "Plain flour",
+     "quantityPerServing": 8,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 100,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Cover the silverside with water, simmer gently 2.5 hours until tender and at least 71°C.",
+    "Add the potatoes and carrots for the last 30 minutes and cabbage for the last 10.",
+    "Make a white sauce: melt butter, stir in flour, whisk in milk until thick. Slice the beef and serve."
+   ],
+   "emoji": "🥩",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-fish-tacos",
+   "title": "Fish Fingers Tacos",
+   "description": "Crispy fish in tortillas with slaw.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "Kids",
+    "Quick"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Fish",
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "fish fingers",
+     "displayName": "Fish fingers",
+     "quantityPerServing": 84,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "tortillas",
+     "displayName": "Tortillas",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "cabbage",
+     "displayName": "Cabbage",
+     "quantityPerServing": 0.05,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "mayonnaise",
+     "displayName": "Mayonnaise",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "lime",
+     "displayName": "Lime",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bake the fish fingers until crisp and hot (74°C).",
+    "Shred cabbage and mix with mayo and lemon juice.",
+    "Fill warm tortillas with slaw and fish."
+   ],
+   "emoji": "🌮",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-pumpkin-soup",
+   "title": "Pumpkin Soup",
+   "description": "Smooth butternut pumpkin soup.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Budget",
+    "Winter"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "butternut pumpkin",
+     "displayName": "Butternut pumpkin",
+     "quantityPerServing": 300,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cream",
+     "displayName": "Cream",
+     "quantityPerServing": 20,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": true
+    }
+   ],
+   "instructions": [
+    "Fry the onion, add diced pumpkin and stock with 250 ml water per serving.",
+    "Simmer 20 minutes until soft, blend, and swirl in cream.",
+    "Serve with bread."
+   ],
+   "emoji": "🎃",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-chicken-schnitzel-salad",
+   "title": "Chicken Schnitzel Wraps",
+   "description": "Schnitzel, lettuce and sweet chilli in Lebanese bread.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 20,
+   "baseServings": 4,
+   "tags": [
+    "Quick"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken schnitzel",
+     "displayName": "Chicken schnitzel",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "lebanese bread",
+     "displayName": "Lebanese bread",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "sweet chilli sauce",
+     "displayName": "Sweet chilli sauce",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bake the schnitzel until crisp and 74°C, then slice.",
+    "Wrap in bread with lettuce and sweet chilli sauce."
+   ],
+   "emoji": "🌯",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-beef-burger",
+   "title": "Aussie Burger with the Lot",
+   "description": "Beef burger with beetroot, egg and pineapple optional.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "BBQ"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Eggs",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "beef mince",
+     "displayName": "Beef mince",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "beetroot",
+     "displayName": "Beetroot",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "cheese",
+     "displayName": "Cheese",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "bbq sauce",
+     "displayName": "Bbq sauce",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Shape the mince into patties and grill 4 to 5 minutes per side until they reach 71°C.",
+    "Fry the eggs and add cheese to the patties to melt.",
+    "Build the burgers with lettuce, tomato, beetroot, egg and sauce."
+   ],
+   "emoji": "🍔",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-damper",
+   "title": "Damper with Golden Syrup",
+   "description": "Bush bread for brunch.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 6,
+   "tags": [
+    "Camping"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "self raising flour",
+     "displayName": "Self raising flour",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 50,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "golden syrup",
+     "displayName": "Golden syrup",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 200°C. Rub the butter into the flour and add milk to make a soft dough.",
+    "Shape into a round, score the top and bake 25 to 30 minutes until it sounds hollow.",
+    "Serve warm with butter and golden syrup."
+   ],
+   "emoji": "🍞",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-lamington-snack",
+   "title": "Lamington and Tea",
+   "description": "Afternoon treat.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Treat",
+    "No Cook"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Dairy",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "lamingtons",
+     "displayName": "Lamingtons",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "tea",
+     "displayName": "Tea",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Serve a lamington with a cup of tea."
+   ],
+   "emoji": "🍰",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-satay-chicken",
+   "title": "Chicken Satay Skewers",
+   "description": "Grilled chicken with peanut sauce and rice.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 15,
+   "baseServings": 4,
+   "tags": [
+    "BBQ"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Peanuts",
+    "Soy",
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken thighs",
+     "displayName": "Chicken thighs",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "peanut butter",
+     "displayName": "Peanut butter",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "coconut milk",
+     "displayName": "Coconut milk",
+     "quantityPerServing": 50,
+     "unit": "ml",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "soy sauce",
+     "displayName": "Soy sauce",
+     "quantityPerServing": 1,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "cucumber",
+     "displayName": "Cucumber",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Thread diced chicken on skewers and grill 10 to 12 minutes until it reaches 74°C.",
+    "Warm the peanut butter, coconut milk and soy sauce into a sauce.",
+    "Serve with rice, cucumber and sauce."
+   ],
+   "emoji": "🍢",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-zucchini-slice",
+   "title": "Zucchini Slice",
+   "description": "Classic baked egg and zucchini slice, great cold.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 35,
+   "baseServings": 6,
+   "tags": [
+    "Lunchbox",
+    "Budget"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Eggs",
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "zucchini",
+     "displayName": "Zucchini",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "self raising flour",
+     "displayName": "Self raising flour",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "tasty cheese",
+     "displayName": "Tasty cheese",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 22.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "bacon",
+     "displayName": "Bacon",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": true
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 180°C. Grate the zucchini and onion, and mix with eggs, flour, cheese and bacon.",
+    "Pour into a lined tin and bake 30 to 35 minutes until set and golden.",
+    "Cut into squares."
+   ],
+   "emoji": "🥧",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-curried-sausages",
+   "title": "Curried Sausages",
+   "description": "Retro family favourite with rice.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Dairy-Free"
+   ],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "snags",
+     "displayName": "Snags",
+     "quantityPerServing": 160,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 70,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Simmer the sausages 5 minutes, cool and slice.",
+    "Fry onion and carrot, add curry powder, stock with 150 ml water per serving and the sausages.",
+    "Simmer 15 minutes, adding peas at the end, until sausages reach 71°C. Serve with rice."
+   ],
+   "emoji": "🍛",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-fairy-bread",
+   "title": "Fairy Bread",
+   "description": "Kids' party classic.",
+   "prepTimeMinutes": 3,
+   "cookTimeMinutes": 0,
+   "baseServings": 4,
+   "tags": [
+    "Kids",
+    "Treat"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "hundreds and thousands",
+     "displayName": "Hundreds and thousands",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Butter the bread, cover with sprinkles and cut into triangles."
+   ],
+   "emoji": "🎉",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-pavlova",
+   "title": "Pavlova with Berries",
+   "description": "Summer dessert-style brunch treat.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 0,
+   "baseServings": 8,
+   "tags": [
+    "Treat",
+    "Summer"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Eggs",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pavlova",
+     "displayName": "Pavlova",
+     "quantityPerServing": 0.12,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "cream",
+     "displayName": "Cream",
+     "quantityPerServing": 40,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "strawberries",
+     "displayName": "Strawberries",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "passionfruit",
+     "displayName": "Passionfruit",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Whip the cream to soft peaks and spread on the pavlova.",
+    "Top with strawberries and passionfruit pulp just before serving."
+   ],
+   "emoji": "🍓",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "au-mango-yoghurt",
+   "title": "Mango Yoghurt Bowl",
+   "description": "Fresh mango, yoghurt and macadamias.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 0,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "Summer"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy",
+    "Tree Nuts"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "mango",
+     "displayName": "Mango",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "yoghurt",
+     "displayName": "Yoghurt",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "macadamias",
+     "displayName": "Macadamias",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "honey",
+     "displayName": "Honey",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Spoon yoghurt into a bowl, top with diced mango, chopped macadamias and honey."
+   ],
+   "emoji": "🥭",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "Australian",
+   "defaultFitReason": "optional"
+  }
+ ]
+}

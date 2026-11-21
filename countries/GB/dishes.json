@@ -1,0 +1,2238 @@
+{
+ "schema": 1,
+ "country": "GB",
+ "dataVersion": "2026-11",
+ "dishes": [
+  {
+   "id": "gb-shepherds-pie",
+   "title": "Shepherd's Pie",
+   "description": "Lamb mince in rich gravy under a fluffy mash top.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 45,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "lamb mince",
+     "displayName": "Lamb mince",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomato puree",
+     "displayName": "Tomato puree",
+     "quantityPerServing": 7.5,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "worcestershire sauce",
+     "displayName": "Worcestershire sauce",
+     "quantityPerServing": 0.5,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 200°C. Peel and boil the potatoes for 15 to 20 minutes until soft.",
+    "Brown the lamb mince in a pan, then add the chopped onion and diced carrot and cook for 5 minutes.",
+    "Stir in the tomato puree, Worcestershire sauce, crumbled stock cube and 100 ml water per serving. Simmer 15 minutes, then add the peas.",
+    "Mash the potatoes with the butter and milk and season well.",
+    "Spoon the mince into a dish, top with mash and bake 20 to 25 minutes until golden. The filling should reach 75°C."
+   ],
+   "emoji": "🥧",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-cottage-pie",
+   "title": "Cottage Pie",
+   "description": "The beef version of shepherd's pie, topped with cheesy mash.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 45,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "beef mince",
+     "displayName": "Beef mince",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "cheddar",
+     "displayName": "Cheddar",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "gravy granules",
+     "displayName": "Gravy granules",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 200°C. Boil the peeled potatoes until soft.",
+    "Brown the beef with chopped onion and diced carrot.",
+    "Make the gravy granules up with 120 ml boiling water per serving and stir into the beef. Simmer 10 minutes.",
+    "Mash the potatoes with butter and milk.",
+    "Top the beef with mash and grated cheddar and bake 25 minutes until bubbling. The filling should reach 75°C."
+   ],
+   "emoji": "🥧",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-fish-and-chips",
+   "title": "Oven Fish and Chips",
+   "description": "Crispy breaded fish with oven chips and mushy peas.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Fish",
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "white fish",
+     "displayName": "White fish",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "oven chips",
+     "displayName": "Oven chips",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "mushy peas",
+     "displayName": "Mushy peas",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "plain flour",
+     "displayName": "Plain flour",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "lemon",
+     "displayName": "Lemon",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 220°C and bake the chips according to the pack.",
+    "Blitz or crumble the bread into crumbs. Dust the fish in flour, dip in beaten egg, then press in crumbs.",
+    "Put the fish on an oiled tray and bake 15 to 18 minutes until it flakes and reaches 63°C inside.",
+    "Warm the mushy peas and serve with the fish, chips and lemon wedges."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-bangers-and-mash",
+   "title": "Bangers and Mash",
+   "description": "Sausages with creamy mash and onion gravy.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic",
+    "Quick"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "cumberland sausage",
+     "displayName": "Cumberland sausage",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "gravy granules",
+     "displayName": "Gravy granules",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Grill or oven-bake the sausages for 20 to 25 minutes, turning, until cooked through to 75°C.",
+    "Boil the peeled potatoes for 15 to 20 minutes, then mash with butter and milk.",
+    "Slowly fry the sliced onion in a little butter until soft and golden, then add gravy granules made up with 120 ml boiling water per serving.",
+    "Cook the peas and serve everything with the onion gravy."
+   ],
+   "emoji": "🌭",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-full-english",
+   "title": "Full English Breakfast",
+   "description": "Bacon, sausage, egg, beans, mushrooms and toast.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 20,
+   "baseServings": 2,
+   "tags": [
+    "Weekend"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Eggs",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "bacon",
+     "displayName": "Bacon",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "sausages",
+     "displayName": "Sausages",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "baked beans",
+     "displayName": "Baked beans",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "mushrooms",
+     "displayName": "Mushrooms",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomatoes",
+     "displayName": "Tomatoes",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "black pudding",
+     "displayName": "Black pudding",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": true
+    }
+   ],
+   "instructions": [
+    "Grill the sausages for about 15 minutes, turning, until cooked through to 75°C.",
+    "Add the bacon, halved tomatoes and black pudding to the grill for the last 8 minutes.",
+    "Fry the sliced mushrooms in a little oil, then fry the eggs.",
+    "Warm the beans, toast the bread and serve everything together."
+   ],
+   "emoji": "🍳",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-beans-on-toast",
+   "title": "Cheesy Beans on Toast",
+   "description": "A quick, cheap British favourite.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 8,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "baked beans",
+     "displayName": "Baked beans",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "cheddar",
+     "displayName": "Cheddar",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Warm the beans in a pan for 4 to 5 minutes.",
+    "Toast and butter the bread.",
+    "Pour the beans over the toast and top with grated cheddar."
+   ],
+   "emoji": "🍞",
+   "supportedSlots": [
+    "LUNCH",
+    "BREAKFAST"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-crumpets-breakfast",
+   "title": "Buttered Crumpets with Honey",
+   "description": "Toasted crumpets with butter and honey.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 5,
+   "baseServings": 2,
+   "tags": [
+    "Quick"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "crumpets",
+     "displayName": "Crumpets",
+     "quantityPerServing": 2,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "honey",
+     "displayName": "Honey",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Toast the crumpets until crisp on top.",
+    "Spread with butter while hot and drizzle with honey."
+   ],
+   "emoji": "🥞",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-porridge",
+   "title": "Porridge with Banana",
+   "description": "Creamy oat porridge with banana and honey.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 6,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "oats",
+     "displayName": "Oats",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 250,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "banana",
+     "displayName": "Banana",
+     "quantityPerServing": 60,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "honey",
+     "displayName": "Honey",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Simmer the oats and milk for 5 minutes, stirring.",
+    "Top with sliced banana and honey."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-chicken-tikka-masala",
+   "title": "Chicken Tikka Masala",
+   "description": "Britain's favourite curry, mild and creamy.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Takeaway Favourite"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken breast",
+     "displayName": "Chicken breast",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "yogurt",
+     "displayName": "Yogurt",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "garlic",
+     "displayName": "Garlic",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "ginger",
+     "displayName": "Ginger",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "chopped tomatoes",
+     "displayName": "Chopped tomatoes",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "double cream",
+     "displayName": "Double cream",
+     "quantityPerServing": 30,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "basmati rice",
+     "displayName": "Basmati rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Mix the diced chicken with yogurt and half the curry powder.",
+    "Fry the chopped onion in oil for 8 minutes, add garlic, ginger and remaining curry powder for 1 minute.",
+    "Add the chicken and cook 5 minutes, then add the tomatoes and simmer 15 minutes until the chicken reaches 75°C.",
+    "Stir in the cream. Meanwhile cook the rice and serve together."
+   ],
+   "emoji": "🍛",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British Indian",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-sunday-roast-chicken",
+   "title": "Sunday Roast Chicken",
+   "description": "Roast chicken with roast potatoes, carrots and gravy.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 90,
+   "baseServings": 4,
+   "tags": [
+    "Weekend",
+    "Family Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "whole chicken",
+     "displayName": "Whole chicken",
+     "quantityPerServing": 375,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "parsnips",
+     "displayName": "Parsnips",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "gravy granules",
+     "displayName": "Gravy granules",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "yorkshire pudding",
+     "displayName": "Yorkshire pudding",
+     "quantityPerServing": 2,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": true
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 190°C. Roast the chicken about 20 minutes per 500 g plus 20 minutes, until the thickest part reaches 75°C.",
+    "Parboil chunks of potato for 8 minutes, shake, then roast in hot oil for 50 minutes.",
+    "Roast the carrots and parsnips with a little oil for 35 minutes.",
+    "Rest the chicken 10 minutes, make the gravy and heat the Yorkshire puddings.",
+    "Carve and serve."
+   ],
+   "emoji": "🍗",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-toad-in-the-hole",
+   "title": "Toad in the Hole",
+   "description": "Sausages baked in a puffy Yorkshire batter.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 40,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Eggs",
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "sausages",
+     "displayName": "Sausages",
+     "quantityPerServing": 120,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "plain flour",
+     "displayName": "Plain flour",
+     "quantityPerServing": 35,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 75,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "vegetable oil",
+     "displayName": "Vegetable oil",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "gravy granules",
+     "displayName": "Gravy granules",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 220°C. Whisk the flour, eggs and milk into a smooth batter.",
+    "Brown the sausages in a tin with the oil in the oven for 10 minutes.",
+    "Pour the batter around the sausages and bake 25 to 30 minutes without opening the door, until risen and golden and the sausages reach 75°C.",
+    "Serve with onion gravy."
+   ],
+   "emoji": "🌭",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-jacket-potato",
+   "title": "Jacket Potato with Beans and Cheese",
+   "description": "Crispy baked potato with beans and cheddar.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 60,
+   "baseServings": 1,
+   "tags": [
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 300,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "baked beans",
+     "displayName": "Baked beans",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cheddar",
+     "displayName": "Cheddar",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 200°C. Prick the potato and bake 60 minutes (or microwave 8 minutes, then bake 15).",
+    "Warm the beans.",
+    "Split the potato, add butter, beans and grated cheese."
+   ],
+   "emoji": "🥔",
+   "supportedSlots": [
+    "LUNCH",
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-cheese-toastie",
+   "title": "Ham and Cheese Toastie",
+   "description": "Golden grilled sandwich.",
+   "prepTimeMinutes": 3,
+   "cookTimeMinutes": 6,
+   "baseServings": 1,
+   "tags": [
+    "Quick"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "ham",
+     "displayName": "Ham",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "cheddar",
+     "displayName": "Cheddar",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "brown pickle",
+     "displayName": "Brown pickle",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": true
+    }
+   ],
+   "instructions": [
+    "Butter the outsides of the bread.",
+    "Fill with ham, grated cheese and pickle.",
+    "Fry in a dry pan 3 minutes per side until golden and melted."
+   ],
+   "emoji": "🥪",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-ploughmans",
+   "title": "Ploughman's Lunch",
+   "description": "Cheese, ham, pickle, apple and crusty bread.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 0,
+   "baseServings": 2,
+   "tags": [
+    "No Cook"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "cheddar",
+     "displayName": "Cheddar",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "ham",
+     "displayName": "Ham",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "brown pickle",
+     "displayName": "Brown pickle",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "apple",
+     "displayName": "Apple",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "pork pie",
+     "displayName": "Pork pie",
+     "quantityPerServing": 70,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": true
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Slice the cheese, apple and bread.",
+    "Arrange on a board with the ham, pork pie, pickle and lettuce."
+   ],
+   "emoji": "🧀",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-lancashire-hotpot",
+   "title": "Lancashire Hotpot",
+   "description": "Lamb and onion stew under crispy sliced potatoes.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 120,
+   "baseServings": 4,
+   "tags": [
+    "Slow Cook"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "lamb mince",
+     "displayName": "Lamb mince",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 250,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "worcestershire sauce",
+     "displayName": "Worcestershire sauce",
+     "quantityPerServing": 0.5,
+     "unit": "tsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 180°C. Brown the lamb and layer it in a dish with sliced onion and carrot.",
+    "Pour over stock made with 150 ml water per serving and the Worcestershire sauce.",
+    "Cover with thinly sliced potatoes in overlapping rows and dot with butter.",
+    "Cover and bake 90 minutes, then uncover for 30 minutes to crisp the top. The lamb should reach 75°C."
+   ],
+   "emoji": "🍲",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-macaroni-cheese",
+   "title": "Macaroni Cheese",
+   "description": "Baked pasta in a cheddar sauce.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic",
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pasta",
+     "displayName": "Pasta",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "cheddar",
+     "displayName": "Cheddar",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 150,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "plain flour",
+     "displayName": "Plain flour",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "mustard",
+     "displayName": "Mustard",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Cook the pasta 2 minutes less than the pack says and drain.",
+    "Melt the butter, stir in the flour, then whisk in the milk until thick. Add mustard and most of the cheese.",
+    "Mix the sauce with the pasta, top with the remaining cheese and grill or bake at 200°C for 10 minutes until golden."
+   ],
+   "emoji": "🧀",
+   "supportedSlots": [
+    "DINNER",
+    "LUNCH"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-kedgeree",
+   "title": "Kedgeree",
+   "description": "Smoked haddock, curried rice and egg.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Fish",
+    "Eggs",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "smoked haddock",
+     "displayName": "Smoked haddock",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "basmati rice",
+     "displayName": "Basmati rice",
+     "quantityPerServing": 70,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "curry powder",
+     "displayName": "Curry powder",
+     "quantityPerServing": 2.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 30,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "parsley",
+     "displayName": "Parsley",
+     "quantityPerServing": 3,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Poach the haddock in water for 8 minutes until it flakes and reaches 63°C. Flake it.",
+    "Hard-boil the eggs for 9 minutes.",
+    "Fry the onion in butter, add curry powder, then the rice and 2 times its volume of the fish water. Simmer 12 minutes, adding peas at the end.",
+    "Fold in the fish, top with quartered eggs and parsley."
+   ],
+   "emoji": "🍚",
+   "supportedSlots": [
+    "BREAKFAST",
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-cornish-pasty-style-bake",
+   "title": "Steak and Onion Pie Bake",
+   "description": "Steak and onion in gravy topped with mash crust.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 90,
+   "baseServings": 4,
+   "tags": [
+    "Slow Cook"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "stewing beef",
+     "displayName": "Stewing beef",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "swede",
+     "displayName": "Swede",
+     "quantityPerServing": 0.09,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "gravy granules",
+     "displayName": "Gravy granules",
+     "quantityPerServing": 22.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "plain flour",
+     "displayName": "Plain flour",
+     "quantityPerServing": 5,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Toss the beef in flour and brown it in a casserole.",
+    "Add onion, diced swede and gravy made with 200 ml water per serving. Cover and cook at 160°C for 75 minutes until tender.",
+    "Top with mash made from the potatoes and butter and bake at 200°C for 20 minutes. The filling should reach 75°C."
+   ],
+   "emoji": "🥧",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-leek-potato-soup",
+   "title": "Leek and Potato Soup",
+   "description": "Silky, thrifty soup with crusty bread.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 25,
+   "baseServings": 4,
+   "tags": [
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "leeks",
+     "displayName": "Leeks",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 50,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": true
+    }
+   ],
+   "instructions": [
+    "Soften the sliced leeks and onion in butter for 8 minutes.",
+    "Add diced potato and stock made with 250 ml water per serving. Simmer 15 minutes.",
+    "Blend with the milk, season and serve with bread."
+   ],
+   "emoji": "🥣",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-gammon-egg-chips",
+   "title": "Gammon, Egg and Chips",
+   "description": "Pub classic with pineapple optional.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 25,
+   "baseServings": 2,
+   "tags": [
+    "Pub Classic"
+   ],
+   "dietaryTags": [
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "gammon",
+     "displayName": "Gammon",
+     "quantityPerServing": 180,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "oven chips",
+     "displayName": "Oven chips",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "OTHER",
+     "optional": false
+    },
+    {
+     "normalizedName": "frozen peas",
+     "displayName": "Frozen peas",
+     "quantityPerServing": 50,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Bake the chips according to the pack.",
+    "Grill the gammon steaks 5 to 6 minutes per side until cooked to 70°C.",
+    "Fry the eggs and cook the peas. Serve together."
+   ],
+   "emoji": "🍖",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-beef-stew-dumplings",
+   "title": "Beef Stew with Dumplings",
+   "description": "Slow-cooked beef with fluffy suet dumplings.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 150,
+   "baseServings": 4,
+   "tags": [
+    "Slow Cook",
+    "Winter"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "stewing beef",
+     "displayName": "Stewing beef",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "carrots",
+     "displayName": "Carrots",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "swede",
+     "displayName": "Swede",
+     "quantityPerServing": 0.09,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "self raising flour",
+     "displayName": "Self raising flour",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "suet",
+     "displayName": "Suet",
+     "quantityPerServing": 20,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "tomato puree",
+     "displayName": "Tomato puree",
+     "quantityPerServing": 7.5,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Brown the beef, then add the onion, carrot and swede.",
+    "Add tomato puree and stock made with 250 ml water per serving. Cover and simmer gently 2 hours.",
+    "Mix the flour and suet with enough cold water to make a soft dough and roll into small balls.",
+    "Sit the dumplings on the stew, cover and cook 20 minutes more until risen. The beef should reach 75°C."
+   ],
+   "emoji": "🍲",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-fish-finger-sandwich",
+   "title": "Fish Finger Sandwich",
+   "description": "Crispy fish fingers in soft bread with mayo.",
+   "prepTimeMinutes": 2,
+   "cookTimeMinutes": 15,
+   "baseServings": 1,
+   "tags": [
+    "Quick",
+    "Kids"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Fish",
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "fish fingers",
+     "displayName": "Fish fingers",
+     "quantityPerServing": 4,
+     "unit": "count",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "bread",
+     "displayName": "Bread",
+     "quantityPerServing": 80,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "mayonnaise",
+     "displayName": "Mayonnaise",
+     "quantityPerServing": 1,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "lettuce",
+     "displayName": "Lettuce",
+     "quantityPerServing": 0.1,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Grill or bake the fish fingers 12 to 15 minutes, turning once, until piping hot.",
+    "Spread the bread with mayo, add lettuce and fish fingers."
+   ],
+   "emoji": "🐟",
+   "supportedSlots": [
+    "LUNCH"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-chicken-leek-pie",
+   "title": "Chicken and Leek Pie",
+   "description": "Creamy chicken and leek under a mash or pastry lid.",
+   "prepTimeMinutes": 20,
+   "cookTimeMinutes": 40,
+   "baseServings": 4,
+   "tags": [
+    "Family Classic"
+   ],
+   "dietaryTags": [],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "chicken thighs",
+     "displayName": "Chicken thighs",
+     "quantityPerServing": 150,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "leeks",
+     "displayName": "Leeks",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "plain flour",
+     "displayName": "Plain flour",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "milk",
+     "displayName": "Milk",
+     "quantityPerServing": 100,
+     "unit": "ml",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "stock",
+     "displayName": "Stock",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Fry diced chicken in butter until browned, add the sliced leeks and cook 5 minutes.",
+    "Stir in flour, then milk and stock made with 100 ml water per serving. Simmer 10 minutes until the chicken reaches 75°C.",
+    "Top with mashed potato and bake at 200°C for 20 minutes."
+   ],
+   "emoji": "🥧",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-bubble-and-squeak",
+   "title": "Bubble and Squeak",
+   "description": "Crispy fried potato and cabbage cakes with eggs.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 15,
+   "baseServings": 2,
+   "tags": [
+    "Budget",
+    "Leftovers"
+   ],
+   "dietaryTags": [
+    "Vegetarian",
+    "Gluten-Free"
+   ],
+   "allergens": [
+    "Eggs",
+    "Dairy"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "potatoes",
+     "displayName": "Potatoes",
+     "quantityPerServing": 200,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "cabbage",
+     "displayName": "Cabbage",
+     "quantityPerServing": 0.15,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "butter",
+     "displayName": "Butter",
+     "quantityPerServing": 10,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "eggs",
+     "displayName": "Eggs",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Boil and roughly mash the potatoes (or use leftovers). Shred and cook the cabbage for 4 minutes.",
+    "Mix with fried onion, then press into a hot buttered pan.",
+    "Fry 5 minutes per side until crisp. Serve with a fried egg."
+   ],
+   "emoji": "🥔",
+   "supportedSlots": [
+    "BREAKFAST",
+    "LUNCH"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-roast-veg-pasta-bake",
+   "title": "Roast Vegetable Pasta Bake",
+   "description": "Courgette, peppers and tomato pasta with melted mozzarella.",
+   "prepTimeMinutes": 15,
+   "cookTimeMinutes": 35,
+   "baseServings": 4,
+   "tags": [
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "pasta",
+     "displayName": "Pasta",
+     "quantityPerServing": 90,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "courgette",
+     "displayName": "Courgette",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "bell peppers",
+     "displayName": "Peppers",
+     "quantityPerServing": 0.5,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "red onion",
+     "displayName": "Red onion",
+     "quantityPerServing": 37.5,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "passata",
+     "displayName": "Passata",
+     "quantityPerServing": 125,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "mozzarella",
+     "displayName": "Mozzarella",
+     "quantityPerServing": 40,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "olive oil",
+     "displayName": "Olive oil",
+     "quantityPerServing": 0.5,
+     "unit": "tbsp",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "mixed herbs",
+     "displayName": "Mixed herbs",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Heat the oven to 200°C. Roast the chopped vegetables in oil for 20 minutes.",
+    "Cook the pasta and drain.",
+    "Mix pasta, vegetables, passata and herbs in a dish, top with torn mozzarella and bake 15 minutes."
+   ],
+   "emoji": "🍝",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-scones-tea",
+   "title": "Cream Tea Scones",
+   "description": "Scones with jam and clotted cream.",
+   "prepTimeMinutes": 5,
+   "cookTimeMinutes": 0,
+   "baseServings": 2,
+   "tags": [
+    "Treat",
+    "No Cook"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Dairy",
+    "Gluten",
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "scones",
+     "displayName": "Scones",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    },
+    {
+     "normalizedName": "jam",
+     "displayName": "Jam",
+     "quantityPerServing": 15,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "clotted cream",
+     "displayName": "Clotted cream",
+     "quantityPerServing": 25,
+     "unit": "g",
+     "category": "DAIRY_AND_ALTERNATIVES",
+     "optional": false
+    },
+    {
+     "normalizedName": "tea",
+     "displayName": "Tea",
+     "quantityPerServing": 1,
+     "unit": "count",
+     "category": "OTHER",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Warm the scones for 5 minutes at 180°C if you like.",
+    "Split and spread with jam and clotted cream. Serve with tea."
+   ],
+   "emoji": "🫖",
+   "supportedSlots": [
+    "BREAKFAST"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  },
+  {
+   "id": "gb-veggie-chilli",
+   "title": "Quorn Chilli",
+   "description": "Meat-free chilli with kidney beans and rice.",
+   "prepTimeMinutes": 10,
+   "cookTimeMinutes": 30,
+   "baseServings": 4,
+   "tags": [
+    "Budget"
+   ],
+   "dietaryTags": [
+    "Vegetarian"
+   ],
+   "allergens": [
+    "Eggs"
+   ],
+   "ingredients": [
+    {
+     "normalizedName": "quorn mince",
+     "displayName": "Quorn mince",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PROTEIN",
+     "optional": false
+    },
+    {
+     "normalizedName": "kidney beans",
+     "displayName": "Kidney beans",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "chopped tomatoes",
+     "displayName": "Chopped tomatoes",
+     "quantityPerServing": 100,
+     "unit": "g",
+     "category": "CANNED_GOODS",
+     "optional": false
+    },
+    {
+     "normalizedName": "onion",
+     "displayName": "Onion",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "bell peppers",
+     "displayName": "Peppers",
+     "quantityPerServing": 0.25,
+     "unit": "count",
+     "category": "PRODUCE",
+     "optional": false
+    },
+    {
+     "normalizedName": "chilli powder",
+     "displayName": "Chilli powder",
+     "quantityPerServing": 2.5,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "cumin",
+     "displayName": "Cumin",
+     "quantityPerServing": 1.25,
+     "unit": "g",
+     "category": "SPICES_AND_OILS",
+     "optional": false
+    },
+    {
+     "normalizedName": "rice",
+     "displayName": "Rice",
+     "quantityPerServing": 75,
+     "unit": "g",
+     "category": "GRAINS_AND_PASTA",
+     "optional": false
+    }
+   ],
+   "instructions": [
+    "Fry the onion and pepper for 5 minutes, add the spices for 1 minute.",
+    "Add the mince, beans and tomatoes. Simmer 20 minutes.",
+    "Serve with cooked rice."
+   ],
+   "emoji": "🌶️",
+   "supportedSlots": [
+    "DINNER"
+   ],
+   "cuisine": "British",
+   "defaultFitReason": "optional"
+  }
+ ]
+}
