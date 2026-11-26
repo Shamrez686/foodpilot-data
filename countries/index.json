@@ -1,36 +1,36 @@
 {
  "schema": 1,
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "countries": [
   {
    "code": "US",
    "name": "United States",
-   "dataVersion": "2026-11.4"
+   "dataVersion": "2026-11.5"
   },
   {
    "code": "GB",
    "name": "United Kingdom",
-   "dataVersion": "2026-11.4"
+   "dataVersion": "2026-11.5"
   },
   {
    "code": "CA",
    "name": "Canada",
-   "dataVersion": "2026-11.4"
+   "dataVersion": "2026-11.5"
   },
   {
    "code": "AU",
    "name": "Australia",
-   "dataVersion": "2026-11.4"
+   "dataVersion": "2026-11.5"
   },
   {
    "code": "DE",
    "name": "Germany",
-   "dataVersion": "2026-11.4"
+   "dataVersion": "2026-11.5"
   },
   {
    "code": "ZA",
    "name": "South Africa",
-   "dataVersion": "2026-11.4"
+   "dataVersion": "2026-11.5"
   }
  ]
 }

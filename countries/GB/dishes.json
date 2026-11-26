@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "country": "GB",
- "dataVersion": "2026-11.4",
+ "dataVersion": "2026-11.5",
  "dishes": [
   {
    "id": "gb-shepherds-pie",
@@ -538,9 +538,11 @@
     }
    ],
    "instructions": [
-    "Warm the beans in a pan for 4 to 5 minutes.",
-    "Toast and butter the bread.",
-    "Pour the beans over the toast and top with grated cheddar."
+    "Prep and measure all ingredients: chop the fresh items and set out bread and baked beans (3 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté baked beans over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in baked beans and cook for 3 minutes until heated through and well coated.",
+    "Finish with cheddar and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🍞",
    "supportedSlots": [
@@ -594,8 +596,11 @@
     }
    ],
    "instructions": [
-    "Toast the crumpets until crisp on top.",
-    "Spread with butter while hot and drizzle with honey."
+    "Prep and measure all ingredients: chop the fresh items and set out crumpets (3 min).",
+    "Start cooking crumpets according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté the main ingredients over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in honey and cook for 2 minutes until heated through and well coated.",
+    "Finish with butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🥞",
    "supportedSlots": [
@@ -657,8 +662,11 @@
     }
    ],
    "instructions": [
-    "Simmer the oats and milk for 5 minutes, stirring.",
-    "Top with sliced banana and honey."
+    "Prep and measure all ingredients: chop banana and set out oats (3 min).",
+    "Start cooking oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in banana and honey and cook for 2 minutes until heated through and well coated.",
+    "Finish with milk, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🥣",
    "supportedSlots": [
@@ -1004,9 +1012,11 @@
     }
    ],
    "instructions": [
-    "Heat the oven to 200°C. Prick the potato and bake 60 minutes (or microwave 8 minutes, then bake 15).",
-    "Warm the beans.",
-    "Split the potato, add butter, beans and grated cheese."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes (5 min).",
+    "Toss potatoes with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over baked beans. Roast or bake for 55 minutes until golden and cooked through.",
+    "Top with cheddar and butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "emoji": "🥔",
    "supportedSlots": [
@@ -1074,9 +1084,11 @@
     }
    ],
    "instructions": [
-    "Butter the outsides of the bread.",
-    "Fill with ham, grated cheese and pickle.",
-    "Fry in a dry pan 3 minutes per side until golden and melted."
+    "Prep and measure all ingredients: chop the fresh items and set out ham and bread (3 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add ham seasoned with brown pickle and cook for 5 minutes, turning until browned and cooked through.",
+    "Stir in brown pickle and cook for 2 minutes until heated through and well coated.",
+    "Finish with cheddar and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🥪",
    "supportedSlots": [
@@ -1159,8 +1171,11 @@
     }
    ],
    "instructions": [
-    "Slice the cheese, apple and bread.",
-    "Arrange on a board with the ham, pork pie, pickle and lettuce."
+    "Prep and measure all ingredients: chop apple and lettuce and set out ham, pork pie, and bread (10 min).",
+    "Start cooking bread according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+    "Add ham and pork pie seasoned with brown pickle and cook for 9 minutes, turning until browned and cooked through.",
+    "Stir in apple, lettuce, and brown pickle and cook for 6 minutes until heated through and well coated.",
+    "Finish with cheddar, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🧀",
    "supportedSlots": [
@@ -1324,9 +1339,11 @@
     }
    ],
    "instructions": [
-    "Cook the pasta 2 minutes less than the pack says and drain.",
-    "Melt the butter, stir in the flour, then whisk in the milk until thick. Add mustard and most of the cheese.",
-    "Mix the sauce with the pasta, top with the remaining cheese and grill or bake at 200°C for 10 minutes until golden."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop the vegetables and prep your protein (10 min).",
+    "Cook pasta and plain flour for 11 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook the fillings for 5 minutes until golden and tender.",
+    "Add mustard, cheddar, and milk and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "emoji": "🧀",
    "supportedSlots": [
@@ -1506,9 +1523,11 @@
     }
    ],
    "instructions": [
-    "Toss the beef in flour and brown it in a casserole.",
-    "Add onion, diced swede and gravy made with 200 ml water per serving. Cover and cook at 160°C for 75 minutes until tender.",
-    "Top with mash made from the potatoes and butter and bake at 200°C for 20 minutes. The filling should reach 75°C."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep onion, swede, and potatoes (12 min).",
+    "Toss stewing beef, onion, swede, and potatoes with gravy granules so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 85 minutes until golden and cooked through.",
+    "Top with butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "emoji": "🥧",
    "supportedSlots": [
@@ -1593,9 +1612,11 @@
     }
    ],
    "instructions": [
-    "Soften the sliced leeks and onion in butter for 8 minutes.",
-    "Add diced potato and stock made with 250 ml water per serving. Simmer 15 minutes.",
-    "Blend with the milk, season and serve with bread."
+    "Dice leeks, potatoes, and onion and measure out bread (10 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion for 4 minutes until fragrant and softened.",
+    "Stir in stock for 1 minute until aromatic, then add leeks and potatoes.",
+    "Pour in bread, bring to a gentle boil, then reduce heat and simmer uncovered for 16 minutes until tender.",
+    "Taste and adjust seasoning, stir in butter and milk, and ladle hot into warm bowls."
    ],
    "emoji": "🥣",
    "supportedSlots": [
@@ -1655,9 +1676,11 @@
     }
    ],
    "instructions": [
-    "Bake the chips according to the pack.",
-    "Grill the gammon steaks 5 to 6 minutes per side until cooked to 70°C.",
-    "Fry the eggs and cook the peas. Serve together."
+    "Prep and measure all ingredients: chop frozen peas and set out gammon (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add gammon seasoned with salt and pepper and cook for 15 minutes, turning until browned and cooked through.",
+    "Stir in frozen peas and cook for 6 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🍖",
    "supportedSlots": [
@@ -1812,8 +1835,11 @@
     }
    ],
    "instructions": [
-    "Grill or bake the fish fingers 12 to 15 minutes, turning once, until piping hot.",
-    "Spread the bread with mayo, add lettuce and fish fingers."
+    "Prep and measure all ingredients: chop lettuce and set out fish fingers and bread (3 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add fish fingers seasoned with mayonnaise and cook for 9 minutes, turning until browned and cooked through.",
+    "Stir in lettuce and mayonnaise and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🐟",
    "supportedSlots": [
@@ -1896,9 +1922,11 @@
     }
    ],
    "instructions": [
-    "Fry diced chicken in butter until browned, add the sliced leeks and cook 5 minutes.",
-    "Stir in flour, then milk and stock made with 100 ml water per serving. Simmer 10 minutes until the chicken reaches 75°C.",
-    "Top with mashed potato and bake at 200°C for 20 minutes."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep leeks and potatoes (12 min).",
+    "Toss chicken thighs, leeks, potatoes, and plain flour with stock so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 35 minutes until golden and cooked through.",
+    "Top with butter and milk and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "emoji": "🥧",
    "supportedSlots": [
@@ -1969,9 +1997,11 @@
     }
    ],
    "instructions": [
-    "Boil and roughly mash the potatoes (or use leftovers). Shred and cook the cabbage for 4 minutes.",
-    "Mix with fried onion, then press into a hot buttered pan.",
-    "Fry 5 minutes per side until crisp. Serve with a fried egg."
+    "Prep and measure all ingredients: chop potatoes, cabbage, and onion and set out your staples (10 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté potatoes, cabbage, and onion over medium heat for 9 minutes until tender and lightly golden.",
+    "Stir in potatoes and cabbage and cook for 6 minutes until heated through and well coated.",
+    "Finish with butter and eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🥔",
    "supportedSlots": [
@@ -2065,9 +2095,11 @@
     }
    ],
    "instructions": [
-    "Heat the oven to 200°C. Roast the chopped vegetables in oil for 20 minutes.",
-    "Cook the pasta and drain.",
-    "Mix pasta, vegetables, passata and herbs in a dish, top with torn mozzarella and bake 15 minutes."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep courgette, peppers, and red onion (12 min).",
+    "Toss courgette, peppers, red onion, and pasta with olive oil and mixed herbs so everything is evenly coated.",
+    "Arrange in an even layer and spoon over passata. Roast or bake for 30 minutes until golden and cooked through.",
+    "Top with mozzarella and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "emoji": "🍝",
    "supportedSlots": [
@@ -2130,8 +2162,11 @@
     }
    ],
    "instructions": [
-    "Warm the scones for 5 minutes at 180°C if you like.",
-    "Split and spread with jam and clotted cream. Serve with tea."
+    "Prep and measure all ingredients: chop the fresh items and set out scones (5 min).",
+    "Start cooking scones according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+    "Sauté the main ingredients over medium heat for 9 minutes until tender and lightly golden.",
+    "Stir in jam and cook for 6 minutes until heated through and well coated.",
+    "Finish with clotted cream, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🫖",
    "supportedSlots": [
@@ -2223,9 +2258,11 @@
     }
    ],
    "instructions": [
-    "Fry the onion and pepper for 5 minutes, add the spices for 1 minute.",
-    "Add the mince, beans and tomatoes. Simmer 20 minutes.",
-    "Serve with cooked rice."
+    "Prep and measure all ingredients: chop onion and peppers and set out quorn mince, rice, and kidney beans (10 min).",
+    "Start cooking rice according to package directions (about 18 minutes) so it finishes alongside the skillet.",
+    "Add quorn mince seasoned with chilli powder and cumin and cook for 18 minutes, turning until browned and cooked through.",
+    "Stir in kidney beans, chopped tomatoes, and onion and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "emoji": "🌶️",
    "supportedSlots": [
@@ -2295,9 +2332,11 @@
     }
    ],
    "instructions": [
-    "Combine oats and liquid in a small saucepan or jar.",
-    "Simmer over medium heat 6–8 minutes, stirring until creamy.",
-    "Top with the remaining ingredients and serve warm or chilled."
+    "Prep and measure all ingredients: chop banana and set out rolled oats (5 min).",
+    "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in banana, ground cinnamon, and honey and cook for 3 minutes until heated through and well coated.",
+    "Finish with milk, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2359,9 +2398,11 @@
     }
    ],
    "instructions": [
-    "Combine oats and liquid in a small saucepan or jar.",
-    "Simmer over medium heat 6–8 minutes, stirring until creamy.",
-    "Top with the remaining ingredients and serve warm or chilled."
+    "Prep and measure all ingredients: chop banana and set out rolled oats (3 min).",
+    "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in banana and peanut butter and cook for 2 minutes until heated through and well coated.",
+    "Finish with milk, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2430,9 +2471,11 @@
     }
    ],
    "instructions": [
-    "Combine oats and liquid in a small saucepan or jar.",
-    "Simmer over medium heat 6–8 minutes, stirring until creamy.",
-    "Top with the remaining ingredients and serve warm or chilled."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep apple (5 min).",
+    "Toss apple and rolled oats with ground cinnamon and honey so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 12 minutes until golden and cooked through.",
+    "Top with milk and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2501,9 +2544,11 @@
     }
    ],
    "instructions": [
-    "Combine oats and liquid in a small saucepan or jar.",
-    "Stir well and refrigerate overnight until thickened.",
-    "Top with the remaining ingredients and serve warm or chilled."
+    "Prep and measure all ingredients: chop strawberries and set out rolled oats (5 min).",
+    "Start cooking rolled oats according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+    "Sauté strawberries over medium heat for 9 minutes until tender and lightly golden.",
+    "Stir in strawberries and honey and cook for 6 minutes until heated through and well coated.",
+    "Finish with greek yogurt and milk, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2573,9 +2618,11 @@
     }
    ],
    "instructions": [
-    "Combine oats and liquid in a small saucepan or jar.",
-    "Simmer over medium heat 6–8 minutes, stirring until creamy.",
-    "Top with the remaining ingredients and serve warm or chilled."
+    "Prep and measure all ingredients: chop banana and set out rolled oats (4 min).",
+    "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in banana, cocoa powder, and peanut butter and cook for 2 minutes until heated through and well coated.",
+    "Finish with milk, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2644,9 +2691,11 @@
     }
    ],
    "instructions": [
-    "Combine oats and liquid in a small saucepan or jar.",
-    "Simmer over medium heat 6–8 minutes, stirring until creamy.",
-    "Top with the remaining ingredients and serve warm or chilled."
+    "Prep and measure all ingredients: chop apple and set out rolled oats (5 min).",
+    "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté apple over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in apple, ground cinnamon, and sugar and cook for 3 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2715,9 +2764,11 @@
     }
    ],
    "instructions": [
-    "Combine oats and liquid in a small saucepan or jar.",
-    "Simmer over medium heat 6–8 minutes, stirring until creamy.",
-    "Top with the remaining ingredients and serve warm or chilled."
+    "Prep and measure all ingredients: chop baby spinach and set out rolled oats and chicken broth (5 min).",
+    "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté baby spinach and chicken broth over medium heat for 6 minutes until tender and lightly golden.",
+    "Stir in chicken broth and baby spinach and cook for 4 minutes until heated through and well coated.",
+    "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2780,9 +2831,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop baby spinach and set out your staples (4 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté baby spinach over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in baby spinach and cook for 2 minutes until heated through and well coated.",
+    "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2853,9 +2906,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop mushrooms, garlic, and fresh parsley and set out your staples (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté mushrooms, garlic, and fresh parsley over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in mushrooms and garlic and cook for 3 minutes until heated through and well coated.",
+    "Finish with eggs and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2925,9 +2980,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop the fresh items and set out sliced ham (4 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add sliced ham seasoned with salt and pepper and cook for 5 minutes, turning until browned and cooked through.",
+    "Stir in the remaining ingredients and cook for 2 minutes until heated through and well coated.",
+    "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -2997,9 +3054,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop avocado and tomato and set out flour tortillas (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté avocado and tomato over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in avocado and tomato and cook for 2 minutes until heated through and well coated.",
+    "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3068,9 +3127,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop potatoes and set out bacon and flour tortillas (8 min).",
+    "Start cooking flour tortillas according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add bacon seasoned with salt and pepper and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in potatoes and cook for 5 minutes until heated through and well coated.",
+    "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3141,9 +3202,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop tomato and avocado and set out black beans (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté tomato, avocado, and black beans over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in black beans, tomato, and avocado and cook for 3 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3228,9 +3291,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop bell pepper, onion, and garlic and set out bread and chopped tomatoes (6 min).",
+    "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté bell pepper, onion, and garlic over medium heat for 8 minutes until tender and lightly golden.",
+    "Stir in chopped tomatoes, bell pepper, and onion and cook for 6 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3299,9 +3364,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop sweet potato, baby spinach, and onion and set out your staples (8 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Sauté sweet potato, baby spinach, and onion over medium heat for 9 minutes until tender and lightly golden.",
+    "Stir in sweet potato, baby spinach, and olive oil and cook for 6 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3363,9 +3430,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop tomato and set out whole wheat bread (4 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté tomato over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in tomato and cook for 2 minutes until heated through and well coated.",
+    "Finish with eggs and mozzarella, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3434,9 +3503,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Assemble all ingredients in a bowl and serve chilled.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop strawberries and banana and set out rolled oats (4 min).",
+    "Start cooking rolled oats according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+    "Sauté strawberries and banana over medium heat for 9 minutes until tender and lightly golden.",
+    "Stir in strawberries, banana, and honey and cook for 6 minutes until heated through and well coated.",
+    "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3498,9 +3569,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop banana and set out whole wheat bread (3 min).",
+    "Warm a large skillet over medium-high heat with peanut butter for 1 minute.",
+    "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in banana, peanut butter, and honey and cook for 2 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3578,9 +3651,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop the fresh items and set out all-purpose flour (5 min).",
+    "Start cooking all-purpose flour according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté the main ingredients over medium heat for 6 minutes until tender and lightly golden.",
+    "Stir in baking powder and honey and cook for 4 minutes until heated through and well coated.",
+    "Finish with milk and eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3650,9 +3725,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop banana and set out rolled oats (5 min).",
+    "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in banana and ground cinnamon and cook for 3 minutes until heated through and well coated.",
+    "Finish with eggs and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3730,9 +3807,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop apple and set out bread (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté apple over medium heat for 6 minutes until tender and lightly golden.",
+    "Stir in apple and ground cinnamon and cook for 4 minutes until heated through and well coated.",
+    "Finish with eggs and milk, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3794,9 +3873,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop the fresh items and set out pork sausage and bread (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add pork sausage seasoned with salt and pepper and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in the remaining ingredients and cook for 4 minutes until heated through and well coated.",
+    "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3866,9 +3947,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep broccoli and bell pepper (6 min).",
+    "Toss broccoli and bell pepper with olive oil so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 12 minutes until golden and cooked through.",
+    "Top with eggs and cheddar cheese and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -3947,9 +4030,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop baby spinach, bell pepper, and onion and set out firm tofu and bread (5 min).",
+    "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add firm tofu seasoned with olive oil and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in baby spinach, bell pepper, and olive oil and cook for 4 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4011,9 +4096,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep all ingredients (3 min).",
+    "Toss whole wheat bread with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over baked beans. Roast or bake for 12 minutes until golden and cooked through.",
+    "Top with eggs and butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4075,9 +4162,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Assemble all ingredients in a bowl and serve chilled.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop apple and set out your staples (4 min).",
+    "Warm a large skillet over medium-high heat with peanut butter for 1 minute.",
+    "Sauté apple over medium heat for 9 minutes until tender and lightly golden.",
+    "Stir in apple, peanut butter, and ground cinnamon and cook for 6 minutes until heated through and well coated.",
+    "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4145,9 +4234,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop potatoes and onion and set out bacon (8 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add bacon seasoned with olive oil and cook for 9 minutes, turning until browned and cooked through.",
+    "Stir in potatoes, onion, and olive oil and cook for 6 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4217,9 +4308,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop baby spinach and set out flour tortillas (4 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté baby spinach over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in baby spinach and smoked paprika and cook for 2 minutes until heated through and well coated.",
+    "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4280,9 +4373,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop cucumber and tomato and set out whole wheat bread (4 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté cucumber and tomato over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in cucumber and tomato and cook for 2 minutes until heated through and well coated.",
+    "Finish with cream cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4352,9 +4447,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop baby spinach and avocado and set out chicken breast (5 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add chicken breast seasoned with olive oil and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in baby spinach, avocado, and olive oil and cook for 4 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4423,9 +4520,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Assemble all ingredients in a bowl and serve chilled.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop banana and strawberries and set out rolled oats (5 min).",
+    "Start cooking rolled oats according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+    "Sauté banana and strawberries over medium heat for 9 minutes until tender and lightly golden.",
+    "Stir in banana and strawberries and cook for 6 minutes until heated through and well coated.",
+    "Finish with greek yogurt and milk, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4495,9 +4594,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep zucchini and onion (8 min).",
+    "Toss zucchini and onion with olive oil so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 13 minutes until golden and cooked through.",
+    "Top with eggs and cheddar cheese and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4558,9 +4659,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop baby spinach and set out sliced ham and flour tortillas (4 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add sliced ham seasoned with salt and pepper and cook for 5 minutes, turning until browned and cooked through.",
+    "Stir in baby spinach and cook for 2 minutes until heated through and well coated.",
+    "Finish with mozzarella, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4630,9 +4733,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep apple (6 min).",
+    "Toss apple and rolled oats with peanut butter so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 17 minutes until golden and cooked through.",
+    "Top with milk and eggs and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4702,9 +4807,11 @@
     }
    ],
    "instructions": [
-    "Prep and chop any fresh ingredients before heating the pan.",
-    "Cook over medium heat until golden and heated through, seasoning with salt and pepper.",
-    "Serve immediately while fresh."
+    "Prep and measure all ingredients: chop mushrooms, avocado, and garlic and set out whole wheat bread (5 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Sauté mushrooms, avocado, and garlic over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in mushrooms, avocado, and olive oil and cook for 2 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "BREAKFAST"
@@ -4782,9 +4889,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Toss all ingredients together with the dressing.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop avocado, cucumber, and lettuce and set out canned tuna (7 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add canned tuna seasoned with lemon juice and olive oil and cook for 9 minutes, turning until browned and cooked through.",
+    "Stir in avocado, cucumber, and lemon juice and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -4864,9 +4973,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop cucumber and set out canned tuna and white rice (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add canned tuna seasoned with mayonnaise and soy sauce and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in cucumber, mayonnaise, and soy sauce and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -4944,9 +5055,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop romaine lettuce and set out chicken breast and flour tortillas (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add chicken breast seasoned with lemon juice and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in romaine lettuce and lemon juice and cook for 4 minutes until heated through and well coated.",
+    "Finish with parmesan and greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5016,9 +5129,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop avocado and tomato and set out chicken breast, bacon, and flour tortillas (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add chicken breast and bacon seasoned with salt and pepper and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in avocado and tomato and cook for 4 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5096,9 +5211,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop cucumber and tomato and set out chicken breast and couscous (6 min).",
+    "Start cooking couscous according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with olive oil and lemon juice and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in cucumber, tomato, and olive oil and cook for 4 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5176,9 +5293,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop cucumber and tomato and set out canned chickpeas (6 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Sauté cucumber, tomato, and canned chickpeas over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in canned chickpeas, cucumber, and tomato and cook for 3 minutes until heated through and well coated.",
+    "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5257,9 +5376,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Toss all ingredients together with the dressing.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop celery and lettuce and set out whole wheat bread and canned chickpeas (7 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté celery, lettuce, and canned chickpeas over medium heat for 9 minutes until tender and lightly golden.",
+    "Stir in canned chickpeas, celery, and lettuce and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5337,9 +5458,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop tomato and set out white rice, black beans, and sweetcorn (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté tomato, black beans, and sweetcorn over medium heat for 7 minutes until tender and lightly golden.",
+    "Stir in black beans, sweetcorn, and tomato and cook for 5 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5416,9 +5539,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop tomato and set out chicken breast, white rice, and black beans (7 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with lime juice and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in black beans, sweetcorn, and tomato and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5488,9 +5613,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop tomato and set out bread (3 min).",
+    "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté tomato over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in tomato and italian seasoning and cook for 2 minutes until heated through and well coated.",
+    "Finish with mozzarella and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5560,9 +5687,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop the fresh items and set out sliced ham and bread (3 min).",
+    "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add sliced ham seasoned with dijon mustard and cook for 5 minutes, turning until browned and cooked through.",
+    "Stir in dijon mustard and cook for 2 minutes until heated through and well coated.",
+    "Finish with cheddar cheese and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5633,9 +5762,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop the fresh items and set out canned tuna and bread (5 min).",
+    "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add canned tuna seasoned with mayonnaise and cook for 5 minutes, turning until browned and cooked through.",
+    "Stir in mayonnaise and cook for 2 minutes until heated through and well coated.",
+    "Finish with cheddar cheese and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5712,9 +5843,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Dice onion and garlic and measure out chopped tomatoes and vegetable broth (6 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion and garlic for 4 minutes until fragrant and softened.",
+    "Stir in olive oil for 1 minute until aromatic, then add chopped tomatoes and vegetable broth.",
+    "Pour in chopped tomatoes and vegetable broth, bring to a gentle boil, then reduce heat and simmer uncovered for 12 minutes until tender.",
+    "Taste and adjust seasoning, stir in cream, and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5799,9 +5932,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Dice carrots, onion, and garlic and measure out vegetable broth and red lentils (6 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté carrots, onion, and garlic for 4 minutes until fragrant and softened.",
+    "Stir in ground cumin and lemon juice for 1 minute until aromatic, then add vegetable broth.",
+    "Pour in vegetable broth and red lentils, bring to a gentle boil, then reduce heat and simmer uncovered for 13 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5881,9 +6016,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Dice spring onion and measure out chicken breast, sweetcorn, and chicken broth (5 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté spring onion for 4 minutes until fragrant and softened.",
+    "Add chicken breast with soy sauce and cook for 5 minutes, stirring until browned.",
+    "Pour in sweetcorn, chicken broth, and egg noodles, bring to a gentle boil, then reduce heat and simmer uncovered for 10 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -5960,9 +6097,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Dice potatoes, onion, and garlic and measure out vegetable broth (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion and garlic for 4 minutes until fragrant and softened.",
+    "Stir in the spices for 1 minute until aromatic, then add vegetable broth and potatoes.",
+    "Pour in vegetable broth, bring to a gentle boil, then reduce heat and simmer uncovered for 13 minutes until tender.",
+    "Taste and adjust seasoning, stir in milk and butter, and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6039,9 +6178,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Dice bell pepper and onion and measure out black beans, chopped tomatoes, and vegetable broth (6 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté bell pepper and onion for 4 minutes until fragrant and softened.",
+    "Stir in ground cumin for 1 minute until aromatic, then add black beans, chopped tomatoes, and vegetable broth.",
+    "Pour in black beans, chopped tomatoes, and vegetable broth, bring to a gentle boil, then reduce heat and simmer uncovered for 12 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6113,9 +6254,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop baby spinach and set out flour tortillas (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté baby spinach over medium heat for 6 minutes until tender and lightly golden.",
+    "Stir in baby spinach and dijon mustard and cook for 4 minutes until heated through and well coated.",
+    "Finish with eggs and greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6193,9 +6336,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop tomato and baby spinach and prep chicken breast (6 min).",
+    "Cook penne pasta for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook chicken breast, tomato, and baby spinach for 5 minutes until golden and tender.",
+    "Add olive oil and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6266,9 +6411,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop cucumber and prep canned tuna (5 min).",
+    "Cook penne pasta for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook canned tuna and cucumber for 5 minutes until golden and tender.",
+    "Add sweetcorn and mayonnaise and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6340,9 +6487,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop avocado and cucumber and set out salmon fillet and white rice (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add salmon fillet seasoned with soy sauce and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in avocado, cucumber, and soy sauce and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6423,9 +6572,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop broccoli and garlic and prep firm tofu (6 min).",
+    "Cook noodles for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook firm tofu, broccoli, and garlic for 5 minutes until golden and tender.",
+    "Add peanut butter and soy sauce and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6495,9 +6646,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop bell pepper and set out chicken breast and flour tortillas (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add chicken breast seasoned with smoked paprika and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in bell pepper and smoked paprika and cook for 4 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6575,9 +6728,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop romaine lettuce and tomato and set out ground beef and black beans (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add ground beef seasoned with ground cumin and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in black beans, romaine lettuce, and tomato and cook for 4 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6654,9 +6809,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop sweet potato and baby spinach and set out canned chickpeas (8 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Sauté sweet potato, baby spinach, and canned chickpeas over medium heat for 12 minutes until tender and lightly golden.",
+    "Stir in canned chickpeas, sweet potato, and baby spinach and cook for 6 minutes until heated through and well coated.",
+    "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6734,9 +6891,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop mushrooms, baby spinach, and garlic and set out flour tortillas (5 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Sauté mushrooms, baby spinach, and garlic over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in mushrooms, baby spinach, and olive oil and cook for 3 minutes until heated through and well coated.",
+    "Finish with mozzarella, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6813,9 +6972,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop lettuce, cucumber, and tomato and set out chicken breast (6 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add chicken breast seasoned with olive oil and lemon juice and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in lettuce, cucumber, and olive oil and cook for 4 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6885,9 +7046,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep baking potato (5 min).",
+    "Toss canned tuna and baking potato with mayonnaise so everything is evenly coated.",
+    "Arrange in an even layer and spoon over sweetcorn. Roast or bake for 30 minutes until golden and cooked through.",
+    "Top with cheddar cheese and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -6948,9 +7111,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep baking potato (4 min).",
+    "Toss baking potato with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over baked beans. Roast or bake for 30 minutes until golden and cooked through.",
+    "Top with cheddar cheese and butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7030,9 +7195,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop baby spinach and garlic and prep your protein (4 min).",
+    "Cook ramen noodles for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook baby spinach and garlic for 5 minutes until golden and tender.",
+    "Add sweetcorn, soy sauce, and eggs and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7112,9 +7279,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop carrots and garlic and prep chicken breast (5 min).",
+    "Cook egg noodles for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook chicken breast, carrots, and garlic for 5 minutes until golden and tender.",
+    "Add soy sauce and olive oil and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7193,9 +7362,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop avocado and lettuce and set out flour tortillas and red kidney beans (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté avocado, lettuce, and red kidney beans over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in red kidney beans, avocado, and lettuce and cook for 2 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7270,9 +7441,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop potatoes and baby spinach and set out pork sausage (6 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add pork sausage seasoned with dijon mustard and olive oil and cook for 10 minutes, turning until browned and cooked through.",
+    "Stir in potatoes, baby spinach, and dijon mustard and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7350,9 +7523,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop apple and lettuce and set out chicken breast and flour tortillas (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add chicken breast seasoned with curry powder and cook for 5 minutes, turning until browned and cooked through.",
+    "Stir in apple, lettuce, and curry powder and cook for 3 minutes until heated through and well coated.",
+    "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7430,9 +7605,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop broccoli and frozen peas and prep sliced ham (5 min).",
+    "Cook penne pasta for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook sliced ham, broccoli, and frozen peas for 5 minutes until golden and tender.",
+    "Add olive oil and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7510,9 +7687,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop tomato and set out chicken breast and white rice (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with olive oil and italian seasoning and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in tomato, olive oil, and italian seasoning and cook for 5 minutes until heated through and well coated.",
+    "Finish with mozzarella, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7590,9 +7769,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep carrots (6 min).",
+    "Toss carrots, red lentils, and couscous with olive oil, lemon juice, and ground cumin so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 12 minutes until golden and cooked through.",
+    "Check tenderness with a fork and broil or crisp for 2 minutes if extra browning is desired.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7672,9 +7853,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop frozen peas and carrots and set out white rice (5 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté frozen peas and carrots over medium heat for 6 minutes until tender and lightly golden.",
+    "Stir in frozen peas, carrots, and soy sauce and cook for 4 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7745,9 +7928,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop broccoli and garlic and set out ground beef and white rice (5 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add ground beef seasoned with soy sauce and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in broccoli, garlic, and soy sauce and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7827,9 +8012,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop cabbage and carrots and set out chicken breast (8 min).",
+    "Warm a large skillet over medium-high heat with peanut butter for 1 minute.",
+    "Add chicken breast seasoned with peanut butter and soy sauce and cook for 5 minutes, turning until browned and cooked through.",
+    "Stir in cabbage, carrots, and peanut butter and cook for 3 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7908,9 +8095,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop cabbage and set out white fish fillets and flour tortillas (6 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add white fish fillets seasoned with lime juice and olive oil and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in cabbage, lime juice, and olive oil and cook for 4 minutes until heated through and well coated.",
+    "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -7980,9 +8169,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop baby spinach and set out flour tortillas and black beans (4 min).",
+    "Start cooking flour tortillas according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté baby spinach and black beans over medium heat for 5 minutes until tender and lightly golden.",
+    "Stir in black beans, baby spinach, and ground cumin and cook for 2 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -8060,9 +8251,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop zucchini, tomato, and garlic and prep your protein (5 min).",
+    "Cook spaghetti for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook zucchini, tomato, and garlic for 5 minutes until golden and tender.",
+    "Add olive oil and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -8140,9 +8333,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Prep and measure all ingredients: chop apple and cabbage and set out pork loin and flour tortillas (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add pork loin seasoned with dijon mustard and honey and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in apple, cabbage, and dijon mustard and cook for 4 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -8227,9 +8422,11 @@
     }
    ],
    "instructions": [
-    "Prepare vegetables, grains, and protein into bite-sized portions.",
-    "Cook the main protein or grains until tender and well-seasoned.",
-    "Assemble in bowls, wraps, or plates and serve fresh."
+    "Dice mushrooms, onion, and garlic and measure out vegetable broth and white rice (6 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion and garlic for 4 minutes until fragrant and softened.",
+    "Stir in the spices for 1 minute until aromatic, then add vegetable broth and mushrooms.",
+    "Pour in vegetable broth and white rice, bring to a gentle boil, then reduce heat and simmer uncovered for 12 minutes until tender.",
+    "Taste and adjust seasoning, stir in cream and butter, and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "LUNCH",
@@ -8308,9 +8505,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop broccoli and garlic and set out chicken breast and rice (8 min).",
+    "Start cooking rice according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with honey and soy sauce and cook for 11 minutes, turning until browned and cooked through.",
+    "Stir in broccoli, garlic, and honey and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -8394,9 +8593,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop potatoes, green beans, and garlic and set out chicken thigh (10 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add chicken thigh seasoned with lemon juice and olive oil and cook for 18 minutes, turning until browned and cooked through.",
+    "Stir in potatoes, green beans, and lemon juice and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -8473,9 +8674,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop spinach and garlic and prep chicken breast (8 min).",
+    "Cook penne for 10 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook chicken breast, spinach, and garlic for 5 minutes until golden and tender.",
+    "Add cream and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -8552,9 +8755,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop spinach and garlic and set out chicken breast, rice, and chopped tomatoes (8 min).",
+    "Start cooking rice according to package directions (about 12 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with salt and pepper and cook for 12 minutes, turning until browned and cooked through.",
+    "Stir in chopped tomatoes, spinach, and garlic and cook for 6 minutes until heated through and well coated.",
+    "Finish with cream, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -8630,9 +8835,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep sweet potato, bell pepper, and onion (10 min).",
+    "Toss chicken thigh, sweet potato, bell pepper, and onion with smoked paprika and olive oil so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 25 minutes until golden and cooked through.",
+    "Check tenderness with a fork and broil or crisp for 2 minutes if extra browning is desired.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -8725,9 +8932,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop onion and garlic and set out chicken thigh, basmati rice, and chopped tomatoes (10 min).",
+    "Start cooking basmati rice according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+    "Add chicken thigh seasoned with curry powder and cook for 13 minutes, turning until browned and cooked through.",
+    "Stir in chopped tomatoes, onion, and garlic and cook for 6 minutes until heated through and well coated.",
+    "Finish with cream and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -8812,9 +9021,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Dice carrots, frozen peas, and onion and measure out chicken thigh, coconut milk, and rice (10 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté carrots and onion for 4 minutes until fragrant and softened.",
+    "Add chicken thigh with curry powder and cook for 5 minutes, stirring until browned.",
+    "Pour in coconut milk and rice, bring to a gentle boil, then reduce heat and simmer uncovered for 14 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -8899,9 +9110,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop bell pepper and onion and set out chicken breast and tortillas (8 min).",
+    "Start cooking tortillas according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with ground cumin and smoked paprika and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in bell pepper, onion, and ground cumin and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -8986,9 +9199,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep all ingredients (8 min).",
+    "Toss chicken breast and rice with honey and smoked paprika so everything is evenly coated.",
+    "Arrange in an even layer and spoon over corn and tomato sauce. Roast or bake for 20 minutes until golden and cooked through.",
+    "Top with cheddar cheese and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9073,9 +9288,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop broccoli and garlic and prep chicken breast (7 min).",
+    "Cook pasta for 9 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook chicken breast, broccoli, and garlic for 5 minutes until golden and tender.",
+    "Add milk, parmesan, and butter and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9162,9 +9379,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Dice bell pepper and garlic and measure out chicken breast and egg noodles (7 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté bell pepper and garlic for 4 minutes until fragrant and softened.",
+    "Add chicken breast with soy sauce and honey and cook for 5 minutes, stirring until browned.",
+    "Pour in egg noodles, bring to a gentle boil, then reduce heat and simmer uncovered for 10 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9249,9 +9468,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop potatoes and frozen peas and set out chicken thigh and chicken broth (8 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add chicken thigh seasoned with dijon mustard and cook for 14 minutes, turning until browned and cooked through.",
+    "Stir in chicken broth, potatoes, and frozen peas and cook for 6 minutes until heated through and well coated.",
+    "Finish with cream and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9338,9 +9559,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop carrots and frozen peas and set out chicken breast and rice (7 min).",
+    "Start cooking rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with soy sauce and vegetable oil and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in carrots, frozen peas, and soy sauce and cook for 6 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9425,9 +9648,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop mushrooms, onion, and garlic and set out chicken thigh, rice, and chicken broth (8 min).",
+    "Start cooking rice according to package directions (about 14 minutes) so it finishes alongside the skillet.",
+    "Add chicken thigh seasoned with salt and pepper and cook for 14 minutes, turning until browned and cooked through.",
+    "Stir in chicken broth, mushrooms, and onion and cook for 6 minutes until heated through and well coated.",
+    "Finish with parmesan, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9511,9 +9736,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop cucumber and tomato and set out chicken breast and rice (8 min).",
+    "Start cooking rice according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with lemon juice and olive oil and cook for 11 minutes, turning until browned and cooked through.",
+    "Stir in cucumber, tomato, and lemon juice and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9597,9 +9824,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Dice carrots, onion, and garlic and measure out chicken thigh, beans, and chopped tomatoes (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté carrots, onion, and garlic for 4 minutes until fragrant and softened.",
+    "Add chicken thigh with salt and pepper and cook for 5 minutes, stirring until browned.",
+    "Pour in beans, chopped tomatoes, and chicken broth, bring to a gentle boil, then reduce heat and simmer uncovered for 16 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9684,9 +9913,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop potatoes and broccoli and set out chicken breast and all-purpose flour (8 min).",
+    "Start cooking all-purpose flour according to package directions (about 14 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with olive oil and garlic powder and cook for 14 minutes, turning until browned and cooked through.",
+    "Stir in potatoes, broccoli, and olive oil and cook for 6 minutes until heated through and well coated.",
+    "Finish with parmesan, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9771,9 +10002,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop zucchini, tomatoes, and garlic and set out chicken breast (6 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add chicken breast seasoned with olive oil and italian seasoning and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in zucchini, tomatoes, and olive oil and cook for 6 minutes until heated through and well coated.",
+    "Finish with parmesan, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9858,9 +10091,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop the fresh items and set out chicken breast, tortillas, and black beans (8 min).",
+    "Start cooking tortillas according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with ground cumin and cook for 11 minutes, turning until browned and cooked through.",
+    "Stir in black beans, chopped tomatoes, and sweetcorn and cook for 6 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -9946,9 +10181,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop cabbage, fresh ginger, and garlic and set out chicken thigh and rice (8 min).",
+    "Start cooking rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add chicken thigh seasoned with soy sauce and vegetable oil and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in cabbage, fresh ginger, and soy sauce and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10033,9 +10270,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Dice cauliflower, onion, and garlic and measure out chicken breast, coconut milk, and rice (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion and garlic for 4 minutes until fragrant and softened.",
+    "Add chicken breast with curry powder and cook for 5 minutes, stirring until browned.",
+    "Pour in coconut milk and rice, bring to a gentle boil, then reduce heat and simmer uncovered for 14 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10120,9 +10359,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep broccoli (8 min).",
+    "Toss chicken breast, broccoli, and rice with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over chicken broth. Roast or bake for 21 minutes until golden and cooked through.",
+    "Top with cheddar cheese and milk and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10206,9 +10447,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes, carrots, and onion (10 min).",
+    "Toss chicken thigh, potatoes, carrots, and onion with apple cider vinegar, honey, and olive oil so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 25 minutes until golden and cooked through.",
+    "Check tenderness with a fork and broil or crisp for 2 minutes if extra browning is desired.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10295,9 +10538,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Prep and measure all ingredients: chop cucumber and garlic and set out chicken breast and rice (7 min).",
+    "Start cooking rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add chicken breast seasoned with peanut butter and soy sauce and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in cucumber, garlic, and peanut butter and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10374,9 +10619,11 @@
     }
    ],
    "instructions": [
-    "Season the chicken with salt, pepper, and spices while prepping the vegetables.",
-    "Cook the chicken in a hot skillet or oven until golden and cooked through.",
-    "Combine with the sauce, vegetables, and cooked base; simmer 3–5 minutes and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep spinach and garlic (8 min).",
+    "Toss chicken breast, spinach, garlic, and penne with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over tomato pasta sauce. Roast or bake for 19 minutes until golden and cooked through.",
+    "Top with mozzarella and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10461,9 +10708,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop onion, carrots, and garlic and prep ground beef (8 min).",
+    "Cook spaghetti for 11 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook ground beef, onion, and carrots for 5 minutes until golden and tender.",
+    "Add chopped tomatoes and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10547,9 +10796,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Dice onion and bell pepper and measure out ground beef, red kidney beans, and chopped tomatoes (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion and bell pepper for 4 minutes until fragrant and softened.",
+    "Add ground beef with ground cumin and cook for 5 minutes, stirring until browned.",
+    "Pour in red kidney beans, chopped tomatoes, and white rice, bring to a gentle boil, then reduce heat and simmer uncovered for 18 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10635,9 +10886,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop garlic, fresh ginger, and spring onion and set out ground beef and white rice (5 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add ground beef seasoned with soy sauce and honey and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in garlic, fresh ginger, and soy sauce and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10714,9 +10967,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop lettuce and tomato and set out ground beef and flour tortillas (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add ground beef seasoned with ground cumin and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in lettuce, tomato, and ground cumin and cook for 5 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10793,9 +11048,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop onion and prep ground beef (6 min).",
+    "Cook macaroni pasta for 9 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook ground beef and onion for 5 minutes until golden and tender.",
+    "Add beef broth, tomato paste, and cheddar cheese and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10873,9 +11130,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop mushrooms and onion and set out ground beef, egg noodles, and beef broth (8 min).",
+    "Start cooking egg noodles according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+    "Add ground beef seasoned with salt and pepper and cook for 11 minutes, turning until browned and cooked through.",
+    "Stir in beef broth, mushrooms, and onion and cook for 6 minutes until heated through and well coated.",
+    "Finish with sour cream, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -10951,9 +11210,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Dice potatoes, carrots, and onion and measure out diced beef, beef broth, and tomato paste (12 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté carrots and onion for 4 minutes until fragrant and softened.",
+    "Add diced beef with salt and pepper and cook for 5 minutes, stirring until browned.",
+    "Pour in beef broth and tomato paste, bring to a gentle boil, then reduce heat and simmer uncovered for 29 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11030,9 +11291,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop bell pepper and onion and set out ground beef, white rice, and chopped tomatoes (7 min).",
+    "Start cooking white rice according to package directions (about 12 minutes) so it finishes alongside the skillet.",
+    "Add ground beef seasoned with salt and pepper and cook for 12 minutes, turning until browned and cooked through.",
+    "Stir in chopped tomatoes, bell pepper, and onion and cook for 6 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11101,9 +11364,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop potatoes, broccoli, and garlic and set out beef steak (8 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add beef steak seasoned with salt and pepper and cook for 10 minutes, turning until browned and cooked through.",
+    "Stir in potatoes and broccoli and cook for 6 minutes until heated through and well coated.",
+    "Finish with butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11181,9 +11446,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop cabbage, carrots, and garlic and set out ground beef and white rice (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add ground beef seasoned with soy sauce and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in cabbage, carrots, and soy sauce and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11261,9 +11528,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop garlic and prep ground beef (10 min).",
+    "Cook spaghetti for 11 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook ground beef and garlic for 5 minutes until golden and tender.",
+    "Add tomato pasta sauce, eggs, and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11331,9 +11600,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop sweet potato, baby spinach, and onion and set out ground beef (8 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add ground beef seasoned with smoked paprika and cook for 12 minutes, turning until browned and cooked through.",
+    "Stir in sweet potato, baby spinach, and smoked paprika and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11404,9 +11675,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop bell pepper and garlic and prep ground beef (6 min).",
+    "Cook egg noodles for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook ground beef, bell pepper, and garlic for 5 minutes until golden and tender.",
+    "Add soy sauce and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11482,9 +11755,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Dice potatoes and onion and measure out ground beef, chopped tomatoes, and white rice (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion for 4 minutes until fragrant and softened.",
+    "Add ground beef with curry powder and cook for 5 minutes, stirring until browned.",
+    "Pour in chopped tomatoes and white rice, bring to a gentle boil, then reduce heat and simmer uncovered for 16 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11569,9 +11844,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes, carrots, frozen peas, and onion (12 min).",
+    "Toss ground beef, potatoes, carrots, and frozen peas with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 27 minutes until golden and cooked through.",
+    "Top with cheddar cheese and butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11647,9 +11924,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop potatoes and green beans and set out pork chops (6 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add pork chops seasoned with dijon mustard and honey and cook for 12 minutes, turning until browned and cooked through.",
+    "Stir in potatoes, green beans, and dijon mustard and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11726,9 +12005,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes, carrots, and garlic (8 min).",
+    "Toss pork loin, potatoes, carrots, and garlic with thyme so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 23 minutes until golden and cooked through.",
+    "Top with butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11807,9 +12088,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop frozen peas and carrots and set out ground pork and white rice (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add ground pork seasoned with soy sauce and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in frozen peas, carrots, and soy sauce and cook for 6 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11888,9 +12171,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop cabbage, fresh ginger, and garlic and prep ground pork (6 min).",
+    "Cook egg noodles for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook ground pork, cabbage, and fresh ginger for 5 minutes until golden and tender.",
+    "Add soy sauce and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -11967,9 +12252,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop mushrooms and garlic and set out pork chops and white rice (8 min).",
+    "Start cooking white rice according to package directions (about 12 minutes) so it finishes alongside the skillet.",
+    "Add pork chops seasoned with salt and pepper and cook for 12 minutes, turning until browned and cooked through.",
+    "Stir in mushrooms and garlic and cook for 6 minutes until heated through and well coated.",
+    "Finish with cream and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12045,9 +12332,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop the fresh items and set out pork loin, white rice, and black beans (8 min).",
+    "Start cooking white rice according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+    "Add pork loin seasoned with ground cumin and lime juice and cook for 13 minutes, turning until browned and cooked through.",
+    "Stir in black beans, sweetcorn, and ground cumin and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12122,9 +12411,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop onion and garlic and prep pork sausage (6 min).",
+    "Cook penne pasta for 9 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook pork sausage, onion, and garlic for 5 minutes until golden and tender.",
+    "Add chopped tomatoes and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12199,9 +12490,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop baby spinach and garlic and prep pork sausage (6 min).",
+    "Cook penne pasta for 9 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook pork sausage, baby spinach, and garlic for 5 minutes until golden and tender.",
+    "Add cream and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12276,9 +12569,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop potatoes, cabbage, and onion and set out pork sausage (8 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add pork sausage seasoned with dijon mustard and olive oil and cook for 13 minutes, turning until browned and cooked through.",
+    "Stir in potatoes, cabbage, and dijon mustard and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12353,9 +12648,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop carrots, onion, and garlic and set out pork sausage, canned beans, and chopped tomatoes (8 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Add pork sausage seasoned with salt and pepper and cook for 14 minutes, turning until browned and cooked through.",
+    "Stir in canned beans, chopped tomatoes, and carrots and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12430,9 +12727,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop sweet potato and broccoli and set out pork sausage (8 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add pork sausage seasoned with dijon mustard and honey and cook for 17 minutes, turning until browned and cooked through.",
+    "Stir in sweet potato, broccoli, and dijon mustard and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12508,9 +12807,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop frozen peas and garlic and prep bacon (5 min).",
+    "Cook spaghetti for 7 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook bacon, frozen peas, and garlic for 5 minutes until golden and tender.",
+    "Add eggs and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12587,9 +12888,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes and broccoli (10 min).",
+    "Toss sliced ham, potatoes, and broccoli with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 27 minutes until golden and cooked through.",
+    "Top with cheddar cheese and milk and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12665,9 +12968,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop frozen peas and onion and set out lamb mince, basmati rice, and broth (8 min).",
+    "Start cooking basmati rice according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+    "Add lamb mince seasoned with ground cumin and cook for 13 minutes, turning until browned and cooked through.",
+    "Stir in broth, frozen peas, and onion and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12744,9 +13049,11 @@
     }
    ],
    "instructions": [
-    "Heat oil or butter in a large pan and brown the meat with onion and garlic.",
-    "Add the spices, vegetables, and liquids or sauce; cook until tender.",
-    "Serve hot over or tossed with the grains, pasta, or potatoes."
+    "Prep and measure all ingredients: chop tomato and cucumber and set out lamb mince and couscous (6 min).",
+    "Start cooking couscous according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add lamb mince seasoned with ground cumin and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in tomato, cucumber, and ground cumin and cook for 6 minutes until heated through and well coated.",
+    "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12825,9 +13132,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop broccoli and garlic and set out salmon fillet and white rice (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add salmon fillet seasoned with soy sauce and honey and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in broccoli, garlic, and soy sauce and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12904,9 +13213,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes, green beans, and garlic (8 min).",
+    "Toss salmon fillet, potatoes, green beans, and garlic with lemon juice so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 17 minutes until golden and cooked through.",
+    "Top with butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -12984,9 +13295,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop frozen peas and garlic and prep salmon fillet (6 min).",
+    "Cook penne pasta for 8 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook salmon fillet, frozen peas, and garlic for 5 minutes until golden and tender.",
+    "Add lemon juice and cream and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13055,9 +13368,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop sweet potato and baby spinach and set out salmon fillet (8 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add salmon fillet seasoned with smoked paprika and olive oil and cook for 13 minutes, turning until browned and cooked through.",
+    "Stir in sweet potato, baby spinach, and smoked paprika and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13137,9 +13452,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop carrots and spring onion and prep salmon fillet (6 min).",
+    "Cook egg noodles for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook salmon fillet, carrots, and spring onion for 5 minutes until golden and tender.",
+    "Add soy sauce and honey and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13217,9 +13534,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop tomato and cucumber and set out salmon fillet and couscous (6 min).",
+    "Start cooking couscous according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add salmon fillet seasoned with olive oil and lemon juice and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in tomato, cucumber, and olive oil and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13296,9 +13615,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes and broccoli (8 min).",
+    "Toss salmon fillet, potatoes, and broccoli with dijon mustard and honey so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 15 minutes until golden and cooked through.",
+    "Top with butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13375,9 +13696,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Dice baby spinach and onion and measure out salmon fillet, coconut milk, and white rice (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion for 4 minutes until fragrant and softened.",
+    "Add salmon fillet with curry powder and cook for 5 minutes, stirring until browned.",
+    "Pour in coconut milk and white rice, bring to a gentle boil, then reduce heat and simmer uncovered for 12 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13455,9 +13778,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop frozen peas and garlic and set out white fish fillets and white rice (5 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add white fish fillets seasoned with lemon juice and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in frozen peas, garlic, and lemon juice and cook for 5 minutes until heated through and well coated.",
+    "Finish with butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13534,9 +13859,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes and garlic (8 min).",
+    "Toss white fish fillets, potatoes, and garlic with olive oil and dried oregano so everything is evenly coated.",
+    "Arrange in an even layer and spoon over chopped tomatoes. Roast or bake for 19 minutes until golden and cooked through.",
+    "Check tenderness with a fork and broil or crisp for 2 minutes if extra browning is desired.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13613,9 +13940,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop potatoes and frozen peas and set out white fish fillets and all-purpose flour (8 min).",
+    "Start cooking all-purpose flour according to package directions (about 15 minutes) so it finishes alongside the skillet.",
+    "Add white fish fillets seasoned with olive oil and lemon juice and cook for 15 minutes, turning until browned and cooked through.",
+    "Stir in potatoes, frozen peas, and olive oil and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13693,9 +14022,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop bell pepper and set out white fish fillets, white rice, and sweetcorn (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add white fish fillets seasoned with smoked paprika and lime juice and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in sweetcorn, bell pepper, and smoked paprika and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13773,9 +14104,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Dice bell pepper and measure out white fish fillets, coconut milk, and white rice (7 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté bell pepper for 4 minutes until fragrant and softened.",
+    "Add white fish fillets with curry powder and lime juice and cook for 5 minutes, stirring until browned.",
+    "Pour in coconut milk and white rice, bring to a gentle boil, then reduce heat and simmer uncovered for 10 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13852,9 +14185,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep all ingredients (6 min).",
+    "Toss canned tuna and penne pasta with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over sweetcorn. Roast or bake for 17 minutes until golden and cooked through.",
+    "Top with milk and cheddar cheese and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -13932,9 +14267,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop garlic and prep canned tuna (5 min).",
+    "Cook spaghetti for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook canned tuna and garlic for 5 minutes until golden and tender.",
+    "Add chopped tomatoes, olive oil, and chili flakes and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14013,9 +14350,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop potatoes and lettuce and set out canned tuna and all-purpose flour (10 min).",
+    "Start cooking all-purpose flour according to package directions (about 10 minutes) so it finishes alongside the skillet.",
+    "Add canned tuna seasoned with olive oil and cook for 10 minutes, turning until browned and cooked through.",
+    "Stir in potatoes, lettuce, and olive oil and cook for 6 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14093,9 +14432,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop zucchini, tomato, and garlic and set out white fish fillets (5 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Add white fish fillets seasoned with olive oil and lemon juice and cook for 7 minutes, turning until browned and cooked through.",
+    "Stir in zucchini, tomato, and olive oil and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14167,9 +14508,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop broccoli and set out salmon fillet and white rice (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add salmon fillet seasoned with soy sauce and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in broccoli and soy sauce and cook for 6 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14249,9 +14592,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop green beans, fresh ginger, and garlic and prep white fish fillets (6 min).",
+    "Cook egg noodles for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook white fish fillets, green beans, and fresh ginger for 5 minutes until golden and tender.",
+    "Add soy sauce and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14329,9 +14674,11 @@
     }
    ],
    "instructions": [
-    "Season the fish with salt, pepper, and lemon or spices.",
-    "Bake or pan-sear until the fish flakes easily with a fork.",
-    "Serve alongside the prepared grains, pasta, or vegetables."
+    "Prep and measure all ingredients: chop baby spinach and set out canned tuna, bread, and canned beans (4 min).",
+    "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add canned tuna seasoned with olive oil and cook for 6 minutes, turning until browned and cooked through.",
+    "Stir in canned beans, chopped tomatoes, and baby spinach and cook for 4 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14415,9 +14762,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice baby spinach and onion and measure out canned chickpeas, coconut milk, and chopped tomatoes (6 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion for 4 minutes until fragrant and softened.",
+    "Stir in curry powder for 1 minute until aromatic, then add canned chickpeas, coconut milk, and chopped tomatoes.",
+    "Pour in canned chickpeas, coconut milk, and chopped tomatoes, bring to a gentle boil, then reduce heat and simmer uncovered for 12 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14502,9 +14851,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop carrots, onion, and garlic and set out red lentils, spaghetti, and chopped tomatoes (8 min).",
+    "Start cooking red lentils and spaghetti according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+    "Sauté carrots, onion, and garlic over medium heat for 13 minutes until tender and lightly golden.",
+    "Stir in chopped tomatoes, carrots, and onion and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14588,9 +14939,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice bell pepper and measure out black beans, red kidney beans, and chopped tomatoes (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté bell pepper for 4 minutes until fragrant and softened.",
+    "Stir in ground cumin for 1 minute until aromatic, then add black beans, red kidney beans, and chopped tomatoes.",
+    "Pour in black beans, red kidney beans, and chopped tomatoes, bring to a gentle boil, then reduce heat and simmer uncovered for 16 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14666,9 +15019,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop mushrooms and garlic and prep your protein (6 min).",
+    "Cook penne pasta for 8 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook mushrooms and garlic for 5 minutes until golden and tender.",
+    "Add cream, parmesan, and butter and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14753,9 +15108,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop broccoli and garlic and set out firm tofu and white rice (8 min).",
+    "Start cooking white rice according to package directions (about 10 minutes) so it finishes alongside the skillet.",
+    "Add firm tofu seasoned with soy sauce and honey and cook for 10 minutes, turning until browned and cooked through.",
+    "Stir in broccoli, garlic, and soy sauce and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14832,9 +15189,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep sweet potato and avocado (8 min).",
+    "Toss sweet potato, avocado, and flour tortillas with ground cumin and lime juice so everything is evenly coated.",
+    "Arrange in an even layer and spoon over black beans. Roast or bake for 15 minutes until golden and cooked through.",
+    "Check tenderness with a fork and broil or crisp for 2 minutes if extra browning is desired.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14910,9 +15269,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep cauliflower (8 min).",
+    "Toss cauliflower and white rice with olive oil and curry powder so everything is evenly coated.",
+    "Arrange in an even layer and spoon over canned chickpeas. Roast or bake for 20 minutes until golden and cooked through.",
+    "Top with greek yogurt and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -14989,9 +15350,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop frozen peas and prep your protein (5 min).",
+    "Cook macaroni pasta and all-purpose flour for 7 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook frozen peas for 5 minutes until golden and tender.",
+    "Add cheddar cheese, milk, and butter and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15059,9 +15422,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep baby spinach and garlic (6 min).",
+    "Toss baby spinach, garlic, and penne pasta with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over tomato pasta sauce. Roast or bake for 17 minutes until golden and cooked through.",
+    "Top with mozzarella and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15141,9 +15506,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop carrots and bell pepper and prep firm tofu (8 min).",
+    "Cook egg noodles for 7 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook firm tofu, carrots, and bell pepper for 5 minutes until golden and tender.",
+    "Add peanut butter and soy sauce and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15220,9 +15587,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop broccoli and garlic and prep your protein (5 min).",
+    "Cook spaghetti for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook broccoli and garlic for 5 minutes until golden and tender.",
+    "Add olive oil, lemon juice, and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15299,9 +15668,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice carrots and frozen peas and measure out firm tofu, coconut milk, and white rice (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté carrots for 4 minutes until fragrant and softened.",
+    "Add firm tofu with curry powder and cook for 5 minutes, stirring until browned.",
+    "Pour in coconut milk and white rice, bring to a gentle boil, then reduce heat and simmer uncovered for 12 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15377,9 +15748,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice sweet potato and onion and measure out chopped tomatoes, vegetable broth, and red lentils (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion for 4 minutes until fragrant and softened.",
+    "Stir in ground cumin for 1 minute until aromatic, then add chopped tomatoes, vegetable broth, and sweet potato.",
+    "Pour in chopped tomatoes, vegetable broth, and red lentils, bring to a gentle boil, then reduce heat and simmer uncovered for 16 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15465,9 +15838,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop bell pepper, mushrooms, and onion and set out flour tortillas and black beans (7 min).",
+    "Start cooking flour tortillas according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté bell pepper, mushrooms, and onion over medium heat for 8 minutes until tender and lightly golden.",
+    "Stir in black beans, bell pepper, and mushrooms and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15545,9 +15920,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop baby spinach and set out couscous, canned chickpeas, and chopped tomatoes (5 min).",
+    "Start cooking couscous according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté baby spinach, canned chickpeas, and chopped tomatoes over medium heat for 7 minutes until tender and lightly golden.",
+    "Stir in canned chickpeas, chopped tomatoes, and baby spinach and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15625,9 +16002,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop zucchini, tomato, and garlic and set out bread and canned chickpeas (6 min).",
+    "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté zucchini, tomato, and garlic over medium heat for 8 minutes until tender and lightly golden.",
+    "Stir in canned chickpeas, zucchini, and tomato and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15704,9 +16083,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop baby spinach and set out bread, canned beans, and chopped tomatoes (5 min).",
+    "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté baby spinach, canned beans, and chopped tomatoes over medium heat for 7 minutes until tender and lightly golden.",
+    "Stir in canned beans, chopped tomatoes, and baby spinach and cook for 5 minutes until heated through and well coated.",
+    "Finish with cream and parmesan, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15790,9 +16171,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice potatoes, frozen peas, and onion and measure out chopped tomatoes and basmati rice (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion for 4 minutes until fragrant and softened.",
+    "Stir in curry powder and olive oil for 1 minute until aromatic, then add chopped tomatoes, potatoes, and frozen peas.",
+    "Pour in chopped tomatoes and basmati rice, bring to a gentle boil, then reduce heat and simmer uncovered for 16 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15868,9 +16251,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop potatoes, cabbage, onion, and garlic and set out your staples (8 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté potatoes, cabbage, and onion over medium heat for 13 minutes until tender and lightly golden.",
+    "Stir in potatoes, cabbage, and smoked paprika and cook for 6 minutes until heated through and well coated.",
+    "Finish with butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -15949,9 +16334,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop frozen peas and carrots and set out firm tofu and white rice (7 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add firm tofu seasoned with soy sauce and vegetable oil and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in frozen peas, carrots, and soy sauce and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16027,9 +16414,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes, broccoli, and garlic (8 min).",
+    "Toss potatoes, broccoli, and garlic with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 23 minutes until golden and cooked through.",
+    "Top with cheddar cheese and milk and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16116,9 +16505,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop broccoli, bell pepper, and carrots and prep your protein (6 min).",
+    "Cook egg noodles for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook broccoli, bell pepper, and carrots for 5 minutes until golden and tender.",
+    "Add soy sauce and vegetable oil and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16195,9 +16586,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice onion and measure out chopped tomatoes and white rice (6 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion for 4 minutes until fragrant and softened.",
+    "Stir in curry powder and olive oil for 1 minute until aromatic, then add chopped tomatoes.",
+    "Pour in chopped tomatoes and white rice, bring to a gentle boil, then reduce heat and simmer uncovered for 12 minutes until tender.",
+    "Taste and adjust seasoning, stir in eggs, and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16273,9 +16666,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop mushrooms and baby spinach and set out white rice and vegetable broth (6 min).",
+    "Start cooking white rice according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+    "Sauté mushrooms, baby spinach, and vegetable broth over medium heat for 13 minutes until tender and lightly golden.",
+    "Stir in vegetable broth, mushrooms, and baby spinach and cook for 6 minutes until heated through and well coated.",
+    "Finish with parmesan and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16344,9 +16739,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop the fresh items and set out flour tortillas, black beans, and sweetcorn (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté black beans and sweetcorn over medium heat for 6 minutes until tender and lightly golden.",
+    "Stir in black beans, sweetcorn, and ground cumin and cook for 4 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16430,9 +16827,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes, carrots, frozen peas, and onion (10 min).",
+    "Toss potatoes, carrots, frozen peas, and onion with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over tomato paste. Roast or bake for 25 minutes until golden and cooked through.",
+    "Top with butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16508,9 +16907,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep cauliflower and garlic (8 min).",
+    "Toss cauliflower, garlic, and penne pasta with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 17 minutes until golden and cooked through.",
+    "Top with parmesan and butter and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16586,9 +16987,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop potatoes and baby spinach and set out canned chickpeas (8 min).",
+    "Warm a large skillet over medium-high heat with olive oil for 1 minute.",
+    "Sauté potatoes, baby spinach, and canned chickpeas over medium heat for 12 minutes until tender and lightly golden.",
+    "Stir in canned chickpeas, potatoes, and baby spinach and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16666,9 +17069,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop tomato and spring onion and set out white rice (5 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté tomato and spring onion over medium heat for 6 minutes until tender and lightly golden.",
+    "Stir in tomato, spring onion, and vegetable oil and cook for 4 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16744,9 +17149,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop zucchini and set out white rice, black beans, and chopped tomatoes (6 min).",
+    "Start cooking white rice according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+    "Sauté zucchini, black beans, and chopped tomatoes over medium heat for 11 minutes until tender and lightly golden.",
+    "Stir in black beans, chopped tomatoes, and zucchini and cook for 6 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16825,9 +17232,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop green beans and garlic and set out firm tofu and white rice (6 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Add firm tofu seasoned with soy sauce and vegetable oil and cook for 8 minutes, turning until browned and cooked through.",
+    "Stir in green beans, garlic, and soy sauce and cook for 6 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16904,9 +17313,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop frozen peas and garlic and prep your protein (4 min).",
+    "Cook spaghetti for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook frozen peas and garlic for 5 minutes until golden and tender.",
+    "Add lemon juice, cream, and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -16982,9 +17393,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice onion and garlic and measure out red kidney beans, chopped tomatoes, and basmati rice (6 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion and garlic for 4 minutes until fragrant and softened.",
+    "Stir in curry powder for 1 minute until aromatic, then add red kidney beans and chopped tomatoes.",
+    "Pour in red kidney beans, chopped tomatoes, and basmati rice, bring to a gentle boil, then reduce heat and simmer uncovered for 13 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17060,9 +17473,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop carrots and set out red lentils (8 min).",
+    "Start cooking red lentils according to package directions (about 14 minutes) so it finishes alongside the skillet.",
+    "Sauté carrots over medium heat for 14 minutes until tender and lightly golden.",
+    "Stir in carrots, honey, and ground cumin and cook for 6 minutes until heated through and well coated.",
+    "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17139,9 +17554,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop mushrooms, baby spinach, and garlic and set out flour tortillas (5 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté mushrooms, baby spinach, and garlic over medium heat for 6 minutes until tender and lightly golden.",
+    "Stir in mushrooms and baby spinach and cook for 4 minutes until heated through and well coated.",
+    "Finish with mozzarella and butter, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17226,9 +17643,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice carrots, celery, and baby spinach and measure out canned beans, chopped tomatoes, and vegetable broth (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté carrots and celery for 4 minutes until fragrant and softened.",
+    "Stir in the spices for 1 minute until aromatic, then add canned beans, chopped tomatoes, and vegetable broth.",
+    "Pour in canned beans, chopped tomatoes, and vegetable broth, bring to a gentle boil, then reduce heat and simmer uncovered for 14 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17305,9 +17724,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice sweet potato and baby spinach and measure out chopped tomatoes, vegetable broth, and white rice (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté the aromatics for 4 minutes until fragrant and softened.",
+    "Stir in peanut butter for 1 minute until aromatic, then add chopped tomatoes, vegetable broth, and sweet potato.",
+    "Pour in chopped tomatoes, vegetable broth, and white rice, bring to a gentle boil, then reduce heat and simmer uncovered for 16 minutes until tender.",
+    "Taste and adjust seasoning and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17385,9 +17806,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes and bell pepper (8 min).",
+    "Toss firm tofu, potatoes, and bell pepper with olive oil, garlic powder, and smoked paprika so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 23 minutes until golden and cooked through.",
+    "Check tenderness with a fork and broil or crisp for 2 minutes if extra browning is desired.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17463,9 +17886,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Dice potatoes and onion and measure out sweetcorn and vegetable broth (8 min).",
+    "Heat oil or butter in a large pot over medium heat. Sauté onion for 4 minutes until fragrant and softened.",
+    "Stir in the spices for 1 minute until aromatic, then add sweetcorn, vegetable broth, and potatoes.",
+    "Pour in sweetcorn and vegetable broth, bring to a gentle boil, then reduce heat and simmer uncovered for 14 minutes until tender.",
+    "Taste and adjust seasoning, stir in milk and cheddar cheese, and ladle hot into warm bowls."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17544,9 +17969,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop cauliflower, frozen peas, and carrots and set out your staples (8 min).",
+    "Warm a large skillet over medium-high heat with vegetable oil for 1 minute.",
+    "Sauté cauliflower, frozen peas, and carrots over medium heat for 7 minutes until tender and lightly golden.",
+    "Stir in cauliflower, frozen peas, and soy sauce and cook for 5 minutes until heated through and well coated.",
+    "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17622,9 +18049,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop tomato and lettuce and set out red lentils and flour tortillas (6 min).",
+    "Warm a large skillet over medium-high heat with a light drizzle of oil for 1 minute.",
+    "Sauté tomato and lettuce over medium heat for 11 minutes until tender and lightly golden.",
+    "Stir in tomato, lettuce, and ground cumin and cook for 6 minutes until heated through and well coated.",
+    "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17701,9 +18130,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Bring a large pot of salted water to a boil. Meanwhile, chop baby spinach and garlic and prep your protein (5 min).",
+    "Cook spaghetti for 6 minutes until al dente, reserving a splash of cooking water before draining.",
+    "In a wide skillet over medium-high heat, cook baby spinach and garlic for 5 minutes until golden and tender.",
+    "Add canned beans, olive oil, and parmesan and simmer for 3 minutes until glossy.",
+    "Toss the drained pasta into the skillet with a splash of pasta water to coat evenly, then serve hot."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17771,9 +18202,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep zucchini and garlic (8 min).",
+    "Toss zucchini, garlic, and white rice with oil, salt, and pepper so everything is evenly coated.",
+    "Arrange in an even layer and spoon over tomato pasta sauce. Roast or bake for 20 minutes until golden and cooked through.",
+    "Top with mozzarella and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17852,9 +18285,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Prep and measure all ingredients: chop broccoli, fresh ginger, and garlic and set out white rice and canned chickpeas (5 min).",
+    "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+    "Sauté broccoli, fresh ginger, and garlic over medium heat for 7 minutes until tender and lightly golden.",
+    "Stir in canned chickpeas, broccoli, and fresh ginger and cook for 5 minutes until heated through and well coated.",
+    "Taste and adjust salt or pepper, then plate and serve immediately."
    ],
    "supportedSlots": [
     "DINNER"
@@ -17931,9 +18366,11 @@
     }
    ],
    "instructions": [
-    "Prep the vegetables and aromatics while heating oil or butter in a large pan.",
-    "Sauté onion, garlic, and spices until fragrant, then add the main ingredients and simmer until tender.",
-    "Taste, adjust seasoning, and serve hot."
+    "Preheat your oven to 400°F (200°C) and line a baking sheet or ovenproof dish. Prep potatoes, mushrooms, and baby spinach (8 min).",
+    "Toss potatoes, mushrooms, and baby spinach with olive oil so everything is evenly coated.",
+    "Arrange in an even layer. Roast or bake for 13 minutes until golden and cooked through.",
+    "Top with eggs and cheddar cheese and return to the oven for 3 minutes until melted and bubbling.",
+    "Rest for 3 minutes off the heat, then plate and serve warm."
    ],
    "supportedSlots": [
     "DINNER"
