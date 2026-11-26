@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "country": "GB",
-  "dataVersion": "2026-11.6",
+  "dataVersion": "2026-11.7",
   "dishes": [
     {
       "id": "gb-shepherds-pie",
@@ -603,7 +603,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop the fresh items and set out crumpets (3 min).",
-        "Start cooking crumpets according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Bring a pot of salted water to a boil, add crumpets, and simmer for 8 minutes until tender, then drain well.",
         "Sauté the main ingredients over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in honey and cook for 2 minutes until heated through and well coated.",
         "Finish with butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -670,7 +670,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop banana and set out oats (3 min).",
-        "Start cooking oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Combine oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 8 minutes, stirring often until creamy.",
         "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in banana and honey and cook for 2 minutes until heated through and well coated.",
         "Finish with milk, taste and adjust salt or pepper, then plate and serve immediately."
@@ -1185,7 +1185,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop apple and lettuce and set out ham, pork pie, and bread (10 min).",
-        "Start cooking bread according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Add ham and pork pie seasoned with brown pickle and cook for 9 minutes, turning until browned and cooked through.",
         "Stir in apple, lettuce, and brown pickle and cook for 6 minutes until heated through and well coated.",
         "Finish with cheddar, taste and adjust salt or pepper, then plate and serve immediately."
@@ -2188,7 +2188,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop the fresh items and set out scones (5 min).",
-        "Start cooking scones according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+        "Bring a pot of salted water to a boil, add scones, and simmer for 9 minutes until tender, then drain well.",
         "Sauté the main ingredients over medium heat for 9 minutes until tender and lightly golden.",
         "Stir in jam and cook for 6 minutes until heated through and well coated.",
         "Finish with clotted cream, taste and adjust salt or pepper, then plate and serve immediately."
@@ -2285,7 +2285,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop onion and peppers and set out quorn mince, rice, and kidney beans (10 min).",
-        "Start cooking rice according to package directions (about 18 minutes) so it finishes alongside the skillet.",
+        "Rinse rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Add quorn mince seasoned with chilli powder and cumin and cook for 18 minutes, turning until browned and cooked through.",
         "Stir in kidney beans, chopped tomatoes, and onion and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -2360,7 +2360,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop banana and set out rolled oats (5 min).",
-        "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 8 minutes, stirring often until creamy.",
         "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in banana, ground cinnamon, and honey and cook for 3 minutes until heated through and well coated.",
         "Finish with milk, taste and adjust salt or pepper, then plate and serve immediately."
@@ -2427,7 +2427,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop banana and set out rolled oats (3 min).",
-        "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 8 minutes, stirring often until creamy.",
         "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in banana and peanut butter and cook for 2 minutes until heated through and well coated.",
         "Finish with milk, taste and adjust salt or pepper, then plate and serve immediately."
@@ -2575,7 +2575,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop strawberries and set out rolled oats (5 min).",
-        "Start cooking rolled oats according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 9 minutes, stirring often until creamy.",
         "Sauté strawberries over medium heat for 9 minutes until tender and lightly golden.",
         "Stir in strawberries and honey and cook for 6 minutes until heated through and well coated.",
         "Finish with greek yogurt and milk, taste and adjust salt or pepper, then plate and serve immediately."
@@ -2650,7 +2650,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop banana and set out rolled oats (4 min).",
-        "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 8 minutes, stirring often until creamy.",
         "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in banana, cocoa powder, and peanut butter and cook for 2 minutes until heated through and well coated.",
         "Finish with milk, taste and adjust salt or pepper, then plate and serve immediately."
@@ -2724,7 +2724,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop apple and set out rolled oats (5 min).",
-        "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 8 minutes, stirring often until creamy.",
         "Sauté apple over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in apple, ground cinnamon, and sugar and cook for 3 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -2798,7 +2798,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop baby spinach and set out rolled oats and chicken broth (5 min).",
-        "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 8 minutes, stirring often until creamy.",
         "Sauté baby spinach and chicken broth over medium heat for 6 minutes until tender and lightly golden.",
         "Stir in chicken broth and baby spinach and cook for 4 minutes until heated through and well coated.",
         "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
@@ -3166,7 +3166,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop potatoes and set out bacon and flour tortillas (8 min).",
-        "Start cooking flour tortillas according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast flour tortillas in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Add bacon seasoned with salt and pepper and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in potatoes and cook for 5 minutes until heated through and well coated.",
         "Finish with eggs and cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
@@ -3332,7 +3332,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop bell pepper, onion, and garlic and set out bread and chopped tomatoes (6 min).",
-        "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Sauté bell pepper, onion, and garlic over medium heat for 8 minutes until tender and lightly golden.",
         "Stir in chopped tomatoes, bell pepper, and onion and cook for 6 minutes until heated through and well coated.",
         "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
@@ -3547,7 +3547,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop strawberries and banana and set out rolled oats (4 min).",
-        "Start cooking rolled oats according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 9 minutes, stirring often until creamy.",
         "Sauté strawberries and banana over medium heat for 9 minutes until tender and lightly golden.",
         "Stir in strawberries, banana, and honey and cook for 6 minutes until heated through and well coated.",
         "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
@@ -3697,7 +3697,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop the fresh items and set out all-purpose flour (5 min).",
-        "Start cooking all-purpose flour according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Bring a pot of salted water to a boil, add all-purpose flour, and simmer for 8 minutes until tender, then drain well.",
         "Sauté the main ingredients over medium heat for 6 minutes until tender and lightly golden.",
         "Stir in baking powder and honey and cook for 4 minutes until heated through and well coated.",
         "Finish with milk and eggs, taste and adjust salt or pepper, then plate and serve immediately."
@@ -3772,7 +3772,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop banana and set out rolled oats (5 min).",
-        "Start cooking rolled oats according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 8 minutes, stirring often until creamy.",
         "Sauté banana over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in banana and ground cinnamon and cook for 3 minutes until heated through and well coated.",
         "Finish with eggs and butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -4081,7 +4081,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop baby spinach, bell pepper, and onion and set out firm tofu and bread (5 min).",
-        "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Add firm tofu seasoned with olive oil and cook for 6 minutes, turning until browned and cooked through.",
         "Stir in baby spinach, bell pepper, and olive oil and cook for 4 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -4578,7 +4578,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop banana and strawberries and set out rolled oats (5 min).",
-        "Start cooking rolled oats according to package directions (about 9 minutes) so it finishes alongside the skillet.",
+        "Combine rolled oats with milk or water and a pinch of salt in a small saucepan; simmer over medium-low heat for 9 minutes, stirring often until creamy.",
         "Sauté banana and strawberries over medium heat for 9 minutes until tender and lightly golden.",
         "Stir in banana and strawberries and cook for 6 minutes until heated through and well coated.",
         "Finish with greek yogurt and milk, taste and adjust salt or pepper, then plate and serve immediately."
@@ -5037,7 +5037,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop cucumber and set out canned tuna and white rice (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add canned tuna seasoned with mayonnaise and soy sauce and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in cucumber, mayonnaise, and soy sauce and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -5278,7 +5278,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop cucumber and tomato and set out chicken breast and couscous (6 min).",
-        "Start cooking couscous according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Place couscous in a heatproof bowl with an equal amount of boiling salted water, cover tightly for 5 minutes, then fluff with a fork.",
         "Add chicken breast seasoned with olive oil and lemon juice and cook for 6 minutes, turning until browned and cooked through.",
         "Stir in cucumber, tomato, and olive oil and cook for 4 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -5528,7 +5528,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop tomato and set out white rice, black beans, and sweetcorn (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Sauté tomato, black beans, and sweetcorn over medium heat for 7 minutes until tender and lightly golden.",
         "Stir in black beans, sweetcorn, and tomato and cook for 5 minutes until heated through and well coated.",
         "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
@@ -5610,7 +5610,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop tomato and set out chicken breast, white rice, and black beans (7 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add chicken breast seasoned with lime juice and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in black beans, sweetcorn, and tomato and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -5685,7 +5685,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop tomato and set out bread (3 min).",
-        "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Sauté tomato over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in tomato and italian seasoning and cook for 2 minutes until heated through and well coated.",
         "Finish with mozzarella and butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -5760,7 +5760,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop the fresh items and set out sliced ham and bread (3 min).",
-        "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Add sliced ham seasoned with dijon mustard and cook for 5 minutes, turning until browned and cooked through.",
         "Stir in dijon mustard and cook for 2 minutes until heated through and well coated.",
         "Finish with cheddar cheese and butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -5836,7 +5836,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop the fresh items and set out canned tuna and bread (5 min).",
-        "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Add canned tuna seasoned with mayonnaise and cook for 5 minutes, turning until browned and cooked through.",
         "Stir in mayonnaise and cook for 2 minutes until heated through and well coated.",
         "Finish with cheddar cheese and butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -6570,7 +6570,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop avocado and cucumber and set out salmon fillet and white rice (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add salmon fillet seasoned with soy sauce and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in avocado, cucumber, and soy sauce and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -7785,7 +7785,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop tomato and set out chicken breast and white rice (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add chicken breast seasoned with olive oil and italian seasoning and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in tomato, olive oil, and italian seasoning and cook for 5 minutes until heated through and well coated.",
         "Finish with mozzarella, taste and adjust salt or pepper, then plate and serve immediately."
@@ -7953,7 +7953,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop frozen peas and carrots and set out white rice (5 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Sauté frozen peas and carrots over medium heat for 6 minutes until tender and lightly golden.",
         "Stir in frozen peas, carrots, and soy sauce and cook for 4 minutes until heated through and well coated.",
         "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
@@ -8029,7 +8029,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop broccoli and garlic and set out ground beef and white rice (5 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add ground beef seasoned with soy sauce and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in broccoli, garlic, and soy sauce and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -8273,7 +8273,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop baby spinach and set out flour tortillas and black beans (4 min).",
-        "Start cooking flour tortillas according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast flour tortillas in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Sauté baby spinach and black beans over medium heat for 5 minutes until tender and lightly golden.",
         "Stir in black beans, baby spinach, and ground cumin and cook for 2 minutes until heated through and well coated.",
         "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
@@ -8613,7 +8613,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop broccoli and garlic and set out chicken breast and rice (8 min).",
-        "Start cooking rice according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+        "Rinse rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 14 minutes until tender and fluffy.",
         "Add chicken breast seasoned with honey and soy sauce and cook for 11 minutes, turning until browned and cooked through.",
         "Stir in broccoli, garlic, and honey and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -8866,7 +8866,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop spinach and garlic and set out chicken breast, rice, and chopped tomatoes (8 min).",
-        "Start cooking rice according to package directions (about 12 minutes) so it finishes alongside the skillet.",
+        "Rinse rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Add chicken breast seasoned with salt and pepper and cook for 12 minutes, turning until browned and cooked through.",
         "Stir in chopped tomatoes, spinach, and garlic and cook for 6 minutes until heated through and well coated.",
         "Finish with cream, taste and adjust salt or pepper, then plate and serve immediately."
@@ -9045,7 +9045,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop onion and garlic and set out chicken thigh, basmati rice, and chopped tomatoes (10 min).",
-        "Start cooking basmati rice according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+        "Rinse basmati rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Add chicken thigh seasoned with curry powder and cook for 13 minutes, turning until browned and cooked through.",
         "Stir in chopped tomatoes, onion, and garlic and cook for 6 minutes until heated through and well coated.",
         "Finish with cream and butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -9225,7 +9225,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop bell pepper and onion and set out chicken breast and tortillas (8 min).",
-        "Start cooking tortillas according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast tortillas in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Add chicken breast seasoned with ground cumin and smoked paprika and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in bell pepper, onion, and ground cumin and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -9679,7 +9679,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop carrots and frozen peas and set out chicken breast and rice (7 min).",
-        "Start cooking rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add chicken breast seasoned with soy sauce and vegetable oil and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in carrots, frozen peas, and soy sauce and cook for 6 minutes until heated through and well coated.",
         "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
@@ -9769,7 +9769,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop mushrooms, onion, and garlic and set out chicken thigh, rice, and chicken broth (8 min).",
-        "Start cooking rice according to package directions (about 14 minutes) so it finishes alongside the skillet.",
+        "Rinse rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Add chicken thigh seasoned with salt and pepper and cook for 14 minutes, turning until browned and cooked through.",
         "Stir in chicken broth, mushrooms, and onion and cook for 6 minutes until heated through and well coated.",
         "Finish with parmesan, taste and adjust salt or pepper, then plate and serve immediately."
@@ -9858,7 +9858,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop cucumber and tomato and set out chicken breast and rice (8 min).",
-        "Start cooking rice according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+        "Rinse rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 14 minutes until tender and fluffy.",
         "Add chicken breast seasoned with lemon juice and olive oil and cook for 11 minutes, turning until browned and cooked through.",
         "Stir in cucumber, tomato, and lemon juice and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -10037,7 +10037,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop potatoes and broccoli and set out chicken breast and all-purpose flour (8 min).",
-        "Start cooking all-purpose flour according to package directions (about 14 minutes) so it finishes alongside the skillet.",
+        "Bring a pot of salted water to a boil, add all-purpose flour, and simmer for 14 minutes until tender, then drain well.",
         "Add chicken breast seasoned with olive oil and garlic powder and cook for 14 minutes, turning until browned and cooked through.",
         "Stir in potatoes, broccoli, and olive oil and cook for 6 minutes until heated through and well coated.",
         "Finish with parmesan, taste and adjust salt or pepper, then plate and serve immediately."
@@ -10217,7 +10217,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop the fresh items and set out chicken breast, tortillas, and black beans (8 min).",
-        "Start cooking tortillas according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+        "Warm or toast tortillas in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Add chicken breast seasoned with ground cumin and cook for 11 minutes, turning until browned and cooked through.",
         "Stir in black beans, chopped tomatoes, and sweetcorn and cook for 6 minutes until heated through and well coated.",
         "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
@@ -10308,7 +10308,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop cabbage, fresh ginger, and garlic and set out chicken thigh and rice (8 min).",
-        "Start cooking rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add chicken thigh seasoned with soy sauce and vegetable oil and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in cabbage, fresh ginger, and soy sauce and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -10669,7 +10669,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop cucumber and garlic and set out chicken breast and rice (7 min).",
-        "Start cooking rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add chicken breast seasoned with peanut butter and soy sauce and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in cucumber, garlic, and peanut butter and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -11021,7 +11021,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop garlic, fresh ginger, and spring onion and set out ground beef and white rice (5 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add ground beef seasoned with soy sauce and honey and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in garlic, fresh ginger, and soy sauce and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -11268,7 +11268,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop mushrooms and onion and set out ground beef, egg noodles, and beef broth (8 min).",
-        "Start cooking egg noodles according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+        "Bring a pot of water to a boil, add egg noodles, and cook for 8 minutes until tender, then drain well.",
         "Add ground beef seasoned with salt and pepper and cook for 11 minutes, turning until browned and cooked through.",
         "Stir in beef broth, mushrooms, and onion and cook for 6 minutes until heated through and well coated.",
         "Finish with sour cream, taste and adjust salt or pepper, then plate and serve immediately."
@@ -11431,7 +11431,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop bell pepper and onion and set out ground beef, white rice, and chopped tomatoes (7 min).",
-        "Start cooking white rice according to package directions (about 12 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Add ground beef seasoned with salt and pepper and cook for 12 minutes, turning until browned and cooked through.",
         "Stir in chopped tomatoes, bell pepper, and onion and cook for 6 minutes until heated through and well coated.",
         "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
@@ -11588,7 +11588,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop cabbage, carrots, and garlic and set out ground beef and white rice (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add ground beef seasoned with soy sauce and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in cabbage, carrots, and soy sauce and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -12238,7 +12238,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop frozen peas and carrots and set out ground pork and white rice (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add ground pork seasoned with soy sauce and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in frozen peas, carrots, and soy sauce and cook for 6 minutes until heated through and well coated.",
         "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
@@ -12404,7 +12404,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop mushrooms and garlic and set out pork chops and white rice (8 min).",
-        "Start cooking white rice according to package directions (about 12 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Add pork chops seasoned with salt and pepper and cook for 12 minutes, turning until browned and cooked through.",
         "Stir in mushrooms and garlic and cook for 6 minutes until heated through and well coated.",
         "Finish with cream and butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -12485,7 +12485,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop the fresh items and set out pork loin, white rice, and black beans (8 min).",
-        "Start cooking white rice according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Add pork loin seasoned with ground cumin and lime juice and cook for 13 minutes, turning until browned and cooked through.",
         "Stir in black beans, sweetcorn, and ground cumin and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -13129,7 +13129,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop frozen peas and onion and set out lamb mince, basmati rice, and broth (8 min).",
-        "Start cooking basmati rice according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+        "Rinse basmati rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Add lamb mince seasoned with ground cumin and cook for 13 minutes, turning until browned and cooked through.",
         "Stir in broth, frozen peas, and onion and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -13211,7 +13211,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop tomato and cucumber and set out lamb mince and couscous (6 min).",
-        "Start cooking couscous according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Place couscous in a heatproof bowl with an equal amount of boiling salted water, cover tightly for 5 minutes, then fluff with a fork.",
         "Add lamb mince seasoned with ground cumin and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in tomato, cucumber, and ground cumin and cook for 6 minutes until heated through and well coated.",
         "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
@@ -13295,7 +13295,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop broccoli and garlic and set out salmon fillet and white rice (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add salmon fillet seasoned with soy sauce and honey and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in broccoli, garlic, and soy sauce and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -13702,7 +13702,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop tomato and cucumber and set out salmon fillet and couscous (6 min).",
-        "Start cooking couscous according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Place couscous in a heatproof bowl with an equal amount of boiling salted water, cover tightly for 5 minutes, then fluff with a fork.",
         "Add salmon fillet seasoned with olive oil and lemon juice and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in tomato, cucumber, and olive oil and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -13949,7 +13949,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop frozen peas and garlic and set out white fish fillets and white rice (5 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add white fish fillets seasoned with lemon juice and cook for 7 minutes, turning until browned and cooked through.",
         "Stir in frozen peas, garlic, and lemon juice and cook for 5 minutes until heated through and well coated.",
         "Finish with butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -14113,7 +14113,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop potatoes and frozen peas and set out white fish fillets and all-purpose flour (8 min).",
-        "Start cooking all-purpose flour according to package directions (about 15 minutes) so it finishes alongside the skillet.",
+        "Bring a pot of salted water to a boil, add all-purpose flour, and simmer for 15 minutes until tender, then drain well.",
         "Add white fish fillets seasoned with olive oil and lemon juice and cook for 15 minutes, turning until browned and cooked through.",
         "Stir in potatoes, frozen peas, and olive oil and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -14196,7 +14196,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop bell pepper and set out white fish fillets, white rice, and sweetcorn (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add white fish fillets seasoned with smoked paprika and lime juice and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in sweetcorn, bell pepper, and smoked paprika and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -14528,7 +14528,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop potatoes and lettuce and set out canned tuna and all-purpose flour (10 min).",
-        "Start cooking all-purpose flour according to package directions (about 10 minutes) so it finishes alongside the skillet.",
+        "Bring a pot of salted water to a boil, add all-purpose flour, and simmer for 10 minutes until tender, then drain well.",
         "Add canned tuna seasoned with olive oil and cook for 10 minutes, turning until browned and cooked through.",
         "Stir in potatoes, lettuce, and olive oil and cook for 6 minutes until heated through and well coated.",
         "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
@@ -14688,7 +14688,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop broccoli and set out salmon fillet and white rice (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add salmon fillet seasoned with soy sauce and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in broccoli and soy sauce and cook for 6 minutes until heated through and well coated.",
         "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
@@ -14856,7 +14856,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop baby spinach and set out canned tuna, bread, and canned beans (4 min).",
-        "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Add canned tuna seasoned with olive oil and cook for 6 minutes, turning until browned and cooked through.",
         "Stir in canned beans, chopped tomatoes, and baby spinach and cook for 4 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -15035,7 +15035,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop carrots, onion, and garlic and set out red lentils, spaghetti, and chopped tomatoes (8 min).",
-        "Start cooking red lentils and spaghetti according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+        "Bring a pot of salted water to a rolling boil, add red lentils and spaghetti, and cook uncovered for 12 minutes until al dente, then drain (reserving a splash of pasta water).",
         "Sauté carrots, onion, and garlic over medium heat for 13 minutes until tender and lightly golden.",
         "Stir in chopped tomatoes, carrots, and onion and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -15295,7 +15295,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop broccoli and garlic and set out firm tofu and white rice (8 min).",
-        "Start cooking white rice according to package directions (about 10 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 13 minutes until tender and fluffy.",
         "Add firm tofu seasoned with soy sauce and honey and cook for 10 minutes, turning until browned and cooked through.",
         "Stir in broccoli, garlic, and soy sauce and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -16034,7 +16034,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop bell pepper, mushrooms, and onion and set out flour tortillas and black beans (7 min).",
-        "Start cooking flour tortillas according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast flour tortillas in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Sauté bell pepper, mushrooms, and onion over medium heat for 8 minutes until tender and lightly golden.",
         "Stir in black beans, bell pepper, and mushrooms and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -16117,7 +16117,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop baby spinach and set out couscous, canned chickpeas, and chopped tomatoes (5 min).",
-        "Start cooking couscous according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Place couscous in a heatproof bowl with an equal amount of boiling salted water, cover tightly for 5 minutes, then fluff with a fork.",
         "Sauté baby spinach, canned chickpeas, and chopped tomatoes over medium heat for 7 minutes until tender and lightly golden.",
         "Stir in canned chickpeas, chopped tomatoes, and baby spinach and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -16200,7 +16200,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop zucchini, tomato, and garlic and set out bread and canned chickpeas (6 min).",
-        "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Sauté zucchini, tomato, and garlic over medium heat for 8 minutes until tender and lightly golden.",
         "Stir in canned chickpeas, zucchini, and tomato and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -16282,7 +16282,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop baby spinach and set out bread, canned beans, and chopped tomatoes (5 min).",
-        "Start cooking bread according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Warm or toast bread in a dry pan or toaster for 2 minutes until lightly golden and ready to serve.",
         "Sauté baby spinach, canned beans, and chopped tomatoes over medium heat for 7 minutes until tender and lightly golden.",
         "Stir in canned beans, chopped tomatoes, and baby spinach and cook for 5 minutes until heated through and well coated.",
         "Finish with cream and parmesan, taste and adjust salt or pepper, then plate and serve immediately."
@@ -16536,7 +16536,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop frozen peas and carrots and set out firm tofu and white rice (7 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add firm tofu seasoned with soy sauce and vegetable oil and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in frozen peas, carrots, and soy sauce and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -16872,7 +16872,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop mushrooms and baby spinach and set out white rice and vegetable broth (6 min).",
-        "Start cooking white rice according to package directions (about 13 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 15 minutes until tender and fluffy.",
         "Sauté mushrooms, baby spinach, and vegetable broth over medium heat for 13 minutes until tender and lightly golden.",
         "Stir in vegetable broth, mushrooms, and baby spinach and cook for 6 minutes until heated through and well coated.",
         "Finish with parmesan and butter, taste and adjust salt or pepper, then plate and serve immediately."
@@ -17280,7 +17280,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop tomato and spring onion and set out white rice (5 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Sauté tomato and spring onion over medium heat for 6 minutes until tender and lightly golden.",
         "Stir in tomato, spring onion, and vegetable oil and cook for 4 minutes until heated through and well coated.",
         "Finish with eggs, taste and adjust salt or pepper, then plate and serve immediately."
@@ -17361,7 +17361,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop zucchini and set out white rice, black beans, and chopped tomatoes (6 min).",
-        "Start cooking white rice according to package directions (about 11 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 14 minutes until tender and fluffy.",
         "Sauté zucchini, black beans, and chopped tomatoes over medium heat for 11 minutes until tender and lightly golden.",
         "Stir in black beans, chopped tomatoes, and zucchini and cook for 6 minutes until heated through and well coated.",
         "Finish with cheddar cheese, taste and adjust salt or pepper, then plate and serve immediately."
@@ -17445,7 +17445,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop green beans and garlic and set out firm tofu and white rice (6 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Add firm tofu seasoned with soy sauce and vegetable oil and cook for 8 minutes, turning until browned and cooked through.",
         "Stir in green beans, garlic, and soy sauce and cook for 6 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
@@ -17689,7 +17689,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop carrots and set out red lentils (8 min).",
-        "Start cooking red lentils according to package directions (about 14 minutes) so it finishes alongside the skillet.",
+        "Rinse red lentils, place in a saucepan with triple its volume of water, and simmer gently for 14 minutes until tender, then drain.",
         "Sauté carrots over medium heat for 14 minutes until tender and lightly golden.",
         "Stir in carrots, honey, and ground cumin and cook for 6 minutes until heated through and well coated.",
         "Finish with greek yogurt, taste and adjust salt or pepper, then plate and serve immediately."
@@ -18511,7 +18511,7 @@
       ],
       "instructions": [
         "Prep and measure all ingredients: chop broccoli, fresh ginger, and garlic and set out white rice and canned chickpeas (5 min).",
-        "Start cooking white rice according to package directions (about 8 minutes) so it finishes alongside the skillet.",
+        "Rinse white rice under cold water, add to a saucepan with double its volume of salted water, bring to a boil, then cover and simmer on low for 11 minutes until tender and fluffy.",
         "Sauté broccoli, fresh ginger, and garlic over medium heat for 7 minutes until tender and lightly golden.",
         "Stir in canned chickpeas, broccoli, and fresh ginger and cook for 5 minutes until heated through and well coated.",
         "Taste and adjust salt or pepper, then plate and serve immediately."
